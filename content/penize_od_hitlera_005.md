@@ -1,6 +1,5 @@
 ---
 title: ''
-subtitle: ''
 ---
 
 Tuto knihu věnuji:

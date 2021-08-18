@@ -1,7 +1,8 @@
 ---
 title: Návrat druhý(léto 2005)
-subtitle: "Držet čas v\_zubech"
 ---
+
+## Držet čas v zubech
 
 Paní doktorka Lauschmannová odhodí inkoustové pero; to se odkutálí na podlahu.
 
@@ -41,7 +42,7 @@ Tajuplné vůně a směs erotického jiskření, kdy čas stál, jen se nehybn�
 
 Byli řádnými československými občany.
 
-Predátor
+## Predátor
 
 Neusmívám se, ne, jen…
 
@@ -129,7 +130,7 @@ Odcházím se vztyčenou hlavou.
 
 Je nádherně. Vzduch svěží, vůbec ne horký, i když slunce praží.
 
-Rozteklá láva
+## Rozteklá láva
 
 Denis zabouchne dveře své ordinace. Z prokrémovaných jemných prstů zrzavé sestřičky převezme telefon. Sluchátko vloží mezi vyvýšené rameno a nakloněný krk. Uvolněnýma rukama cvičí: rozpaží a trupem trhavě otáčí střídavě k jedné a k druhé straně.
 
@@ -209,7 +210,7 @@ Rozeběhne se ke dveřím. Pravá noha podklouzne jako v kolečkových bruslíc
 
 A zapije hltem zteplalé Pepsi-Coly.
 
-Ledy pukají
+## Ledy pukají
 
 Uběhnou čtyři dny.
 
@@ -263,7 +264,7 @@ Ještě dnes je klidný.
 
 Bere si slovo a vstupuje do ringu.
 
-Čamrdy kmitají
+## Čamrdy kmitají
 
 Nataša kmitá za pultem jako čamrda, cinká basami piv. Je pátek, lidé se zásobují na žíznivý víkend, šťastní lufťáci plní baťohy. Nataša schová pecny pod pult; chleba je jen pro místní, zato čočky má dostatek. Při nákupu nad sto korun dostane každý jako bonus papírový minipytlík s chrastivou čočkou, jedna porce výživné polévky. Nataša má na sobě sváteční šaty a umně sčesaný drdůlek, Hanka Malá jí ho nakadeřila. Ať si ta pražská bába nemyslí. Nejraději by zamkla krám a šla šmírovat pod rozevřená okna obecního úřadu. Jenomže kšeft je kšeft.
 
@@ -303,7 +304,7 @@ Ani pořízek ve flanelu se nedá odradit od svého dovětku.
 
 „No, starej Lauschmann přece.“
 
-Ring volný
+## Ring volný
 
 Barbora si navléká boxerské rukavice. Nadzdvihne provazy, skloní hlavu. I ona vstoupí do kolbiště slov. Tuží se. Přítomné zpraží pohledem, osmahne na pánvi svého pohrdání.
 
@@ -349,7 +350,7 @@ Návraty proti proudu času cenzuruju ve vzpomínkách. A nakonec si je musím 
 
 Takže ta dnešní rána pod pás ještě nebude smrtelná.
 
-Zestárlí lvi
+## Zestárlí lvi
 
 Nataša za závěsem ofukuje hnědavé knoflíky z lopatky a plní jimi další a další sáčky; bonusy zdarma jdou rychle na odbyt. Hanka Malá vystrnadila chataře, který se dožadoval čerstvých rohlíků. Za pultem zbývá stará Drbavá. Nataša před ni položí prémiovou dávku čočky.
 
@@ -461,7 +462,7 @@ Tuhnu, pozoruju Stolařovy chlupaté ruce a hrbolatý nehet na palci, zažloutl
 
 Zabránit tomu nelze.
 
-Bonus
+## Bonus
 
 Mistr Oujezdský vejde, zpoza závěsu ženské ruce přivezou kolečkové křeslo, je usazen, hýčkán, popostrkován podél pultu, aby se neunavil. Blahosklonně přebírá do rozevřené nákupní tašky na kolečkách a do batohu čerstvý chléb, rohlíky, trvanlivý lovecký salám, kuřecí šunku, věnec špekáčků, čabajku, kremžskou hořčici, tuzemský rum, lahev koňaku, oříšky kešu, mandle, dvacet piv. Obě dámy snášejí jako pil­né včelky z regálů mlsy. Mistr Oujezdský vyjeveně sleduje, jak před ním třetí omámená víla, Drbavá, s každou stokorunou odpočítává a vrství záhadné trpasličí papírové sáčky.
 
@@ -531,7 +532,7 @@ První šok a ohromení zamrzne. Už neroztaje. Lepkavé napětí. Bára zatuhl
 
 Mínění ostatních mě nezajímá. Ale vždycky mě dostihne.
 
-Rozesmátí paňácové
+## Rozesmátí paňácové
 
 Promluvím ke všem a k nikomu.
 
@@ -617,7 +618,7 @@ Teď už ne.
 
 Než odešli, vytáhli si ze spíže slaninu a chleba. V těch dlouhých minutách, než se vrátila teta Ottla a můj muž Adolf Sráz, který vás, pane starosto, tak dojímá, v těch minutách, kdy jsem se tělíčka nemohla dotknout, jenom prsty u nohou, kdy jsem tělíčko nemohla oživit, teprve v těch minutách se mi mozek skutečně zatemnil. Já jsem přece tak často nechtěla mít nic společného s tímto světem. Se světem živých. A tehdy se to krátce podařilo. Můj mozek pohltila černá, mrtvá prázdnota. A byla tak úlevná.“
 
-Betonový bunkr
+## Betonový bunkr
 
 Oujezdský dorazí do Prahy s upitým portským po boku. Pobryndal si volant a tričko. Prsty se mlaskavě přilepily. Těžký odér vína a potu se mísí nad jeho hlavou.
 
@@ -657,7 +658,7 @@ Pozdě, milánkové, pozdě. Nic mě nezastaví. Ať už se tu obracím na kohok
 
 A provaziště se mění v betonový bunkr.
 
-Rozkymácená znamení
+## Rozkymácená znamení
 
 Nataša září štěstím, políbí rozkymácená písmena.
 
@@ -699,7 +700,7 @@ Stolař si mne lalůček. Propíchat mu zrezivělým hřebíkem několik otvorů
 
 Adolf Sráz, můj domnělý manžel, moje domnělá opora a můj dnešní přízrak, za mnou do nemocnice přišel. S tetou. On jedinkrát. Ottla přicházela každý den. Dokonce jsem se na setkání s ním těšila, těšila jsem se na lidské teplo, do kterého se zavinu; zaklesneme se do sebe jako poprvé, protože nás oba potkala taková… taková stmelující ztráta. Těšila jsem se na jeho jméno; znal pocity parchantů, kterým ves neodpouští. Jenomže on už měl v hlavě všechno srovnané. Přišel jenom proto, aby mi řekl, že jeho syna zabili, protože… jeho syn zemřel, protože… jsem si já užívala. Viník jsem byla já! Neunesl ten stud, co se na něho nalepil životem se mnou. Jak rád by vstoupil do časové smyčky, tentokrát mě na schodišti fakulty obloukem minul a vrátil se do svého života… Napsal sebelítostivý dopis a opustil peklo na zemi, jaké jsem mu prý já přichystala. Oběsil se na půdě domu, v němž jsme bydleli, slaboch. Na prádelní šňůře nájemnice, jejíž syn mě požádal, zda bych mu neulevila od bolesti v podbřišku. Nájemnice, která se za svobodna jmenovala Poledňáková. Nájemnice, která po celý život tak dojemně pečovala o svého mladšího bratra, co se uhnízdil v Puklicích… Která vynášela odpadky, slídila a důvěrně tokala s mým mužem, po chodbách i činžovním dvorku padesátých let pohazovala jedovaté otazníky kolem mé minulosti a krmila jimi svého syna. A byla to zrovna ona, kdo manžela našel. Když vystoupala s košem na prádlo sbírat pod střechu vyprané, suché ložní povlečení. Modře kostičkované povlečení.“
 
-Zamrzlá moře
+## Zamrzlá moře
 
 Nataša do beden od banánů přepečlivě skládá a rovná Mistrovy autogramy.
 
@@ -745,7 +746,7 @@ Nádherný, skvostně úlevný vztek.
 
 V každodenních přílivech rudého horka zamrzlá moře neroztála. Musí se dobývat sekyrou, prosekávat otvory. Ano, prosekávat otvory.
 
-Přebarvený vlas
+## Přebarvený vlas
 
 Drbavá se přiřítí ve zbrusu novém šátku, se stopami nevyžehlených skladů na skráních. Za ní se vyvalí houf vykulených ženských. Nataša udiveně odhrne závěs, přelízne srpek rtů čerstvě přetřených rtěnkou. Vrátí se k pultu.
 
@@ -837,7 +838,7 @@ Zachechtám se.
 
 „Ano. Jistě. Co jiného byste také očekával, pane doktore? Krev, která vytekla z rodičů, z Rozálie, z bratra Adina, z mého synka Rudolfa. Ta krev se napumpovala do mého srdce. Do mých tepen a žil a vlásečnic. A jsou chvíle, kdy ji musím upouštět. Než ty vaše prolhané ksichty i s tím vaším vystlaným kukaččím puklickým hnízdem spláchne pořádný krvavý šplouch. S konečnou platností. A do pekel.“
 
-Olámaná křídla
+## Olámaná křídla
 
 Regály se prázdní, vydávají z posledního. Hanka Malá sfoukává prach z kulatých víček i balení krabic, do netrpělivých náručí odhazuje prošlé ležáky. Z pyramidy ve výkladu polapí hrdlo lepkavé Pepsi-Coly; skončí v síťovce. Pyramida se snižuje, podklesává, uřícená Nataša prodává prázdné obaly od sýrů a kakaa. Jako kuchyňskou dekoraci. Po desetikoruně. Na poslední chvíli vyrve z Hančiných rukou prázdné sklenice od okurek.
 
@@ -917,7 +918,7 @@ Vymrští se, stisk váhavě a dlouze opětuje. Skloněné oči neodtrhne od m�
 
 Civí na moje ruce. Ne, není to poprvé, Denisi. Civět jste měl, když byly neporušené. Když teta Ottla sehnala protekční místo závodní lékařky ČKD. Na pražské periferii. Záskok za lékaře, který odjel na několikaměsíční stáž. K vysněné patologii jsem se dlouho nemohla prodrat. Tehdy jsem ani plášť nedopla…
 
-Další, prosím
+## Další, prosím
 
 Pracuju v pokročilém stupni těhotenství, bílý plášť nedopínám. Po večerech horlivě studuju. Z knihoven do síťovky lovím tučné úlovky, tuny knih. Patologie. Neuropatologie. Musím být připravená na svůj okamžik. V přeplněné ordinaci neslyšně proplouvám kolem pacientů, proplouvám vzduchem s přirostlým měchýřem. Pohupující se mlčenlivá ryba. Která jemně nadlétává a měkce došlapuje zpátky na zem. Přes sklo akvária naslouchám jejich nářkům, dotýkám se jejich těl.
 
@@ -1031,7 +1032,7 @@ Helena hledá stopy řezu. Převrací mé dlaně sem a tam, prohmatává na obo
 
 A vlepí mi facku.
 
-Dalekohled
+## Dalekohled
 
 „Tak připravený?“
 
@@ -1081,7 +1082,7 @@ Holič sebou polekaně trhne. Přihladí lepkavě zcuchaný vlas na skráni. Vyp
 
 „Já se jmenuju Malý, paninko, Vlastimil Malý. Rodilý Čech. Dycinky rodilý Čech.“
 
-Čistý vzduch
+## Čistý vzduch
 
 Nataša s Hankou Malou a paní Drbavou obejdou budovu, našlapují zlehka v letním prachu, zarazí se pod otevřeným oknem zasedací místnosti.
 

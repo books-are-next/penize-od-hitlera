@@ -1,7 +1,8 @@
 ---
 title: Návrat první(léto 1945)
-subtitle: Mrazivá krusta
 ---
+
+## Mrazivá krusta
 
 Po návratu odtamtud žiju jako pod tlustou vrstvou ledu, na kterém všichni ostatní dychtivě bruslí, s radostně rozpálenými tvářemi. Hluboko pod ledem. Neviditelná. Osamělá. Tušená. Bezmocná. Odsouzená čekat, kdo udělá poslední gesto, tečku za nepovedenou větou, zašlápne tenounkou, vysunutou slánku. Zatavenou v mrazivé krustě.
 
@@ -61,7 +62,7 @@ Nikdy jsem ho už neviděla. Nikdy.
 
 Teď můžu nahmátnout jeho klobouk.
 
-Horká čočková polévka
+## Horká čočková polévka
 
 Dveře napravo vedou do jídelny a kuchyně. Pocítím mravenčení. Jak mi maminka bubnovitě přejížděla jemnými prsty po zádech, podél celé páteře. Odshora až dolů. Odshora dolů.
 
@@ -129,7 +130,7 @@ Vřítím se do kůlny, zalezu před hnědou mazlavostí s rozvařenými knofl�
 
 Co se to ksakru děje? Proč a před kým se tu schovávám? Před kusem žvance v nesprávné ruce? Nespletla jsem si vesnici? Zůstanu, než něco vymyslím. Než ten hukot v hlavě odezní. Srdce se jen nerado uvelebuje zpátky ve svém rytmu, chtělo by se prodrat, dunivě probouchat hrudí ven.
 
-Puklice na hrnec
+## Puklice na hrnec
 
 Zvednu hlavu zaseklou mezi koleny. Hlavně dýchat, dýchat. Před očima desítky roztočených, černě chlupatých housenek. A záblesky strnulých obrazů. Fotografií zatavených v mozku. První záblesk fotoaparátu. Rozálka, utopená v kraječkách, trůní na vysoké dřevěné dětské židličce s kulatým opěrátkem. Z dortu se tyčí osamělá červená svíčka, zabodnutá do měkkého, sladkého masa. Tu židličku tatínek vyráběl sám. K Rozálčiným narozeninám. Natřel ji bílou barvou, hustou polevou. Přimontoval opěrátko, které změkčil maminčin zvlněný modrý polštář; přichytila ho červenými šňůrkami. A na desku vymalovali hnědého medvěda s rozšířenýma očima. Ten modrooký medvěd mě děsíval. Než jsem se naučila ho zapatlávat zbytky jídel. Nekonečný proud záblesků. Rozálce zabodli už svíčky dvě. A tři. Následují Dolfíkovy zářezy, Rozálčino tělo se už otvorem k opěrátku neprodralo. Medvěd strážil Adina. Než bratrovo tělo nabobtnalo a předalo medvědí trůn nejmladšímu žroutovi.
 
@@ -153,7 +154,7 @@ Uhladím sukni na stehnech. Zmuchlanou blůzku kolem pasu zasunu. Ohlédnu se, h
 
 Bolest mi ihned rozhicuje zasažený obličej.
 
-Podkova pro štěstí
+## Podkova pro štěstí
 
 Světlo zelené stolní lampičky oslepuje, ostře bodá do očí. Závěsy jsou zatažené, propouštějí líné dusno. Mžourám, poposedávám na tvrdé židli. Kam mě jeden z nich dosmýkal.
 
@@ -267,7 +268,7 @@ Oni mají dvě písmena.
 
 RG.
 
-Masařky
+## Masařky
 
 Slunce nemilosrdně žhne. Tolik tetelivého horka. Mě mrazí každý centimetr modře mramorované kůže. Musím vyklízet chlévy, součást našeho statku.
 
@@ -327,7 +328,7 @@ Bič práská vzduchem. Uzlíky se zjevují před mýma očima. Než znovu vzlé
 
 Tolik slunce kolem.
 
-Sólo kastráta
+## Sólo kastráta
 
 Probere mě Ládínkův hlas. Na jeho tóninu jsem nastavená. Moje živá voda.
 
@@ -363,7 +364,7 @@ Dopadnu obličejem na slámu. Na koberec z hřebíků, na lůžko nedobrovolné
 
 Kašlu a bolím se tak sama.
 
-Svatební závoje
+## Svatební závoje
 
 Ležím tak, jak mě mí rybáři pohodili. Na břiše. Nemyslím na nic. Už léta se ničemu porozumět nesnažím. Koutkem oka pozoruju pavučiny. Souměrné mnohoúhelníkovité ubrusy a svatební závoje napnuté mezi trámy. Mezi žentourovou mlátičkou a pospěchem na kypření půdy. Mezi všemi těmi stroji, které zaníceně schraňoval otec. Chtěl si vybudovat Muzeum vývoje zemědělské techniky. Nutil nás poslouchat historii všeho toho haraburdí. Unavoval tím, nudil. Dneska mi ta poztrácená slova znějí jako pohádková chuť rajských zahrad. Ráj, který jsme nevnímali, a pohazovali si jablkem. Před zakousnutím.
 
@@ -415,7 +416,7 @@ Hlavně se koncentrovat. Rozpoznávat, kdy bdím, kdy se plavím na druhé stran
 
 Aby se nakonec ukázalo, že je žiju.
 
-Tetelivý pukavec
+## Tetelivý pukavec
 
 „Musíš polykat.“
 
@@ -467,7 +468,7 @@ S dozvukem smíchu se mě dotkne špičkou boty. Namistrovaně si odflusne.
 
 „No tak teda zejtra v noci.“
 
-Rozdrcené ořechy
+## Rozdrcené ořechy
 
 Cosi mě bolestivě popadne za útlá, gumová ramínka. Ostrými pařátky. Je hluboká noc. Roztrhnu zanícené oči. Já promeškala kroky, včas se nepřevrátila. Ležím na zádech jako strnulý, nechráněný brouk. Snadná oběť. Bolavá kebule se rozpíná, rozvaluje na několika metrech. Teď ji rozšlapou, skořápky drcených ořechů budou pokřupávat.
 
@@ -531,7 +532,7 @@ Klíč zastrčí do kapsy u zástěry, přihladí látku k bokům, na mě se n
 
 „K ja-jabloňovýmu sadu, tam tě narychtuju k silnici. Pozejtří ze sběrnýho lágru lifrujou transport. Dostaneš se pryč. A zas bude dobře.“
 
-Nasliněné nálepky
+## Nasliněné nálepky
 
 Zatmí se mi před očima.
 
@@ -643,7 +644,7 @@ Mlčí. Jako by si už vyšeptala z těla všechna slova. Mlčí.
 
 Potom mě s nebývalou silou udeří do hrudi, až to zaduní. Odmrští mě do trávy, povalí na bok ke kmeni ořechu. Na zem, která sálá horko, nasáté přes den. Okolo položivého ořechu se rozleje kaluž ostře žlutavého světla. Žena mi temeno nelítostně stlačuje níž, k drsnému kmeni. Linie kůry se mi obtisknou na tvář a podrásají nos.
 
-Modlitba
+## Modlitba
 
 Slyším mužský hlas, oblévaný tím světlem jako svatozáří.
 
@@ -687,7 +688,7 @@ Poslechnu. Nemám vlastní vůli. Zbyl bolestivý meloun. Utíkám tam, kam pat�
 
 Žena mi ji přehodila přezkou k tělu.
 
-Típání zobáčků
+## Típání zobáčků
 
 Klopýtám do stráně nad vesnicí, vyhýbám se němým náhrobkům židovského hřbitova. Nikdy mě nenapadlo, že jejich svět je taky mým světem. Vždyť to byl můj otec, kdo z bývalé synagogy, nábožensky nevyužívané, zřídil skladiště. A sýpku.
 
@@ -741,7 +742,7 @@ Kebulinka normálních rozměrů.
 
 Žena kypí štěstím; přestane zadrhávat. Předčasné zrození zdravého dítěte považuje za boží znamení, vše je odpuštěno, všechno včerejší vymazáno. Dá chlapci nezvyklé jméno. Denis. Dnem jeho zrození odpočítává čas svého života. Všechno předchozí nechá odplavit s plodovou vodou a vypuzenou placentou.
 
-Věčný fakír
+## Věčný fakír
 
 Pichlavý koberec sirotků, rozostřená žluť. Hovím si na slámovém kartáči, tentokrát čerstvě posečeném. Bolavá koule na krku pukla. Sevření se uvolnilo. Hlava se scvrkla, napjatá kůže proměnila v zmuchlaný mušelín. Splasklý padák, který mi sklouzává až na paty. Jsem zahalená do nestvůrného pláště.
 
@@ -791,7 +792,7 @@ Očima vyhmatávám pavučiny v zašedlých rozích. Nové krajky s černými 
 
 Nic se mě už netýká. Mě se už nic netýká.
 
-Bleší trh
+## Bleší trh
 
 Pochod se má rozpohybovat časně ráno. Transport za hranice Čech. Důsledná čistka, první vlna odšplouchla na východ, nynější na západ; pohupuju se na obou. Z některých vyhladovělých heftlingů sálá nepochopitelná úleva. Přestože jim v noci znovu prohrabávají kufry přepásané řemeny a zabavují cenné věci. Bez rozpaků chtivými pařátky promíchávají obsahy baťohů a skrýše vnitřních kapes u saka. Hnětou ženám prsa pod klopami blůzek a chechtají se, proplácávají ze všech stran těla svých obětí a strhávají hodinky, řetízky. Náušnice, u nichž se nezdržují s rozepínáním. Stačí mocné trhnutí, úpěnlivé zaječení a zlaté ozdobné třpyty na ušních lalůčcích se promění v granátové, kapající, slzné ozdoby. Takto vyzdobené ženy absolvují ještě jednu selekci. Mladé a pohledné s rudými krůpějemi podél krku, jsou stahovány za závěs nebo jen povaleny, krůpěje stékají do výstřihu a mužské tlapy je chamtivě následují, dolů a dolů, níž a níž, tolik úporného vzlykání a ran, některé kvílejí, copak si už za ta léta nezvykly, že takové věci se dějí, že takové věci se dějí každý den. To je teprve sladký začátek. Ale kdo z nich by stál o to, abych mu do podrobností popsala, co bude následovat? Jen ať si ta má šedivá babka uvnitř klidně schrupne.
 
@@ -831,7 +832,7 @@ Riskuju.
 
 Nakonec jí odpovím.
 
-Prasklá kůstka
+## Prasklá kůstka
 
 Čeština kytičkovaného rukávu je vskutku lámaná. Když se pokouší promluvit česky, tělo lámou v kole, s každým namáhavě rozpomenutým slovem praskne další kůstka: celým tělem se ošívá, trhavě gestikuluje, lapá slabiky. Jako člověk po mrtvici.
 
@@ -857,7 +858,7 @@ Ať to zkrátí, převalují se otráveně moje šedovlasé útroby; neprahnou p
 
 „Jo, zkopali ho stejně jako tebe.“
 
-Kulomet
+## Kulomet
 
 V dubové almaře s vyřezávaným horním dílcem natrefili na ženskou v modrých šatech. A znásilnili. Kulometem.
 
@@ -911,7 +912,7 @@ Bolest v hlavě se prochrupla. Rozšafně se vrací. Kleká k startovním blok
 
 Mizivá naděje, abych tam ráno nemusela. Naděje, ke které se došourám s mokrými onucemi na nohou.
 
-Ladné sólo
+## Ladné sólo
 
 Svůj krátký život, který trvá tisíce let, znovu vlamuji do slov. Nemám co ztratit. Pochod za několik hodin vyráží. Stanu se součástí masy, kde na jednotlivé obličeje nikdo ohled nebere. Budu součástí masy, kde Gita Lauschmannová neznamená nic. Stanu se číslem, druhé předloktí mám ještě panenské, nepopsané. Jak daleko bych došla se svýma bolavýma nohama?
 
@@ -963,7 +964,7 @@ Podá mi štůsek papírů, konečně zvedne zkalené, nevyspalé oči. Stíněn
 
 „Já jsem taky jenom člověk.“
 
-Štrúdl mravenců
+## Štrúdl mravenců
 
 S jitřní říčkou štrádujících mravenců obalených kufry a ušmudlanými ranci odplout nemusím. Splnil, co slíbil. Však se mu Adin jednou bohatě odmění. Jatka se odkládají, oprátku sundali, provaz sklouzl podél boků. Stojím v jeho čarovném kruhu. Je otázkou času, kdy ho ze země zdvihnou a utáhnou.
 
@@ -993,7 +994,7 @@ Cosi drásá do svých papírů.
 
 Čekám.
 
-Puk na bránu
+## Puk na bránu
 
 Pootevřeným oknem zavane smrtelný chlad. Moje tělo zavibruje dřív, než hlava nebezpečí pojmenuje. Střelhbitě se přikrčím na bobek, po čtyřech dokmitám k bílé zdi se stopami krve a černými vzorky podrážek. Smršťuju se níž a níž, jak střelou potrefená. Omítka ulpí na sukni i blůze. Smotám se na zemi do bolavého klubíčka, těsně za přisunutou židli. Důstojníka to kupodivu nevyvede z míry, jen pozdvihne huňaté obočí. Šeptám.
 
