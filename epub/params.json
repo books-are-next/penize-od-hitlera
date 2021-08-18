@@ -18,12 +18,12 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
-      "brAfter": "",
+      "brBefore": "MLP-text-bez1radku--12-0",
+      "brAfter": "MLP-text-bez1radku--0-12",
       "blockquote": "",
       "figure": "",
-      "em": "",
-      "strong": "",
+      "em": "MLP-citat \nMLP-text-bez1radku--I \nMLP-text-bez1radku--I---12-0\nMLP-znak-kurziva-11b\nMLP-TEXT-UPROSTRED--I---12-0\nMLP-text--I\nMLP-venovani",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-tiraz-podnazev\nMLP-licence-paragraf",
       "remove": "",
       "ignore": ""
     },
@@ -32,9 +32,9 @@
         "filename": "penize_od_hitlera_001.md",
         "xhtml": "penize_od_hitlera_001.xhtml",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": [],
         "title": "",
         "subtitle": ""
@@ -43,9 +43,9 @@
         "filename": "penize_od_hitlera_002.md",
         "xhtml": "penize_od_hitlera_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": [],
         "title": "",
         "subtitle": ""
@@ -54,9 +54,9 @@
         "filename": "penize_od_hitlera_003.md",
         "xhtml": "penize_od_hitlera_003.xhtml",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": [],
         "title": "",
         "subtitle": ""
@@ -65,9 +65,9 @@
         "filename": "penize_od_hitlera_004.md",
         "xhtml": "penize_od_hitlera_004.xhtml",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": [],
         "title": "",
         "subtitle": ""
@@ -76,9 +76,9 @@
         "filename": "penize_od_hitlera_005.md",
         "xhtml": "penize_od_hitlera_005.xhtml",
         "id": 4,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": [],
         "title": "",
         "subtitle": ""
@@ -175,9 +175,9 @@
         "filename": "penize_od_hitlera_014.md",
         "xhtml": "penize_od_hitlera_014.xhtml",
         "id": 13,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": [],
         "title": "",
         "subtitle": ""
@@ -190,7 +190,7 @@
       "identifier": "urn:uuid:5601b581-222d-43d6-81eb-b74007e1c1e0",
       "author": "Radka Denemarková",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-18T06:37:55.742Z"
+      "modified": "2021-08-18T06:43:20.929Z"
     },
     "chapters": [
       {
@@ -231,37 +231,37 @@
       },
       {
         "titleSuggest": "Návrat první(léto 1945)",
-        "subtitleSuggest": "Mrazivá krusta",
+        "subtitleSuggest": "",
         "filename": "penize_od_hitlera_007.md",
         "xhtml": "penize_od_hitlera_007.xhtml"
       },
       {
         "titleSuggest": "Návrat druhý(léto 2005)",
-        "subtitleSuggest": "Držet čas v zubech",
+        "subtitleSuggest": "",
         "filename": "penize_od_hitlera_008.md",
         "xhtml": "penize_od_hitlera_008.xhtml"
       },
       {
         "titleSuggest": "Návrat třetí(léto 2005)",
-        "subtitleSuggest": "Pouťové atrakce v zavařovacích sklenicích",
+        "subtitleSuggest": "",
         "filename": "penize_od_hitlera_009.md",
         "xhtml": "penize_od_hitlera_009.xhtml"
       },
       {
         "titleSuggest": "Návrat čtvrtý(pozdní léto 2005)",
-        "subtitleSuggest": "Šlahouny",
+        "subtitleSuggest": "",
         "filename": "penize_od_hitlera_010.md",
         "xhtml": "penize_od_hitlera_010.xhtml"
       },
       {
         "titleSuggest": "Návrat pátý(pozdní léto 2005)",
-        "subtitleSuggest": "Popraskané krunýře",
+        "subtitleSuggest": "",
         "filename": "penize_od_hitlera_011.md",
         "xhtml": "penize_od_hitlera_011.xhtml"
       },
       {
         "titleSuggest": "Návrat šestý (podzim 2005)",
-        "subtitleSuggest": "Óda na radost",
+        "subtitleSuggest": "",
         "filename": "penize_od_hitlera_012.md",
         "xhtml": "penize_od_hitlera_012.xhtml"
       },
@@ -345,6 +345,6 @@
       "user": "books-are-next",
       "repo": "penize-od-hitlera"
     },
-    "generatedAt": 1629268676435
+    "generatedAt": 1629269001568
   }
 }
