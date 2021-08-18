@@ -26,14 +26,16 @@ Mlely a mlely, než pochopily, že žluť v Ženiných vlasech nejsou kulaté 
 
 Okna zámečku rozdrnčelo čtyřhlasé zaječení.
 
+  
+
 Na sklonku života bude Denis hořce litovat. Protože si nedá pokoj a jako jediný se dopátrá dosud neznámých podrobností ze života Gity Lauschmannové. Ale protože člověk nemůže věřit vlastním očím, natožpak těm cizím, a protože nemůže věřit vlastním slovům, natožpak těm vypouštěným z cizích úst, tak…
 
 Tak Denis spolkne, co ví.
 
 A osud už mu nedopřeje času, aby to, co ho tížilo nejvíc a užíralo mu nejen spánek, ale i radost závěrečných let života, někomu pověděl. Stejně netušil komu a nevěděl jak. Přemítal, proč se to hlavní o lidském životě nedozvíme. Ne proto, že by příběh končil, ale proto, že končí zásoba použitelných slov. Ano, jistě, slovy se dá hodně napáchat.
 
-Ničemu se jimi nedá zabránit.
+_Ničemu_ se jimi nedá zabránit.
 
-Červen 2003 – září 2005
+_Červen 2003 – září 2005_
 
-(Praha a Rasochy)
+_(Praha a Rasochy)_

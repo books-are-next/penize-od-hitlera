@@ -6,13 +6,15 @@ title: Návrat pátý(pozdní léto 2005)
 
 Denis do své trucovitě vzývané tramvaje číslo třináct, která by se prokusovala známým územím, zatím ani nenastoupil. A to ho žere, sžírá a vykusuje zevnitř. Touží zachránit svůj starý dobrý život. Touží v klidu navštěvovat matku za ztěžklými závěsy. Například.
 
-Paní Lauschmannová si pozve Denise do svého pražského bytu. Domů, mohla by říct bez výčitek. Protože domov v rodné vile už nikdy fungovat nebude. I kdyby jí zdi navrátili. Puklina mezi tehdy a nyní, puklina mezi Gitou Lauschmannovou a nimi, puklina v mozku, která rozštěpila život někdejší holčičky, je nezcelitelná, v rozměrech její postavy. Hrobu znovu a znovu vykopávaného. Vždyc­ky, když tamní zem ucítí pach jejího těla, zryje se záhon, kope se čerstvá díra.
+Paní Lauschmannová si pozve Denise do svého pražského bytu. _Domů_, mohla by říct bez výčitek. Protože domov v rodné vile už nikdy fungovat nebude. I kdyby jí zdi navrátili. Puklina mezi tehdy a nyní, puklina mezi Gitou Lauschmannovou a _nimi_, puklina v mozku, která rozštěpila život někdejší holčičky, je nezcelitelná, v rozměrech její postavy. Hrobu znovu a znovu vykopávaného. Vždyc­ky, když tamní zem ucítí pach jejího těla, zryje se záhon, kope se čerstvá díra.
 
 Denis zažlucené porcelánové panence pomůže ze dveří vozu, s důstojnou galantností nabídne své rámě. Rozmrzla z krunýře ztuhlosti.
 
 Pravou ruku si ještě mýt nebude. Ještě se na ten záblesk žluti pořádně podívá.
 
 Zblízka.
+
+  
 
 Vím, co je to zakoušet bezmoc. Tělo svázané ostnatým drátem, posazené na rozžhavená kamna.
 
@@ -22,11 +24,13 @@ Pustím si ho k tělu, vynuluju odstup. Odhalím skladiště tajných zbraní.
 
 Denis sedí a listuje modrými, čerstvě a zhusta popsanými sešity, šustí úředními záznamy mých posledních pošetilých snah, na jejichž konci byli rodiče rehabilitováni.
 
-V červenci 1945 sebrali tatínkovi veškerý majetek. Zámek, velkostatek, 270 hektarů polností, dílny, lihovar. Úředníkům to dovolil Benešův dekret číslo 12 zabavující majetek zrádců a nepřátel českého národa… Lauschmann svým způsobem života cítil jako Němec, podporoval německý živel a s ním se stýkal. Denis nenasytně listuje, slídí po jménech. Za vším přece vždycky stojí konkrétní jména. Ne doba, lidé jsou vinni. Obvinění stálo na svědectví tří osob. Korunním svědkem byl Ládínek Stolař. V Lauschmannově rodině se mluvilo německy a stejně se vedly i účetní knihy.
+V červenci 1945 sebrali tatínkovi veškerý majetek. Zámek, velkostatek, 270 hektarů polností, dílny, lihovar. Úředníkům to dovolil Benešův dekret číslo 12 zabavující majetek _zrádců a nepřátel českého národa… Lauschmann svým způsobem života cítil jako Němec, podporoval německý živel a s ním se stýkal_. Denis nenasytně listuje, slídí po jménech. Za vším přece vždycky stojí konkrétní jména. Ne doba, lidé jsou vinni. Obvinění stálo na svědectví tří osob. Korunním svědkem byl Ládínek Stolař. _V Lauschmannově rodině se mluvilo německy a stejně se vedly i účetní knihy._
 
 Tato věta rozhodla.
 
 Ládínek Stolař získal kovárnu i dílny a pro svou sestru zámeček. Další dva svědkové část polí. Zbytek se rozdělil mezi sedmdesát pět obyvatel Puklic.
+
+  
 
 Denis otáčí stránky šlachovitou paží.
 
@@ -76,7 +80,7 @@ Chlapec chvíli váhá, ale pak přece jen branku odemkne. Vede nás, tři letn�
 
 Předejdu všechny. Ztuhlými prsty chci obejmout kovovou vlnovku černé kliky. S maminčinými ornamenty propletených hadích těl. Chlapec mě předběhne. Provlékne se kolem jako užovka a prudce se na kliku zavěsí. Poodstoupím.
 
-„Já vám ji zavolám.“
+„_Já_ vám ji zavolám.“
 
 Ze dveří vykoukne Žena. Pramínky vlasů, které se jí uvolnily, si navyklým pohybem připne zpět. Nenarušit úhledné zdání. Každý svobodomyslný pramínek svázat, sepnout, zkrotit. Nebo vyškubnout. Tře si ruce do červenobílé utěrky, tře si je dlouho, i když je musí mít už dávno suché.
 
@@ -84,7 +88,7 @@ Ze dveří vykoukne Žena. Pramínky vlasů, které se jí uvolnily, si navyklý
 
 „Dobrej. Koho hledáte?“
 
-Z útrob domu za Ženou přicupe tmavovlasá holčička, mamíí, chytne se matky za sukni a chichotá své rozpaky do dlaně.
+Z útrob domu za Ženou přicupe tmavovlasá holčička, _mamíí_, chytne se matky za sukni a chichotá své rozpaky do dlaně.
 
 Nevydržím to. Vyjdu zpoza manželových zad, blížím se k Ženě, nemůžu své kroky zastavit, nemůžu zastavit sebe samu. Udiveně mě sleduje. Chytnu ji za zápěstí. Té ruky, v níž svírá utěrku.
 
@@ -120,6 +124,8 @@ Teta buší a buší. Bubnuje rytmicky oběma pěstmi, jako by vymílala dva d�
 
 Dřevěná vrata odolávají.
 
+  
+
 Vrazím si pěst do pusy. Abych nevykřikla. Promarnila jsem svůj život. Rychle se zachytit všedních úkonů, než nastane sesuv půdy pod nohama. Zatím mi pod chodidly podklouzlo několik kamínků, odkutálely se do propasti. Ještě za nimi nechci. Obrysy zkaleného snu se kdesi pode mnou přehupují, přetvářejí se v silný vír. Ten si mě přitahuje jako magnet; na chodidlech cítím chlad prvních kapek. Rychle pryč, než mě to vcucne nadobro.
 
 V kuchyni zaleju čajové sáčky s příchutí karamelu. Vrstvím pyramidy sušenek. Na dva žluté tácky s obrázky medvídků. Pozůstatek dávných dětských svačin; jiné sluneční nádobí doma nemám. Vůbec vlastním málo žlutých věcí.
@@ -131,6 +137,8 @@ Nic nového pod sluncem.
 Na osminky rozkrájím velká, červená jablka z Francie.
 
 Když jsme se narodili, otec každému z nás zasadil jabloň, ty nejlepší druhy, renety a malináče. Ty krouceniny patří nám. Fotografoval nás u nich každý rok. Aby viděl, jak rostou děti i stromy. Představoval si, že to tak bude po celý život. Že se tu každý rok ve stejnou dobu sejdeme. A vyletí ptáček.
+
+  
 
 Prudce se rozkašlu. Jablko se odkutálí na zem, vyděšené ztrátou pevných prstů a roztřesenými tahy myšlenek. Rozkašlu se pocitem jícnu ucpaného desítkami rozcupovaných dokumentů. Zdušenou pusou krmenou papírovými útržky úředních lejster. Přejdu do koupelny. Dávivě se opřu o umyvadlo; stejně jako kašlávala teta Ottla, když se jí po hádce přitížilo. Denis ťuká na dveře.
 
@@ -145,6 +153,8 @@ Ne, nejsem.
 Potřebuju a hned.
 
 „Ne. Děkuju.“
+
+  
 
 Denis do koupelny nevidí. Slyší proud vody. A vzlykot.
 
@@ -180,15 +190,19 @@ Přisunu hranici se sušenkami blíž, aby se nemusel natahovat. Vytáhne dvě s
 
 „To jistě.“
 
-„Vás třeba nikdy nezajímalo, jak žila za války česká menšina? Mě ano, mě to poslední dobou zajímá hodně. Němci byli zhenleinizovaní tak, že tam nešlo žít. Řadu Čechů vystěhovali bez náhrady. Několik hospodářství zabral útvar SS Auswanderungsfund für Juden, plno domů a koželužnu –“
+„Vás třeba nikdy nezajímalo, jak žila za války _česká_ menšina? Mě ano, mě to poslední dobou zajímá hodně. Němci byli zhenleinizovaní tak, že tam nešlo žít. Řadu Čechů vystěhovali bez náhrady. Několik hospodářství zabral útvar SS Auswanderungsfund für Juden, plno domů a koželužnu –“
+
+  
 
 Vypínám zvuk, studuju napjatou tvář. O co mu jde? Zdusím osvětovou přednášku v samém zárodku. To jsem si mohla rovnou rozevřít potištěný plát novin. Jakýchkoli.
 
-„Jistě, jistě. Vím, kam míříte. Že všichni Němci byli Hitlerova pátá kolona. Já to vím. Že zblbli. Já to vím, že i někteří pukličtí Němci vítali hajláky slavobránami. Já to vím, jak moc chtěli dokázat, že si své připojení k říši zaslouží.“
+„Jistě, jistě. Vím, kam míříte. Že _všichni_ Němci byli Hitlerova pátá kolona. Já to vím. Že zblbli. Já to vím, že i někteří pukličtí Němci vítali hajláky slavobránami. Já to vím, jak moc chtěli dokázat, že si své připojení k říši zaslouží.“
 
 Vím to, no a co. Rozhryzat další pivní tácek ho nenechám.
 
-„Úplně stejně zblbli Češi v roce čtyřicet pět. Jenomže Češi měli být bystřejší, Denisi. Prožitých šest let je mohlo varovat. Měli dalším zrůdnostem zabránit. A především, a to si, Denisi, jednou provždy zapamatujte: já nechci být odškodněna jako Němka. Já chci být odškodněna jako člověk, kterému se stalo bezpráví. Jako člověk, jako občan, který byl postižen neprávem. Chci, aby se řeklo, že tady byl páchán zločin. – No co na mě tak vejráte?“
+„Úplně stejně zblbli Češi v roce čtyřicet pět. Jenomže Češi měli být bystřejší, Denisi. Prožitých šest let je mohlo varovat. Měli dalším zrůdnostem zabránit. A především, a to si, Denisi, jednou provždy zapamatujte: já nechci být odškodněna jako _Němka_. Já chci být odškodněna jako člověk, kterému se stalo bezpráví. Jako člověk, jako občan, který byl postižen neprávem. Chci, aby se řeklo, že tady byl páchán zločin. – No co na mě tak vejráte?“
+
+  
 
 Denis nerozumí. Bože, jak ten nerozumí. Jen prohrabává a slepuje hromadu šrotu, rozkutálená kolečka. Porovnává roztroušené šroubky; nikam nepasují.
 
@@ -196,7 +210,7 @@ Denis nerozumí. Bože, jak ten nerozumí. Jen prohrabává a slepuje hromadu �
 
 „Mě politická pozadí nezajímají.“
 
-„A to je právě ta chyba, paní doktorko. To je právě ta chyba. Mnozí se ocitli naprosto nevinně v situacích, které prostě zvládnout nemohli. Nesmíme všechno… všechny hodnotit tak příkře. – Existovala reálná hrozba nové války. Například.“
+„A to je právě ta chyba, paní doktorko. To je právě ta chyba. Mnozí se ocitli naprosto _nevinně_ v situacích, které prostě zvládnout nemohli. Nesmíme všechno… všechny hodnotit tak příkře. – Existovala reálná hrozba nové války. Například.“
 
 „Panebože, nechte toho, Denisi. To místo vás můžu nechat blábolit rádio. Důležité je, kdo co koná. Říkat může kdokoli cokoli. A psát také.“
 
@@ -210,7 +224,7 @@ Ano, jsem neomalená. Ale pasovala jsem ho na blízkou duši. Tak ať se snaží
 
 Křeček uhryzuje sušenku za sušenkou, kolečko za kolečkem. Má jich plnou pusu, mluvit nepřestane.
 
-„Lidi nezměníte. Odpusťte jim, přimkněte se k těm několika, kteří… Mnozí se snaží… Moje matka například…“
+„Lidi nezměníte. Odpusťte jim, přimkněte se k těm několika, kteří… Mnozí se snaží… Moje _matka_ například…“
 
 „Kdo ze sebe dělá kost, toho sežerou psi. Mám už jenom ty vzpomínky.“
 
@@ -248,7 +262,7 @@ Nasliní si prst, nalepí odroleniny ze žlutého tácku. Drobky, které mlaskav
 
 „Tady.“
 
-Denis prst obalený drobky zapíchne do žlutých desek. Pomník Rudolfa Lauschmanna.
+Denis prst obalený drobky zapíchne do žlutých desek. _Pomník Rudolfa Lauschmanna._
 
 „Stavbu pomníku nechte na mně, já to zařídím. Ale prozatím, skutečně jen prozatím – to vám slibuju – je návrh na památník neprůchodný. Takže kniha o vašem otci by svým způsobem vyvážila původní úmysl.“
 
@@ -274,7 +288,9 @@ Jako servírka, která si po namáhavé šichtě, kdy šiky turistů v lokále 
 
 Léto končí. Během Denisovy návštěvy nebe kratince zčernalo. Sprchlo. Teď už mezi průsvitnými šedivými tyly zase svítí měsíc. V úplňku, který mě sceluje. Zbyly poslední kapky na zábradlí. Stoupám do schodů pěšky. Výtah minu. Ano, budu psát. To je moje záchranná vesta.
 
-V tom bude moje síla. Snažit se porozumět jejich životům. Bez rozdílu. Všechny obejmu do náruče. Jako bych nesla košík hub, které se vedle sebe natřásají, vyvyšují, překřikují a hádají o to, která z nich je důležitější, která chutnější a která má právo na větší prostor. V sladkém nevědomí, že za pár minut se na pánvi neodvratně usmaží. V sladkém nevědomí o tom, že už v sobě přece nosí smrt, smrt začala. Vteřinou početí.
+  
+
+V tom bude moje síla. Snažit se porozumět _jejich_ životům. Bez rozdílu. Všechny obejmu do náruče. Jako bych nesla košík hub, které se vedle sebe natřásají, vyvyšují, překřikují a hádají o to, která z nich je důležitější, která chutnější a která má právo na větší prostor. V sladkém nevědomí, že za pár minut se na pánvi neodvratně usmaží. V sladkém nevědomí o tom, že už v sobě přece nosí smrt, smrt začala. Vteřinou početí.
 
 Někdy mám pocit, že na mě zapomněl. Dříve než ostatní lidé zvolali Bůh je mrtev, zvolal on Člověk je mrtev. Dříve než jsem s ostatními hlasitě zvolala On je mrtev, zvolal on neslyšně Ty jsi mrtva. A odvrátil se ode mne.
 
@@ -288,13 +304,15 @@ V paní Lauschmannové se rozlévá blažená síla, navrací energie; únava o
 
 Bez svíčky.
 
-A za odměnu si dopřává koncerty a divadla, kam ji Denis zve. I do kina se s ním vydá, jednou se dokonce během jakéhosi thrilleru nahlas a rozpustile směje, když herec v lékařském plášti vyhrábne z těla oběti čtyři kulky, v dlani je potěžká a jednu předá detektivovi. Tahle byla smrtelná.
+A za odměnu si dopřává koncerty a divadla, kam ji Denis zve. I do kina se s ním vydá, jednou se dokonce během jakéhosi thrilleru nahlas a rozpustile směje, když herec v lékařském plášti vyhrábne z těla oběti čtyři kulky, v dlani je potěžká a jednu předá detektivovi. _Tahle byla smrtelná._
 
 Mluvívá ona. Denis mlčí. A tak paní Lauschmannová zaplňuje svým vyprávěním všechny proluky a hluchá místa, do nichž by se Denis mohl vklínit. Vycítila, že se Denis pere sám se sebou. Rád by jí cosi řekl. Sama oddaluje trapnost oné chvíle. Přesvědčena, že se jí chce vyznat ze svých citů. A ona by musela odmítnout. Vysvětlovat, že do dravých partnerských vod už nevstupuje.
 
 Paní Lauschmannová píše. Není minulost, přítomnost, budouc­nost; pomocná dělení celku, prázdná slova. Všechno je v ní od počátku. Propojené. Celý tok času. Všemi směry. Proudění času tam a zase zpátky, nese ho v sobě celý. Ale vnímá jen jedním směrem.
 
 Dopisuje a cizeluje. Dokumentuje svůj vnitřní vesmír. Sepisuje všechno, slátává nitky rozpadlého masa. Předhodí krvavý flák svého života těm supům. Ať ho vyklovou.
+
+  
 
 Vrátila jsem se z Rudolfina. V zbrusu nových, bledě modrých šatech. S tmavomodře kytičkovanými rukávy. Je babí léto; pavoučkové odlétají, rozfoukáni větrem.
 
@@ -326,11 +344,15 @@ Zrcadlo nad umyvadlem je zamlžené. Jsem tu sama. Nikdy tomu nebylo jinak.
 
 Chvatně se převléknu do pyžama. Je přece jen chladno, přehodím přes sebe župan. Zuby si vyčistím později. Zadívám se do ulice, hlouček ševelících diváků opouští protější budovu. Počkám, až zajdou, až se za nimi vypotácí Mistr Oujezdský a zabočí k Vltavě. Vždycky vyvrávorá jako poslední. Zamáváme si; pravidelný rituál těsně před tím, než usednu za svůj pracovní stůl. Než načnu první větu posledního úseku, který stál na počátku všeho.
 
+  
+
 Pak mě kdosi prudce bodne pod levou lopatku. A zanořený kord bezostyšně pootočí.
 
-Vím, že zemřu. Finální vteřina. Myslím, že jsem připravena. Ale v té jediné rozhodující sekundě, kdy mě přepadne slabost, kdy cítím, jak mnou projíždí trnutí, kdy mne zasekává bolest, pomyslím si přece jen nedůvěřivě a s údivem: to je snad opravdu konec. A prolétne mi před očima podivný rozmlžený obraz. Jak vedle sebe, na jakémsi břehu, s udicemi v rukou a unuděně rozvaleni posedávají Bůh, Ďábel, Smrt, Osud. Sedí klidně, trpělivě klábosí a celé věky loví. Na obrovských hácích si pak vytahují své úlovky. Lidské bytosti. A než je za sebe odhodí svým nedočkavým pohůnkům, porovnávají si míry vylovených.
+Vím, že zemřu. Finální vteřina. Myslím, že jsem připravena. Ale v té jediné rozhodující sekundě, kdy mě přepadne slabost, kdy cítím, jak mnou projíždí trnutí, kdy mne zasekává bolest, pomyslím si přece jen nedůvěřivě a s údivem: _to je snad opravdu konec_. A prolétne mi před očima podivný rozmlžený obraz. Jak vedle sebe, na jakémsi břehu, s udicemi v rukou a unuděně rozvaleni posedávají Bůh, Ďábel, Smrt, Osud. Sedí klidně, trpělivě klábosí a celé věky loví. Na obrovských hácích si pak vytahují své úlovky. Lidské bytosti. A než je za sebe odhodí svým nedočkavým pohůnkům, porovnávají si míry vylovených.
 
 Hák Smrti projel mou hrudí, Smrt vstala a neoblomně tiskla naviják, abych se jí nevysmekla. Jako už tolikrát. Ale já přece ještě nejsem připravena, ještě zdaleka ne, ještě se mi nechce zemřít, chci zakřičet a mrskám sebou, ještě ne, pane Bože, ještě se mi nechce zemřít, ještě nemám vyčištěné zuby, nejsem řádně oblečená, ještě jsem všechno nedořekla…
+
+  
 
 Borůvkový záznam na poslední stránce rozpijí zapomenuté kapky. Skanou z konečků vlasů. Přestože se lidského jehličí do poslední chvíle drží. Zuby nehty.
 

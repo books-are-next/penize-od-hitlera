@@ -18,11 +18,13 @@ Lidská lebka.
 
 Pětiletý Denis ji opatrně přenese z jabloňového sadu na pískoviště.
 
+  
+
 Široce rozkročená Žena si bezmyšlenkovitě utírá ruce do kárované, bíločervené utěrky. Jsou dávno suché, ale ona je otírá, masíruje nezvykle dlouho, ztracená ve svých útržkovitých vzpomínkách, které se snaží pochytat, slepit, utřídit. Utěrku přehodí přes oprýskanou, několikrát přetíranou kuchyňskou židli nedaleko sporáku. Vezme bělostný porcelánový talíř s modrými ornamenty, který kontrastuje s její venkovsky ošlehanou tváří, naklade souměrný vějíř houskových knedlíků a do vzniklé vyschlé tůňky vlije kovovou naběračkou tmavohnědou omáčku s třepeninami masa. Opatrně, aby knedlíkovou bělost nepotřísnila.
 
 Horký talíř postaví v jídelně před muže, který si už omyl unavený obličej a vyhrnul rukávy modrobílé flanelové košile. Muž hltavě a beze slova jí. Žena sedí vedle něj a pozoruje černé chmýří na hřbetu mohutné ruky s ulámanými nehty, milované ruky, která neohrabaně svírá stříbrnou lžíci. Neunavitelný bagr, který odstraňuje nános v talíři.
 
-Žena vstane jenom jednou, aby si z kuchyně přinesla zapomenutou utěrku, má ji položenou na klíně, drží ji pevně a co chvíli si do ní utře suché, popraskané, zarudlé ruce. Muž vytře posledním, nadýchaným kouskem zbylou omáčkovou stopu, sleduje ji pečlivě, dvakrát zakrouží kolem talíře. Teprve když nacucané sousto zmizí v mužově nenasytném chřtánu, Žena se osmělí. Řekne spokojeně funícímu muži, že našla Denise na pískovišti, jak si dělá bábovičky, otloukej se bábovičko, jestli se mi nepovedeš, budeš bita jako žito.
+Žena vstane jenom jednou, aby si z kuchyně přinesla zapomenutou utěrku, má ji položenou na klíně, drží ji pevně a co chvíli si do ní utře suché, popraskané, zarudlé ruce. Muž vytře posledním, nadýchaným kouskem zbylou omáčkovou stopu, sleduje ji pečlivě, dvakrát zakrouží kolem talíře. Teprve když nacucané sousto zmizí v mužově nenasytném chřtánu, Žena se osmělí. Řekne spokojeně funícímu muži, že našla Denise na pískovišti, jak si dělá bábovičky, _otloukej se bábovičko, jestli se mi nepovedeš, budeš bita jako žito_.
 
 Muž si mohutně říhne a upije piva z chladivě orosené lahve, ačkoliv má před sebou sklenici vyrobenou specielně pro tento účel, s nezvyklou rytinou.
 
@@ -53,6 +55,8 @@ Našla Denise, jak si dělá bábovičky. Seděl na bobku uprostřed hromady pí
 Muž se neochotně vztyčí, utáhne povolený opasek a stáhne jím masu tuku kolem boků.
 
 „To je cirátů kvůlivá ňáký blbý hračce.“
+
+  
 
 Noc.
 
@@ -102,8 +106,10 @@ Muž pochopí. Není ta správná chvíle na fantazírování. Oni dva si lhát 
 
 „Tak ho probudíš!“
 
-O půl hodiny později stojí Denis u okna svého rozlehlého pokoje v prvním patře. V závoji záclon. Ukrývat se nemusí, ti dva dole jsou příliš zaujati svou prací a ukonejšeni noční černotou. Ale Denis je vidí. Vidí muže a Ženu, jak horlivě odhrabávají zeminu kolem místa jeho pokladu, zorávají půdu jeho lebky, prohmatávají lůžko neznámé bytosti. A nad nimi ševelí listí jabloní, které za měsíc popadá, které každý rok popadalo a smísilo se, přikrylo spáče a ulehčilo mu, rozpadali se společně, než lůžko objevil Denis. To Denis ho měl objevit, čekalo na něj. Muž a Žena vytahují pokroucené laťky a bílé tyče a zvláštně tvarovaný košík. Tehdy Žena zavrávorá, opře se o kmen jabloně a zvrací.
+  
 
-Denis se dívá, jeho vzdor roste. Ty hračky patřily jemu, on je měl objevovat. Jednu po druhé. Oni mu je ukradli. Ty hračky jsou jeho. Zítra si je vezme zpátky. Denis je unavený, oči se mu klíží, nevydrží stát. Docupitá k posteli, položí vedle sebe plyšového medvěda, přikryje se. Než usne úplně, radostně si představuje, jak vedle něho leží nalezená bílá hračka a v jejích důlcích se rozsvětluje barevný ohňostroj pohádkových světů.
+O půl hodiny později stojí Denis u okna svého rozlehlého pokoje v prvním patře. V závoji záclon. Ukrývat se nemusí, ti dva dole jsou příliš zaujati svou prací a ukonejšeni noční černotou. Ale Denis je vidí. Vidí muže a Ženu, jak horlivě odhrabávají zeminu kolem místa _jeho_ pokladu, zorávají půdu _jeho_ lebky, prohmatávají lůžko neznámé bytosti. A nad nimi ševelí listí jabloní, které za měsíc popadá, které každý rok popadalo a smísilo se, přikrylo spáče a ulehčilo mu, rozpadali se společně, než lůžko objevil Denis. To Denis ho měl objevit, čekalo na něj. Muž a Žena vytahují pokroucené laťky a bílé tyče a zvláštně tvarovaný košík. Tehdy Žena zavrávorá, opře se o kmen jabloně a zvrací.
 
-Dlouho nezmizí z Denisových dětských představ. Až za dva roky ji překryje a vytlačí narození sestry Nataši. Kdy ho začne fascinovat křehkost a krása živého lidského těla.
+Denis se dívá, jeho vzdor roste. Ty hračky patřily _jemu_, _on_ je měl objevovat. Jednu po druhé. Oni mu je ukradli. Ty hračky jsou _jeho_. Zítra si je vezme zpátky. Denis je unavený, oči se mu klíží, nevydrží stát. Docupitá k posteli, položí vedle sebe plyšového medvěda, přikryje se. Než usne úplně, radostně si představuje, jak vedle něho leží nalezená bílá hračka a v jejích důlcích se rozsvětluje barevný ohňostroj pohádkových světů.
+
+Dlouho nezmizí z Denisových dětských představ. Až za dva roky ji překryje a vytlačí narození sestry Nataši. Kdy ho začne fascinovat křehkost a krása _živého_ lidského těla.

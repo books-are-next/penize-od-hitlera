@@ -16,7 +16,7 @@ Vyzobává puklický návrat. Šťastné proluky přehlíží. I ty byly poznam
 
 Paní Lauschmannová se zadívá z okna. Na chodníku stojí její vrstevnice, drobná, křehká Klamová, která pracuje v protějším divadle; loučí se s jakousi směšně zhastrošenou ženou. Klamová zdvihne oči a zasekne se na okenním obraze; zdvihnou ruce, zamávají si.
 
-Moje brzká klientka, pomyslí si paní Lauschmannová.
+_Moje brzká klientka_, pomyslí si paní Lauschmannová.
 
 Shlíží dolů a zaplaví ji vlna vděku, cítí, jak je toto město krásné, plné neznámých pokojů. V hlavě si hlídá jenom puklickou linii svého života, té se zbavuje, ale život, který žije v tomto městě, je průzračný a plný. Takový vždycky byl, nebo ne? Jenom to čisté plátno natrhl osten zapíchlý v mysli, osten s otráveným puklickým hrotem. Pravidelně se připomíná, marně se ho snaží vyškubnout. Pohledem hladí budovy starého města, ozářené zvláštním jasem.
 
@@ -25,6 +25,8 @@ Takový lahodný, letní podvečer, do něhož jemně zaklinká tramvaj. Rozevř
 Paní Lauschmannová se navrací ke svým listinám. Zase stojí nad pitevním stolem. A rozřezává kůži obálek. Jako by rozevírala růžové ženské genitálie.
 
 Píše se rok 2005. Její rodiče byli rehabilitováni.
+
+  
 
 Takové krásné, letní, napěněné jitro. Do něhož jemně zaklinká tramvaj.
 
@@ -38,7 +40,7 @@ Vystoupí z plechového korábu.
 
 Tajuplné vůně a směs erotického jiskření, kdy čas stál, jen se nehybně vlnil nad obzorem. Nosem a všemi póry těla se derou pachy posečené trávy. Těžké, uspávavé vůně lučních květin. Pronikají do morku kostí, rozněcují aso­ciace vzpomínek, zaklesávají se do sebe jako těžká oka utahujících se řetězů. Kterými je paní Lauschmannová obmotána jednou provždy. Chladivý kov v tom horku zamrazí.
 
-Úřad dokumentace a vyšetřování zločinů komunismu potvrdil konfiskaci jako čin, kde argumenty a rozhodnutí byly účelově zkreslené. Rudolf a Ulrike Lauschmannovi byli rehabilitováni. Úřady stvrdily, že nebyli kolaboranti ani Němci.
+Úřad dokumentace a vyšetřování zločinů komunismu potvrdil konfiskaci jako čin, kde _argumenty a rozhodnutí byly účelově_ _zkreslené_. Rudolf a Ulrike Lauschmannovi byli rehabilitováni. Úřady stvrdily, že nebyli kolaboranti ani Němci.
 
 Byli řádnými československými občany.
 
@@ -46,15 +48,17 @@ Byli řádnými československými občany.
 
 Neusmívám se, ne, jen…
 
-Ano, teď, zrovínka teď, v momentě, kdy advokát rozmrzele zvedl dvěma prsty s leštěnými nehty ze střechy auta rozmázlou třešni a s odporem ji odhodil, kdy se Bára sehnula a jiný krvavý puchýř vstrčila do úst, šťavnatě rozkousla a pecku vyplivla, kdy si advokát postěžoval, proč jsme museli zaparkovat zrovna na tomto zpropadeném místě, mi hlavou projela ta slova. Jako osvobodivý, ale jedovatý šíp. Polibte mi všichni prdel. Nebo ještě lépe. Polibte si prdel.
+Ano, teď, zrovínka teď, v momentě, kdy advokát rozmrzele zvedl dvěma prsty s leštěnými nehty ze střechy auta rozmázlou třešni a s odporem ji odhodil, kdy se Bára sehnula a jiný krvavý puchýř vstrčila do úst, šťavnatě rozkousla a pecku vyplivla, kdy si advokát postěžoval, proč jsme museli zaparkovat zrovna na tomto zpropadeném místě, mi hlavou projela ta slova. Jako osvobodivý, ale jedovatý šíp. _Polibte mi všichni prdel._ Nebo ještě lépe. _Polibte si prdel_.
 
 Nejsem si tak úplně jistá, koho tím myslím. Čí bíle rozkynuté zadnice. Jako bych se skrze tmavě zelené listí třešňové větvičky zadívala i vzhůru. Vzhlédla do očí každému, kdo…
 
-Bylo by pěkné roztáhnout paže jako v extázi osvícení. Rozverně se zakřenit. Polibte si prdel.
+Bylo by pěkné roztáhnout paže jako v extázi osvícení. Rozverně se zakřenit. _Polibte si prdel_.
 
 Vracím se mezi ty, kdo mají hlavu zatíženou kilovou hroudou másla. Která v letním parnu roztekla a všechno zmastila.
 
 Úmorné vedro, ochablost a únava. Znovu a znovu. Pořád dokola. Od léta do léta. Koho to vlastně překvapuje, dojímá a baví. Monotónní zeleň léta, suchá půda, jasné obzory. Každý rok své myšlenky opaluju na letním slunci. Rožním je a griluju. Vybledlé barvy horkem houstnou a výrazní. Letmý dotek rozpukané puklické zeminy je připomínkou zaseklého háčku pod jazykem. Háčku na předlouhém vlasci.
+
+  
 
 Můj otec, Rudolf Lauschmann, byl rehabilitován. Moje matka, Ulrike Lauschmannová, byla rehabilitována. Poslední tečka za úředně právními tiskopisy. Takových let to trvalo. Před páteční smírčí schůzkou si obhlédnu terén.
 
@@ -74,17 +78,23 @@ Zdálo se, že štěstí na lidi mě opustit nemůže. V tom životně důleži
 
 Vím, kdo vypustil džina zběsilosti; nakazili se nacistickou prašivinou, aniž by si toho byli vědomi. Nakazili se peklem, za jehož zřízení měli být nacisté po právu – protože spravedlivě nelze – potrestáni. Ale za co trestali mě?
 
-Za co tolikrát trestali zrovna mě? Já procházela pekly.
+Za co tolikrát trestali zrovna mě? _Já_ procházela pekly.
 
-Já byla za existenci pekelných kotlů odkopnuta.
+_Já_ byla za existenci pekelných kotlů odkopnuta.
+
+  
 
 Tolikrát mi hlavou probzučela moucha a dorážela: tehdy, v prvním poválečném létě, jsem samodruhou Ženu poslechnout neměla. Neměla jsem se nechat vystrnadit. Ládínek Stolař by mě ve stodole nenechal. Chtěl mě následující noc propustit.
 
 Měla jsem ve stodole vydržet. Jeden jediný den vydržet na slámě, hmátnout do pavučiny, polknout. Nálada a duch dřívější pospolitosti by se probudily, navrátily, přetrvaly. A můj život by byl jiný.
 
+  
+
 Jako Popelka nad ošatkou tady přebírám svá kdyby. Zapomněla jsem, že u auta se sluní Bára s právníkem. Který z očí sesmekl sluneční brýle a jedním prstem jemně kopíruje obrys dívčina obličeje i rudě naběhlý srpek rtů; listí stromů přestalo ševelit, i vítr zatajil dech.
 
 Musím se zmátořit. Přestat planě rozjímat. Musím si uvědomit, proč jsem tady. A trošku hejbnout svojí opotřebovanou kostrou.
+
+  
 
 Vejdu. Nad hlavou mi durdivě zacinká zvonek. Zvoní mi hrana. Těžkopádná, znavená žena s culíkem tmavých, neposedných vlasů omotaných červenou gumičkou na temeni hlavy si mě dlouho nevšímá. Záměrně dlouho.
 
@@ -98,7 +108,7 @@ Polib si, děvenko. A nepřej si, aby ses mi dostala na stůl. Rýpala jsem se 
 
 „Eště něco?“
 
-„Kakao, prosím.“
+„Kakao, _prosím_.“
 
 Zaplatím. Peněženku vsunu zpátky do kabelky. A nehnu se. Údiv oblouků pečlivě vytrhaného obočí.
 
@@ -140,6 +150,8 @@ Denis zkoprní, znehybní všechny údy.
 
 „Proč s tím nejde k soudu? – A co na to Ladislav? – Aha. – A cos jí na to řekla ty? – Tos udělala… dobře. – No, a na kdy se ohlásila? – V pátek jsem tam, přehodím si službu. A uklidni se. Zjistím, co se dá dělat. Máme čtyři dny, prokrista neječ, vždycky se dá něco udělat. – Sežeň její přesnou adresu, datum narození, rodné číslo. Sežeň to co nejrychleji.“
 
+  
+
 Nataša položí sluchátko, vejde zpátky do krámu.
 
 Nataša tápe, neslyší, je to jen zvláštní hukot, který se k ní dere ušními otvory. Nerozeznává začátky a konce slov, omluví se, uteče zpátky za závěs, sesune se ke stolu. Zhluboka dýchá. Postaví vodu na kávu. Hukot myšlenek mizí, nastává odliv. Soustředí se. Vstane, uhladí si boky, srovná bílý límeček. Snaží se zapomenout na bolavé, oteklé kotníky. S úsměvem se vrátí.
@@ -176,9 +188,11 @@ Ozve se táhlý pískot.
 
 Nataša obsluhuje další hlavu pondělního hladového hada a sklem výlohy zahlédne Drbavou, jak se zastavila. S pošťačkou. Několikrát se obě otočí směrem ke koloniálu. Drbavá máchá rukou a pošťačka jí mocně přikyvuje, lokty opřena o rám svého modrého kola, zadek vytrčený ke kostelu.
 
-Určitě probírají, jakej jsem vydřiduch a jak zase podražilo. Omylem drcne loktem do napěchovaného sáčku s čočkou. Hnědé lentilky drnčí na zem, lupají pod nohama. Nataša vzdychne.
+_Určitě probírají, jakej jsem vydřiduch a jak zase podražilo_. Omylem drcne loktem do napěchovaného sáčku s čočkou. Hnědé lentilky drnčí na zem, lupají pod nohama. Nataša vzdychne.
 
 „To máme ale dneska smolnej den.“
+
+  
 
 Obcházím si statek, zrenovovaný lihovar, někdejší škrobárnu, přidružené dílny. Lidé uvnitř si mě zvědavě prohlížejí a mile zdraví. S úsměvem odpovídám.
 
@@ -193,6 +207,8 @@ Takový poklidný návrat domů.
 Probere mě andělské zvonění, netrpělivý klakson.
 
 Vyjdu do lávové žluti. A rozpoznám první tvář. Dceru porodní báby, která mi pomohla na svět. Která se nebála mi do dlaně vtlačit cibulku.
+
+  
 
 „Všechno je to nakonec jenom vodpad.“
 
@@ -222,9 +238,11 @@ To bude velkolepá tečka. Která Puklickým vyrazí dech. Proč bych namáhavě
 
 S hukotem nás předjede rudé auto japonské značky a zvíří prach.
 
+  
+
 Obecní úřad. Sedíme u hranatého stolu. Úzkého jako had zplacatělý pásy buldozeru. S bachratou skleněnou vázou uprostřed. Trčí z ní zaprášené umělé kalíšky křiklavě žlutých narcisů. Obměněná boxerská mužstva. Kdopak z nás bude mít rozšklebenou kůži pod okem? Kterou bude chladit kovovým předmětem.
 
-Jsem klidná. Tentokrát to já nebudu.
+Jsem klidná. Tentokrát to _já_ nebudu.
 
 Sedíme tři proti třem. Jen si potřást pravicí, zapíchnout loket do zaprané šedi ubrusu, zaklesnout dlaně a poměřit síly. Já, která životu, která svým minulostem znovu a znovu odpouští. Vnučka Barbora s vyčesaným drdolem, aby vypadala usedlejší. Právník, který odložil značkové sluneční brýle do ještě značkovějšího kovového pouzdra a sako ležérně zavěsil přes roh opěradla.
 
@@ -238,7 +256,7 @@ Dva přizvaní muži z obecního zastupitelstva stojí proti nám, u zdi. Nese
 
 Je fascinující, jak se za ta desetiletí podezíravý stín podvodné krádeže neslyšně přesunul na mě. Na okradenou. Pamětníci vymírají. Legenda o vpádu hamižné báby ožívá.
 
-Jenomže já už, chlapci, svůj majetek, očuraný a nasáklý pachy cizích těl, zpátky nechci. To vám přijíždím říct. Jak říkám, chlapci, svůj majetek už nechci. Což vám nebudu věšet na nos hned. Ať se taky jednou pro změnu smažíte v nejistotě vy. Chci, abyste na návsi postavili pomník. Mému otci. To je cíl, který mám na dosah ruky. Můj pocit naplnění.
+Jenomže já už, chlapci, svůj majetek, očuraný a nasáklý pachy cizích těl, zpátky nechci. _To_ vám přijíždím říct. Jak říkám, chlapci, svůj majetek už nechci. Což vám nebudu věšet na nos hned. Ať se taky jednou pro změnu smažíte v nejistotě vy. Chci, abyste na návsi postavili pomník. Mému otci. To je cíl, který mám na dosah ruky. Můj pocit naplnění.
 
 Právník je dokonale připravený. Ve svém mahagonem vykládaném voze se vlčácky křenil.
 
@@ -249,6 +267,8 @@ Těší se na brzký a tučný příděl z kořisti. Jenomže já už, chlapci
 Fyzicky je v zasedací místnosti obecního úřadu přítomno osm lidí; hemží se jich tu víc, cítím to. Na obou stranách.
 
 Je tu přeplněno.
+
+  
 
 Vychutnávám svoji převahu. Jak je to najednou prosté. Mladinká sekretářka s dlouhými nehty – vlastně asistentka starosty, jak mě okamžitě opraví – nás s vyplazeným jazykem šouravě obchází; z tácu odděluje příděly voňavé a silné kávy. Než bílý šálek postaví přede mě, vyšplíchne na podšálek horká čerň. Na porcelánové bělobě ulpí a zaschnou drsná kávová zrníčka. Zaschlý trus na rezavém kolečku, v jakém se rozvážel hnůj. Připomíná mi to rozbředlou pražskou čvachtanici tajícího sněhu. Zčernalého špínou ulic.
 
@@ -276,6 +296,8 @@ Vejde Hanka Malá, obejde hrozen lidí, za Natašinými zády zmizí za závěse
 
 „Tak je to dobrý.“
 
+  
+
 „To je sice všecko moc pěkný, co nám tu vo paní Lauschmannový vykládáte, pane doktore, ale my máme zasejc svý informace. A ty sou teda dost vodlišný. Její fotřík byl potrestanej jako nacista.“
 
 „Opakuji, že otec paní Lauschmannové zemřel v koncentračním táboře. Byl to řádný československý občan. Jak jsem řekl. Konfiskace majetku byla protiprávní, dědicové mají právo na odškodnění a navrácení veškerého nezákonně zabaveného majetku.“
@@ -300,7 +322,7 @@ Ani pořízek ve flanelu se nedá odradit od svého dovětku.
 
 „No já si tu dobu nepamatuju, ale prej mluvil německy a málo platil. Takže to nevylučuje, že von –“
 
-„Prosím? Kdo von? Mluvte konkrétně.“
+„Prosím? Kdo _von_? Mluvte konkrétně.“
 
 „No, starej Lauschmann přece.“
 
@@ -312,7 +334,7 @@ Barbora si navléká boxerské rukavice. Nadzdvihne provazy, skloní hlavu. I o
 
 Spokojeně mrkne na svého právnického guru a nemilosrdně na flanel.
 
-„Mluvit by měli pouze zasvěcení. Což ovšem nevylučuje, že se ve vás skrývají kvality jiného druhu.“
+„Mluvit by měli pouze zasvěcení. Což ovšem _nevylučuje_, že se ve vás skrývají kvality jiného druhu.“
 
 Dříve než stačí zmatený pořízek rozevřít masité rty, promluví sám Stolař.
 
@@ -334,6 +356,8 @@ Flanelová košile se pohne.
 
 „No, i kdyby uměla, tak to vůbec nevylučuje –“
 
+  
+
 Ringem prošuměl ostrý neklid. Propírají špinavé prádlo v neckách. Protivník se vytasil ranou pod pás. Jen na mně záleží, bude-li smrtící.
 
 Úder vrací Bára. Rozlícená pokřikuje na Stolaře, aby mu připomněla, kdo tady určuje pravidla hry. S každou větou se zvedá vzhůru. Prudce se předkloní nad tuhými narcisy. Až se baňatá váza zakymácí. Zachytí ji mezi vyboulenými prsy a s bouchnutím postaví zpátky. Takto předkloněná se zapře o desku stolu. Nadávky vyplivuje do pórů Stolařova obličeje. Který se pobaveně odtahuje, odvrací a vtěsnává do opěradla. Frajersky se pohupuje s rukama na stehnech bílých komínků. I s rozvrzanou židlí.
@@ -346,7 +370,7 @@ Vstane. Postaví se za mou židli. Následuje Báru mimo provaziště, pryč z 
 
 Sedím dál. Sama proti pěti. Špitají. Absence vydávaných zvuků mě propojuje s Denisem; zjemnělé senzory v něm tuší sympatizujícího pozorovatele.
 
-Návraty proti proudu času cenzuruju ve vzpomínkách. A nakonec si je musím vypít až do hořkého dna nahlas, dokonce před svědky. A před jakými svědky! Předposlední očistec. Pak přece zbývají už jen zážitky nalepené odtamtud. I v nich by byli schopni vymáchat mi držku.
+Návraty proti proudu času cenzuruju ve vzpomínkách. A nakonec si je musím vypít až do hořkého dna nahlas, dokonce před svědky. A před jakými svědky! Předposlední očistec. Pak přece zbývají už jen zážitky nalepené _odtamtud_. I v nich by byli schopni vymáchat mi držku.
 
 Takže ta dnešní rána pod pás ještě nebude smrtelná.
 
@@ -356,7 +380,7 @@ Nataša za závěsem ofukuje hnědavé knoflíky z lopatky a plní jimi dalš�
 
 „Tak pěknou sobotu, pani Drbavá.“
 
-„Vyhrála jsem dva pytlíky, Nataško! Dyť sem na kase cálovala celý dvě stovky, tady Háňa to potvrdí.“
+„Vyhrála jsem _dva_ pytlíky, Nataško! Dyť sem na kase cálovala celý dvě stovky, tady Háňa to potvrdí.“
 
 Nataša před rozhořčenou paní v šátku přisune druhý chrastivý sáček.
 
@@ -375,6 +399,8 @@ Drbavá se stejně jako pošťačka stydí za své pondělní selhání. Za vst�
 „Jak řikám, děvenky, du s váma.“
 
 Zvonek zacinká, do krámu vstoupí Mistr Oujezdský. Troje ženská ústa se rozevřou, zapomenou na okolní svět a ohromeně vzdychnou.
+
+  
 
 Nevzdávám se. Jsem v právu.
 
@@ -400,6 +426,8 @@ Stolař rudne. Nepříčetnou zlostí. Desky vytrhne.
 
 „Navrhuju krátkou pauzu.“
 
+  
+
 Oba krátce zmizí. Za dveřmi. Do usrkávání kávy mi drnčí jejich hlasy.
 
 Všichni mlčí. Natahují slechy jako zajíci. Aby rozluštili obsah skrytého monologu. Slunce se vyvaluje a přebytečnou energii roz­pouští v kapkách potu na tělech přítomných. Holič požádá asistentku o minerálku. Dívce je trapně. Překříží ruce na prsou. Okusuje si prsteníček levé ruky. Odhání imaginární mouchu. A ustrašeně sebou trhne, když se rozhodneme odsunout židle.
@@ -408,7 +436,9 @@ Já jediná se nezpotím.
 
 „Ty drž hubu, doprdele, dyť ty jsi tady jenom jako svědek, vzal sem tě jako zástupce vobyvatel zámečku, a místo abys bránil starou mámu a ségru, když je chtěj vyšplouchnout jak špinavou vodu na ulici… Mělo mě to napadnout hned, dyť tady nežiješ, nemáš tady k tomu žádnej vztah, člověk si řiká, vemu někoho študovanýho…, měl jsem vzít někoho z místních.“
 
-Sotva stačím ucuknout, jak rychle se vážený pan starosta vřítí zpátky.
+  
+
+Sotva stačím ucuknout, jak rychle se _vážený pan_ starosta vřítí zpátky.
 
 Nezdržuje se rozcvakáváním kroužků. Listy vyškubne. V prstech potěžká vyrvané papíry. Poklepe Denisovi otcovsky na zápěstí. Aniž se na něho podívá.
 
@@ -434,6 +464,8 @@ Denis svou krásnou ruku s dlouhými prsty položí na černé desky. Teď už 
 
 „Nedělej to, Ladislave. – Bude asi opravdu rozumnější vyřídit všechno soudní cestou. Paní Lauschmannová, omlouvám se za nás za všechny, hlavně za sebe, je to nechutné, já vím, a těžko pro své jednání naleznu omluvu, protože –“
 
+  
+
 Stolař si Denise nevšímá. Definitivně.
 
 Rozhodí si papíry potěšeně na stůl. Jako profesionální karetní hráč. Povytahuje jednotlivé trumfy směrem k práv­níkovi. A slova, ty drilem vycvičené neoblomné posly, vysílá ke mně.
@@ -441,6 +473,8 @@ Rozhodí si papíry potěšeně na stůl. Jako profesionální karetní hráč. 
 „Já mám totiž dost dobrýho známýho, co má známý na psychiatrii, a podívejme se, co tam pro mě našli.“
 
 Právníkův panovačný signál k odchodu. Nerušeně si přerovná a překontroluje dokumenty. Které nacpal do aktovky. Znovu ke mně popojde, znovu se dotkne mého ramene, abych se zvedla; tentokrát méně razantně. I on je zvědavý. Větří skandální odhalení.
+
+  
 
 Já větřím starou známou bolest hlavy. Ozývá se nenápadně. Už několik let se mi hlava nenafukuje a nebobtná naráz, trýzeň sublimovala do několika rafinovaných fází. Nejprve trhavá bolest. Jako kdyby mi vlasy a čelo někdo polepil tlustými, rozžvýkanými žvýkačkami. Rozemnul a rozmasíroval je v růžových cuchancích. A pak je prudce strhával. Škubavě odervával. To je první fáze.
 
@@ -450,9 +484,11 @@ Nevzdám se. Já jsem v právu. Je dobře, že se neúnavně vracím do své j�
 
 Nehnu se.
 
+  
+
 Právník popadne svou aktovku, sako si ležérně přehodí přes rameno.
 
-„To vám, pane starosto, neuzná žádný soud na světě. Naopak: my podáme trestní oznámení na neznámého pachatele, který porušil lékařské tajemství o pacientově stavu. Pokud to vůbec celé není padělek a laciný trik. No tak, půjdeme, paní Lauschmannová.“
+„To vám, pane starosto, neuzná žádný soud na světě. Naopak: _my_ podáme trestní oznámení na neznámého pachatele, který porušil lékařské tajemství o pacientově stavu. Pokud to vůbec celé není padělek a laciný trik. No tak, půjdeme, paní Lauschmannová.“
 
 „Jen si počkejte, pane doktore, bude to jen chvilička a stojí to za to. – Tak si to shrnem. Nikdy jste si nezměnila příjmení, žeáno? Je to tak? Je to tak, Frau Gita Lauschmann?“
 
@@ -476,7 +512,9 @@ Bílý plášť na štaflích se rozzáří.
 
 „Jo, ale radši vzadu, Natašo, eště by nám Mistra vočumovali.“
 
-Mistr Oujezdský se orosí, poslušně zaleze za závěs, sedne k uma­kartové desce stolku. Přes hrbolatý povrch čočkových přídělů černým fixem smolí Srdečně a s láskou Jiří Oujezdský. Srdečně a s láskou Jiří Oujezdský. Srdečně a s láskou… Hanka Malá dopíše místo a datum. A Nataša s Drbavou za jeho zády chvatně plní další a další dárková baleníčka.
+Mistr Oujezdský se orosí, poslušně zaleze za závěs, sedne k uma­kartové desce stolku. Přes hrbolatý povrch čočkových přídělů černým fixem smolí _Srdečně a s láskou Jiří Oujezdský. Srdečně a s láskou Jiří Oujezdský. Srdečně a s láskou_… Hanka Malá dopíše místo a datum. A Nataša s Drbavou za jeho zády chvatně plní další a další dárková baleníčka.
+
+  
 
 „A pročpak? No co se vás ptám, vy to sama víte nejlíp. Protože tím krejete svoje zločiny. Svoji pravou tu… identitu. Vždyť vy jste nebyla vdaná jenom jednou, jak je to vo vás všeobecně známý, vy už jste totiž byla vdaná předtim, a dokonce jste měla dítě, nikde neuváděnýho syna jste měla, dneska by mu bylo přes padesát. To nám můžou dosvědčit Denisova máma i paní Drbavá, co tehdá dělala na národnim vejboru, a hlavně tady pan Malý. Viděl vás, dyž ste tu v padesátejch letech byla na špacíru, na vejletě.“
 
@@ -489,6 +527,8 @@ Skoro nikdo to neví, ty smrade.
 Vychutnává nastalé ticho. Kovář kuje železo, tepe do kovadliny.
 
 „A to dítě zabili, muž se ve čtyřiapadesátym voběsil, a vy se tváříte nad každým pohoršeně, filozofujete si a stejně po tom všem myslíte jenom na to, jak se napakovat. – Chci vás ukázat v pravym světle. V hlavě máte všechno pomotaný. I pro vás to bude prospěšný, ujasnit si některý věci.“
+
+  
 
 Stolař mladší si nasliní prst. Přebírá svůj poklad, přehazuje hnůj, přeskupuje horečně listy. Jeden z nich zdvihne nad hlavu. Otáčí se s ním. Na všechny strany. Celým trupem. Toužebně očekávané eso, vydražované umělecké dílo.
 
@@ -503,6 +543,8 @@ Mě fascinuje ta neskutečná připomínka něčeho, co se zdálo být zapomenut
 „Na co? Kdyby byla pravda, že jste prošla koncentrákem a tam vám pomřela celá rodina a pak jste si prožila ještě něco takovýho, kdy vám zase pomřela celá rodina, tak se ptám, jak je možný, že vy jediná jste dycinky přežila, zrovinka vy. Nebo jak je možný, že jste se z toho aspoň nezcvokla, nepomátla úplně. Jak je možný, že se vaše myšlenky pořád upínaj jenom na to, jak vokrást a zničit nevinný, poctivý a pracovitý lidi, když ani ubožáci, co jim pak ty vaše lány znárodnili, zpátky nic nechtěj.“
 
 „Jinými slovy, ptáte se, jak je možné, že ještě žiju?“
+
+  
 
 Kolem Mistra Oujezdského se vrší balení hnědavých bonbonů, není kam šlápnout. Nataša zapne vařič, postaví konvici s dobrou vodou, do hrnku odsype kafíčko.
 
@@ -521,6 +563,8 @@ Nataša do čtyř skleněných stopeček nalije průzračnou tekutinu.
 Mistr Oujezdský políbí dámám ruku. Nataša s Hankou mu nasadí batoh, pod ztěžklé popruhy na ramenou vloží balíčky s měkoučkou vatou.
 
 Drbavá rozevře dveře a ukloní se.
+
+  
 
 První šok a ohromení zamrzne. Už neroztaje. Lepkavé napětí. Bára zatuhla u dveří, s rukou na klice. Nevěřícně si mě prohlíží. Ani ne tak překvapením, kolik utajených třináctých komnat můj život nasál; spíš vztekle. Že jsem na rozhovor o tak intimních věcech přistoupila. Právě s těmito lidmi. Právník se – naoko pohoršeně – pokusí vrátit rozhovor do věcných kolejí. Přinutit mě k okamžitému odchodu; je popuzený, že ho neuposlechnu. Jediný, kdo si mě neprohlíží s nestydatou lačností, je Denis. Naklonil se ke Stolařovi, občas syčivě zašpitá. V trpkém tichu stejně nikomu neunikne ani slabika.
 
@@ -550,11 +594,13 @@ Stolař pootevře rty. Pro jistotu neřekne nic. Abych si to s tím „přizná
 
 Hrdlo se mi stahuje, polknu nasucho, rychle…
 
-Žiletkou, tupou žiletkou mu rozvážně odřezávat, upižlávat horní ret. Potom dolní. Dvě jemně vrásčité, růžové žížaly semlít do karbanátků. Zbyl by gumový paňácovitý obličej s rudým otvorem. Pouťová atrakce, uvidíte, co jste ještě neviděli, za pět korun si vhodíte barevný míček, trefa a hlavní výhra je vaše: udušení té naší paňácovité specialitky. Hlavně se udržet v lati, nezkolabovat, neječet.
+Žiletkou, tupou žiletkou mu rozvážně odřezávat, upižlávat horní ret. Potom dolní. Dvě jemně vrásčité, růžové žížaly semlít do karbanátků. Zbyl by gumový paňácovitý obličej s rudým otvorem. Pouťová atrakce, _uvidíte, co jste ještě neviděli_, za pět korun si vhodíte barevný míček, trefa a hlavní výhra je vaše: udušení té naší paňácovité specialitky. Hlavně se udržet v lati, nezkolabovat, neječet.
 
 „S mým prvním manželem, Adolfem Srázem, který vás tak nečekaně znepokojuje, jsme se seznámili během studií. Bydleli jsme i po narození syna v dvoupokojovém bytě u mojí tety Ottly, která vyběhala moje právo na slušný život. Byl čtvrtek. Krátce po poledni. Horký červencový čtvrtek, stejné horko jako dnes. Zazvonili a slušně pozdravili. Nevinné mládí. Byli tři. Dva z nich podpírali dvacetiletého syna jedné z nájemnic domu. Vlekli ho. Měl orosené, horečné čelo. Že ho ukrutně bolí v podbřišku. A když jsem ta doktorka, že mu snad od toho odpomůžu, nikdo jiný v domě není, všichni jsou v práci, jediná já…“
 
-Poprosím asistentku s umělými drápky o vodu. Je mrštná. Na­žbluňká mi do sklenice mattonku. Přisune ji ke mně, tak rychle, dál, nezdržuj. Chtivá zvědavost. Svlažím rty. Ubrouskem přitisknutým na ústa ten úkon zpečetím.
+Poprosím asistentku s umělými drápky o vodu. Je mrštná. Na­žbluňká mi do sklenice mattonku. Přisune ji ke mně, _tak rychle, dál, nezdržuj_. Chtivá zvědavost. Svlažím rty. Ubrouskem přitisknutým na ústa ten úkon zpečetím.
+
+  
 
 „Položili ho na kanape v kuchyni. Soustředila jsem se na příznaky jeho nevolnosti. Sahala mu na čelo, zda má skutečně vysokou horečku, prohmatávala tu dětskou kůži na břiše, abych vyloučila akutní zánět slepého střeva. A pozdě, příliš pozdě mi došlo, že se chovají prapodivně všichni tři. Příliš pozdě, abych před nimi mohla ještě včas přibouchnout dveře. Nebo svým výkřikem do chodby přivolat pomoc.
 
@@ -565,6 +611,8 @@ Nemusím vykládat vůbec nic. Mám se otočit na podpatku a vyjít do teplého
 Barbora zbledla, bojí se. Muži tají dech, rozšiřují se jim zorničky.
 
 „Útok byl nenadálý.“
+
+  
 
 Chráněn věží kostela se Oujezdský opře baťohem o drolivou zeď, zhluboka si lokne zteplalého portského; lepí se na patro. Zatíženými, bolavými rameny se odrazí od zdi, vejde do chladného prostoru, který vábí zkonejšením mimo čas. Podlé vábení. Průvan Oujezdskému ochladí spánky. Rád by odhodil závaží na zádech, všechna závaží by tak rád odhodil a stál tu před oltářem v zkosených paprscích nahý, rád by ztratil půdu pod nohama, vznesl se do kopule věže, s roztaženýma rukama a nastavenými dlaněmi. Rád by vzlétl do slunce, koupal se v teplé lázni, nad prázdnými, ztichlými lavicemi.
 
@@ -594,7 +642,7 @@ Pan farář podá černý fix.
 
 „Jestli to nevadí. Inkoustové pero u sebe raději nenosím, už dvakrát jsem je vytrousil.“
 
-Oujezdský roztřesenou rukou vepíše Srdečně a s láskou Jiří Oujezdský.
+Oujezdský roztřesenou rukou vepíše _Srdečně a s láskou Jiří Oujezdský._
 
 „V pořádku?“
 
@@ -602,17 +650,21 @@ Oujezdský roztřesenou rukou vepíše Srdečně a s láskou Jiří Oujezdský
 
 Oujezdský dovleče nákup. Na zápraží vykouří cigaretu. Pak zamkne sotva vyvětranou chalupu, nahází nevybalené věci do auta, zapne klimatizaci a mizí.
 
+  
+
 „Útok byl nenadálý.
 
-Když jsem se shýbala k jeho břichu, oběma rukama mi stiskl hlavu a trhnul s ní směrem dolů, níž, mezi jeho stehna. Držel mou hlavu v bolestivých kleštích. A zbylí dva prohmátli moje ňadra, ta krásná ňadra, oblá, nalitá mlékem. Bránila jsem se zuřivě, svou kůži jsem, vážený pane Stolaři, nedala zadarmo. Zlomili mi levou ruku. Tady – chcete si sáhnout? Pak pravou. Je to zvláštní pocit. Ležet se zlomenýma rukama. Ochromený pták. Co nemůže máchat křídly. Nemůže se pohnout z místa. Neomdlela jsem. Nekřičela. Vedle spal čtyřměsíční syn. Já se modlila, ať se neprobudí. Že to vydržím. Pak odejdou. Odejdou a bude… klid. Jednou odejít musí. A tak se na mně vystřídali. Na kuchyňském kanapi. Chcete podrobnosti?“
+Když jsem se shýbala k jeho břichu, oběma rukama mi stiskl hlavu a trhnul s ní směrem dolů, níž, mezi jeho stehna. Držel mou hlavu v bolestivých kleštích. A zbylí dva prohmátli moje ňadra, ta krásná ňadra, oblá, nalitá mlékem. Bránila jsem se zuřivě, svou kůži jsem, _vážený pane Stolaři_, nedala zadarmo. Zlomili mi levou ruku. Tady – chcete si sáhnout? Pak pravou. Je to zvláštní pocit. Ležet se zlomenýma rukama. Ochromený pták. Co nemůže máchat křídly. Nemůže se pohnout z místa. Neomdlela jsem. Nekřičela. Vedle spal čtyřměsíční syn. Já se modlila, ať se neprobudí. Že to vydržím. Pak odejdou. Odejdou a bude… klid. Jednou odejít musí. A tak se na mně vystřídali. Na kuchyňském kanapi. Chcete podrobnosti?“
 
-Báře se třese hlas. Děvenka ještě neví, že takové věci se dějí každý den, ještě je z nich roztřesená, říká mi babičko, takhle mě neoslovuje často.
+Báře se třese hlas. Děvenka ještě neví, že takové věci se dějí každý den, ještě je z nich roztřesená, říká mi _babičko_, takhle mě neoslovuje často.
 
 „Babičko, proč to děláš, mlč, prosím tě, mlč, pojď pryč.“
 
-Na mě žádná prosím neplatí.
+Na mě žádná _prosím_ neplatí.
 
 Teď už ne.
+
+  
 
 „Dobře. Ano. Jistě. Doplňující otázky si ponecháme na později. – Neomdlela jsem. S jasným vědomím jediného úkolu. Odvést pozornost výhradně na sebe. Jenomže můj chlapeček se probudil. Zaslechla jsem jeho vrnění. Začala jsem kvílet, abych přehlušila jeho pláč, ale volal mne hlasitěji, znovu a znovu, ječela jsem, zacpali mi pusu. A ten jemný pláč zaslechli… Přinesli ho… Přinesli ho a… Zabili. Před mýma očima. Před očima chromého ptáka. Který svoje mládě neochránil. Nevzlétl. Ani nemohl pohnout křídly.
 
@@ -626,15 +678,21 @@ Při své večerní procházce Žofínem sedne společně s druhou lahví na b�
 
 Dlouho budou slunit svá nafouklá bříška mezi pádlujícími zamilovanými dvojicemi a rozvrzanými rodinnými šlapadly.
 
+  
+
 Stolař si rozpačitě mne vytáhlý nos. Přejíždí prsty přes černé póry ucpané mazem.
 
 Tupým kapesním nožíkem s obrázkem jelena, nožíkem, který u sebe nosil starší bratr Adin, když jsme jako děti tajně úprkem mizely do lesa, nožíkem, kterým vyrýpával houby z mechu i vrýval obrazce do kůry borovic a bříz, právě tím nožíkem Stolařovi nejprve u kořene nosu naříznout rýhu. Pak dvě podélné čáry. Širší obdélníkovitý proužek. A kůži stáhnout. Pižlat, přepilovat nosní kůstky, vykosťovat čmuchavý výstupek uprostřed obličeje. Slouplou kůži nechat vysušit na slunci. Černou tuší ji ozdobit obrazci písmen G a I a T a A. Ve všech směrech. Vyztužit ten dekor a vypnout na stínítko minilampičky. Pod kterou bych skládala svůj pláčem znetvořený obličej každou noc. Zbylé kůstky s trsy masa vhodit do vroucí vody. Posilující masový vývar. Hlavně se udržet v lati, nezkolabovat, neječet.
 
 „Takže, jak zněla úvodní otázka, pane Stolaři? Jak je možné, že ještě žiju? Jak je možné po tom všem zůstat normální? V šíleném lidském světě? Který se nemění a nezmění. Je přece lhostejné, zda tu sedí váš otec nebo vy nebo váš syn nebo váš vnuk. Člověk zůstává stejný. Není naděje. Ani ve vás, ani ve mně, ani v našich dětech. Když všechny, jak tu stojíte a sedíte, postupně sloupnu z kůže, najdu to samé. Nelišíme se.“
 
+  
+
 Stolař se divně vrtí. Střídavě si mne nos. Střídavě popotahuje pravý ušní lalůček. Střídavě rozevírá a zavírá ty svoje vyprázdněné černé desky. Přesunuje buclatou vázu s mrtvými narcisy. Do domnělého středu stolu. Kdybych mu podřízla krk, nevyteče ani krůpěj lidské, teplé krve.
 
 Ztratil kontrolu nad situací. Trumfy třímám v ruce já.
+
+  
 
 Starosta Stolař. Viděl sám sebe vstávat v ringu. S vítězně vztyčenou pravicí. Kterou by mu patolízalsky přidržovali oba stojící junáci. Jeho věrní nohsledi. Kopie, které si vychoval. Ale já mu boxerské rukavice strhla, přivlastnila si je a přetáhla přes svoje pařátky. Nasála z nich jeho sílu, zdvojnásobila tu svoji. Vyžádá si je brzy zpátky. Nerudně mi je vyrve. To by jinak nebyl on. Až se mu vrátí, až do nich vsune svoje mohutné pěsti, připečou se mu ty rukavice k pokožce, přiškvaří se. A rozleptají mu ji. Už je nebude moci nikdy svléknout. Hlavně se udržet v lati, nezkolabovat, neječet.
 
@@ -648,9 +706,11 @@ Koutky rtů stočí k trpké vážnosti.
 
 „A taky prej nejni dodneška jasný, teda vyšetřování tehdá nevobjasnilo, jak povidal tady Láďa – je to tak, Láďo? – jestli šlo vo sebevraždu. Jestli mu snad i někdo jako nepomoh –“
 
+  
+
 Rána pěstičkou do stolu.
 
-„Otázka, kdo je tu normální, spíš míří do vašich řad. Nepřijeli jsme sem, abychom rozebírali babiččin život. To vy se máte zpovídat. – A ty se vzpamatuj, copak tohle jsou pro tebe nějací partneři, abys jim tu rozkrývala svoje soukromí? Jsi nechutná.“
+„Otázka, kdo je tu normální, spíš míří do vašich řad. Nepřijeli jsme sem, abychom rozebírali _babiččin_ život. To vy se máte zpovídat. – A ty se vzpamatuj, copak tohle jsou pro tebe nějací partneři, abys jim tu rozkrývala svoje soukromí? Jsi nechutná.“
 
 Barča vzlykne. Vzteká se. Vzteká se ponížením, které jsem nám oběma přichystala. I Denis chce zasáhnout; se svraštělým čelem načíná to svoje šeptavé syčení. Právník tiše a bedlivě hodnotí, situaci kobrovitě sleduje.
 
@@ -682,11 +742,13 @@ Drbavá sundá z kudrnaté hlavy šátek a podepsanou bílou hrudku do něj za
 
 „No na tu čumendu.“
 
+  
+
 „Tak pěkně popořádku, pánové.“
 
 Všechno má svůj čas a ten plyne dopředu i zpátky, bez přehrad a slepých koryt.
 
-„Žiju. Nezabila jsem se tolikrát. Nezabila jsem se tam, ani po návratu odtamtud. Nezabiju se nikdy. Tam se děly věci, které lidská mysl neobsáhne a srdce neunese. A takové věci se mohou opakovat kdykoliv. Stačilo by dát prostor té nekonečné touze hledat si obětní beránky. Hledat si ty nejslabší a drtit a drtit a vládnout. Nezabila jsem se ani tehdy, když navraceli vědomí zchromlému ptáku bez ptáčete. Nezabila jsem se, protože se zabil můj muž. Zbaběle. A jak jednoduché to pro mě tehdy bylo. Zabít se. I dneska by to bylo jednoduché. I dneska by to pro mě bylo nesmírně snadné, tak lehké. A ospravedlnitelné. Vždycky se mi zdálo, že je mnohem těžší nashromáždit argumenty pro to, aby se člověk nezabil. Aby žil.
+„Žiju. Nezabila jsem se tolikrát. Nezabila jsem se _tam_, ani po návratu _odtamtud_. Nezabiju se nikdy. _Tam_ se děly věci, které lidská mysl neobsáhne a srdce neunese. A takové věci se mohou opakovat kdykoliv. Stačilo by dát prostor té nekonečné touze hledat si obětní beránky. Hledat si ty nejslabší a drtit a drtit a vládnout. Nezabila jsem se ani tehdy, když navraceli vědomí zchromlému ptáku bez ptáčete. Nezabila jsem se, protože se zabil můj muž. Zbaběle. A jak jednoduché to pro mě tehdy bylo. Zabít se. I dneska by to bylo jednoduché. I dneska by to pro mě bylo nesmírně snadné, tak lehké. A ospravedlnitelné. Vždycky se mi zdálo, že je mnohem těžší nashromáždit argumenty pro to, aby se člověk nezabil. Aby žil.
 
 Odejít dobrovolně, říká se. Nikdy to není dobrovolné. Člověk je donucen zjevnými i skrytými proudy, které vytvarují a vymelou břehy takového činu. Proudy vnějších okolností. Vnitřních trýzní. Je postrkován a doplaven k poslednímu.
 
@@ -694,11 +756,15 @@ Když člověk pozná, co všechno život obnáší a jak málo je v davu spra
 
 A všechno se tím definitivně změní.“
 
+  
+
 Stolař si mne lalůček. Propíchat mu zrezivělým hřebíkem několik otvorů, kulatých děr do uší. A těmi dírkami protahovat padesátikilová, lesklá, temně kovová závaží. Přidávat další a další ohmatané kusy, lesknoucí se jako psí kulky. Až by se ušní boltce neměly kam prověšovat. Utrhly by se. Urvaly by se nejenom ty robustně krásné, železné náušnice.
+
+  
 
 „Zešílela jsem. Máte pravdu. Na doraz. Do té doby jsem balancovala na tenké struně. Na drátu napnutém mezi Puklicemi a místem, kde zavraždili moje rodiče.
 
-Adolf Sráz, můj domnělý manžel, moje domnělá opora a můj dnešní přízrak, za mnou do nemocnice přišel. S tetou. On jedinkrát. Ottla přicházela každý den. Dokonce jsem se na setkání s ním těšila, těšila jsem se na lidské teplo, do kterého se zavinu; zaklesneme se do sebe jako poprvé, protože nás oba potkala taková… taková stmelující ztráta. Těšila jsem se na jeho jméno; znal pocity parchantů, kterým ves neodpouští. Jenomže on už měl v hlavě všechno srovnané. Přišel jenom proto, aby mi řekl, že jeho syna zabili, protože… jeho syn zemřel, protože… jsem si já užívala. Viník jsem byla já! Neunesl ten stud, co se na něho nalepil životem se mnou. Jak rád by vstoupil do časové smyčky, tentokrát mě na schodišti fakulty obloukem minul a vrátil se do svého života… Napsal sebelítostivý dopis a opustil peklo na zemi, jaké jsem mu prý já přichystala. Oběsil se na půdě domu, v němž jsme bydleli, slaboch. Na prádelní šňůře nájemnice, jejíž syn mě požádal, zda bych mu neulevila od bolesti v podbřišku. Nájemnice, která se za svobodna jmenovala Poledňáková. Nájemnice, která po celý život tak dojemně pečovala o svého mladšího bratra, co se uhnízdil v Puklicích… Která vynášela odpadky, slídila a důvěrně tokala s mým mužem, po chodbách i činžovním dvorku padesátých let pohazovala jedovaté otazníky kolem mé minulosti a krmila jimi svého syna. A byla to zrovna ona, kdo manžela našel. Když vystoupala s košem na prádlo sbírat pod střechu vyprané, suché ložní povlečení. Modře kostičkované povlečení.“
+Adolf Sráz, můj domnělý manžel, moje domnělá opora a můj dnešní přízrak, za mnou do nemocnice přišel. S tetou. On jedinkrát. Ottla přicházela každý den. Dokonce jsem se na setkání s ním těšila, těšila jsem se na lidské teplo, do kterého se zavinu; zaklesneme se do sebe jako poprvé, protože nás oba potkala taková… taková stmelující ztráta. Těšila jsem se na jeho jméno; znal pocity parchantů, kterým ves neodpouští. Jenomže on už měl v hlavě všechno srovnané. Přišel jenom proto, aby mi řekl, že jeho syna zabili, protože… jeho syn zemřel, protože… jsem si já užívala. Viník jsem byla já! Neunesl ten stud, co se na něho nalepil životem se mnou. Jak rád by vstoupil do časové smyčky, tentokrát mě na schodišti fakulty obloukem minul a vrátil se do _svého_ života… Napsal sebelítostivý dopis a opustil peklo na zemi, jaké jsem mu prý _já_ přichystala. Oběsil se na půdě domu, v němž jsme bydleli, slaboch. Na prádelní šňůře nájemnice, jejíž syn mě požádal, zda bych mu neulevila od bolesti v podbřišku. Nájemnice, která se za svobodna jmenovala Poledňáková. Nájemnice, která po celý život tak dojemně pečovala o svého mladšího bratra, co se uhnízdil v Puklicích… Která vynášela odpadky, slídila a důvěrně tokala s mým mužem, po chodbách i činžovním dvorku padesátých let pohazovala jedovaté otazníky kolem mé minulosti a krmila jimi svého syna. A byla to zrovna ona, kdo manžela našel. Když vystoupala s košem na prádlo sbírat pod střechu vyprané, suché ložní povlečení. Modře kostičkované povlečení.“
 
 ## Zamrzlá moře
 
@@ -726,7 +792,9 @@ Hanka Malá převezme od Nataši plnou bednu, postojí s ní, než Nataša vysm
 
 „Stolař je tvůj příbuznej, přimluv se, Nataško, ať to stopí. Heleď, kluk by měl škraloup, chce na vysokou. Dlužný nezůstanem. Však vám to ten náš makovec jednou vrátí. I s úrokama.“
 
-„Kdybych se zabila i já, přiznala bych jim absolutní vítězství. Kdybych rezignovala a zbláznila se, udržovala ten otupující stav, utekla se do něho, přiznala bych, že oni, že vy vítězíte neustále. A to jsem nemohla dopustit. Přepadli mě. Znásilnili. Nalámali ruce jako suché špagety. Na prsa nožem vyryli hákový kříž. Přinesli mi podivuhodné dary, ti tři králové. Dlouhé měsíce jsem jenom ležela. Nemluvila. Odmítala jíst. Nikdy jsem se z ničeho nedostala. Ale žiju. A nedám se.“
+  
+
+„Kdybych se zabila i já, přiznala bych _jim_ absolutní vítězství. Kdybych rezignovala a zbláznila se, udržovala ten otupující stav, utekla se do něho, přiznala bych, že _oni_, že vy vítězíte neustále. A to jsem nemohla dopustit. Přepadli mě. Znásilnili. Nalámali ruce jako suché špagety. Na prsa nožem vyryli hákový kříž. Přinesli mi podivuhodné dary, ti tři králové. Dlouhé měsíce jsem jenom ležela. Nemluvila. Odmítala jíst. Nikdy jsem se z ničeho nedostala. Ale žiju. A nedám se.“
 
 Stolař si odkašle. Zahuhlá zastřeným, vypůjčeným hlasem.
 
@@ -734,13 +802,15 @@ Stolař si odkašle. Zahuhlá zastřeným, vypůjčeným hlasem.
 
 „Z toho všeho – konkrétně pro vás – neplyne vůbec nic. Jenom pro mě, krucinál.“
 
-V duchu mu vracím obličej. Přišívám rosolovitý jazyk. Látám nos i uši. Navlékám ozdravěnou kůži jeho dlaním. Proč se vlastně držet v lati, proč nezkolabovat, proč si nezaječet. Chci někomu vyvrhnout svůj příběh.
+V duchu mu vracím obličej. Přišívám rosolovitý jazyk. Látám nos i uši. Navlékám ozdravěnou kůži jeho dlaním. Proč se vlastně držet v lati, proč nezkolabovat, proč si nezaječet. _Chci_ někomu vyvrhnout svůj příběh.
 
 „Protože, milánku, dalo dost práce, naučit se znovu žít. Vydolovat si pro sebe něco pozitivního. Z lidí. Uvěřit. Ale dokázala jsem to, znovu jsem to dokázala. Ne sama, pochopitelně. Teta Ottla omývala moji mysl. Aby z ní spolu s horkou pěnou vytekly všechny ty sračky. To ona rozsvěcovala první svíčky v potemnělé hlavě, které je tak snadné sfouknout. Vyškrtala tuny a tuny sirek. A já to dokázala. Všechny ty nutné a nesmyslné úkony. Dokázala jsem to. To je moje vítězství. Vstát, popadnout zubní kartáček, vymačkat pastu, vyčistit zuby. Nasnídat se. Odsypat mletou kávu. Zamíchat lžičkou v čaji. Urovnat myšlenky, sesoustředit se v zaměstnání. Položit dlaň na studené čelo. Pečlivě a s profesionálním odstupem se prohrabávat v lidských tělech. Rozevřít knihy, odborně se vzdělávat. Zamilovat se. Radovat. A fyzicky se milovat. Například.“
 
-Bára nahrává Stolařově teorii, přerušuje mě výkřiky ty ses snad zbláznila, co jim to tady vykládáš. Čím méně je příčetná Barbora, tím klidnější je právník. Naslouchá pobaveně jako zhulená sfinga. Nehne brvou. Cosi se mu honí hlavou. S vnitřní, tichou potěchou poměřuje posluchače. Žralok odhaduje hejno splašených rybiček.
+  
 
-„Jak říkám, to bylo to nejtěžší. Dotýkat se živého lidského těla. Dovolit, aby se někdo dotýkal mě. To bylo nejtěžší. A já to zvládla, dokázala jsem to. Zvítězila jsem. Nad monstry, co za mnou neustále slídí v přístěncích a šustí po špejcharech. Nad vyzáblinami odtamtud. Nad Puklicemi. Nad trojicí opilých králů. Dokázala jsem se podruhé vdát, porodit a vychovat další dítě. Lpět na potomstvu. Mít ráda obě vnučky. Vidíte, jak nádhernou a chytrou mám vnučku? No jen si ji prohlédněte ze všech stran. – Báro, pojď dva kroky blíž, natoč se. – A nikdo, ani vy, rychtáři, mě už nikam skopávat nebudete. Vy jste takový neviditelný čtvrtý stín těch tří. Který mi chce kosti polámat dneska. Tady a teď. Stavíte se do pozoru jeden vedle druhého. Pochodujete ve stejném rytmu. Předstíráte břichabol. Vztáhnu k vám pomocnou ruku. Vy se do ní zahryznete. A že vás je. Za můj dlouhý, podělaný život.“
+Bára nahrává Stolařově teorii, přerušuje mě výkřiky _ty ses snad zbláznila, co jim to tady vykládáš_. Čím méně je příčetná Barbora, tím klidnější je právník. Naslouchá pobaveně jako zhulená sfinga. Nehne brvou. Cosi se mu honí hlavou. S vnitřní, tichou potěchou poměřuje posluchače. Žralok odhaduje hejno splašených rybiček.
+
+„Jak říkám, to bylo to nejtěžší. Dotýkat se živého lidského těla. Dovolit, aby se někdo dotýkal mě. To bylo nejtěžší. A já to zvládla, dokázala jsem to. Zvítězila jsem. Nad monstry, co za mnou neustále slídí v přístěncích a šustí po špejcharech. Nad vyzáblinami _odtamtud_. Nad Puklicemi. Nad trojicí opilých králů. Dokázala jsem se podruhé vdát, porodit a vychovat další dítě. Lpět na potomstvu. Mít ráda obě vnučky. Vidíte, jak nádhernou a chytrou mám vnučku? No jen si ji prohlédněte ze všech stran. – Báro, pojď dva kroky blíž, natoč se. – A nikdo, ani vy, rychtáři, mě už nikam skopávat nebudete. Vy jste takový neviditelný čtvrtý stín těch tří. Který mi chce kosti polámat dneska. Tady a teď. Stavíte se do pozoru jeden vedle druhého. Pochodujete ve stejném rytmu. Předstíráte břichabol. Vztáhnu k vám pomocnou ruku. Vy se do ní zahryznete. A že vás je. Za můj dlouhý, podělaný život.“
 
 Nádherný, skvostně úlevný vztek.
 
@@ -762,19 +832,21 @@ Drbavá se přiřítí ve zbrusu novém šátku, se stopami nevyžehlených skla
 
 „Jo todle. – Ženský chtěj vidět ten podpis!!!“
 
-Nataše to docvakne, zmizí za závěsem, vynoří se zpátky. Nad hlavou třímá písmeny pošpiněný obyčejný papírový sáček, Srdečně a s láskou Jiří Oujezdský, ukáže ho davu za sklem výlohy a předá opatrně Drbavé do dlaní. Ta zacinká dveřmi, na návsi dlouze rozkládá a pak nechává kolovat z ruky do ruky.
+Nataše to docvakne, zmizí za závěsem, vynoří se zpátky. Nad hlavou třímá písmeny pošpiněný obyčejný papírový sáček, _Srdečně a s láskou Jiří Oujezdský_, ukáže ho davu za sklem výlohy a předá opatrně Drbavé do dlaní. Ta zacinká dveřmi, na návsi dlouze rozkládá a pak nechává kolovat z ruky do ruky.
 
 „Jéžišmarjá, vopravdu.“
 
 „Ukaž.“
 
-„A dokonce s láskou.“
+„A dokonce _s láskou_.“
 
 „To potřebuju pro Helču, bude mít narozeniny.“
 
 A tak se Hanka Malá znovu za plentou převlékne do bílého pláště, podává zboží, váží, balí. Nataša sčítá, přepočítává drobné, čelo se leskne levným krémem, kasíruje a obřadně, s magickým požehnáním předává zákaznicím vysněný poklad. Ženy se řadí do fronty, bzučí vzrušením, skupují ležáky, jen aby si mohly navrch tašky položit nebo za prsa zástěry vsunout vzácný suvenýr.
 
 V slunečném prachu návsi oživnou podoby jejich matek, tchýní, sester, dcer či vnuček; mačkají se a vztahují prázdné ruce. Ženy se otočí jako na obrtlíku a vřadí zpátky do nekončící fronty.
+
+  
 
 Nejvíc zmatený je seschlý Klein. Poposedává. Potřebuje rozmotat tělo propletených, seschlých haluzí. Přisává se k jednotlivým obličejům. Můj vynechává.
 
@@ -784,7 +856,7 @@ Očekává vysvětlení. Zamotal se úplně do nití svého dlouhého vedení. C
 
 Stolař se na něho oboří vztekem smíseným se strachem.
 
-„Prokristapána, to víš, že sem tam nebyl, to je jenom jako, já vlastně taky nevím, co tim myslí.“
+„Prokristapána, to víš, že sem tam nebyl, to je jenom _jako_, já vlastně taky nevím, co tim myslí.“
 
 Stolař hledal. A našel. Svůj hlas.
 
@@ -800,21 +872,27 @@ Nevšímám si toho navoněného muže s břitvou. Co se mu gelem leskne čern�
 
 „Pro mě jste, Stolaři, vrah. Ne proto, že oživujete moji minulost a odvádíte tak pozornost od té své. Ale proto, že moji minulost oživujete, abyste pohřbil moje právo na přítomnost. To se vám ale nepovede.“
 
+  
+
 Stolař sedí jako zařezaný. Promyšlený úder na můj solar plexus se mu vrátil s dvojnásobnou tvrdostí. Teatrálně si odkašle.
 
-„No, já myslím, že tím bychom za celou tou vaší rodinnou patálií mohli udělat šlus a vrátit se k meritu věci, a tak vlastně –“
+„No, já myslím, že tím bychom za celou tou vaší _rodinnou_ patálií mohli udělat šlus a vrátit se k meritu věci, a tak vlastně –“
 
 Ne ne ne, milánku, nic se ukončovat nebude. Ten syčák si myslí, že má právo dirigovat. Že dál bude ten samozvaný ajznboňák diktátorsky přehazovat výhybky rozhovoru. Jak se to jemu bude hodit do krámu. Ne ne. Ne a ne.
 
 „Mě budeš poslouchat, Stolaři. Mě. Vyposlechneš si to pěkně až do konce. Až do dna. Narvi si to ušima do tý svojí kebule, když jsi o to tolik stál. Nejhorší přece nebylo to, co provedli se mnou. Nejhorší nebylo, že se můj muž zbaběle a srabácky sesul. A zabil. Nejhorší bylo, že před mýma očima, před těmahle očima uřízli hlavu mému synovi. A pak si tím samým nožem naporcovali slaninu a nakrájeli chleba. A s tou hlavičkou… Přihrávali si ji kolem kuchyňského kanape. Ke kterému mě přibili hřeby znehybňující bolesti. Přihrávali si ji, protože jim to připadalo vtipné. A do sebe ládovali sousta kmínového chleba obloženého rozkrájenou slaninou. Z ruky do ruky si předávali zrůžovělý nůž. Na který si ta sousta napichovali jako delikátní špíz. Mizel jim v ústech. Nůž znovu a znovu obnažovali svými silnými, zdravými zuby.“
 
-„Mlč už, babi, mlč.“
+  
+
+„Mlč už, _babi_, mlč.“
 
 „Soustředila jsem se na jediný bod.“
 
 „Přestaň, mlč už.“
 
 „Na kmitající, sotva znatelný trojúhelník, na tu šipku na hlavičce naporcovaného kojence, já jsem monitorovala pohyb fontanely, která už nikdy neměla srůst. Rozdrtili napadrť můj oblázek. Který jsem měla vyhlazovat. Oblázek, ten jediný důležitý oblázek na světě, který jsem měla sevřít pevně v dlani, ohlazovat, dlouze pozorovat, hladit, leštit a cídit. A nerozptylovat se okolím. Tehdy –“
+
+  
 
 „Mlč už, mlč!“
 
@@ -844,7 +922,7 @@ Regály se prázdní, vydávají z posledního. Hanka Malá sfoukává prach z�
 
 „Ty ne, Háňo, budu zavařovat.“
 
-Pot odkapávající z Natašina čela rozpije písmeno posledního daru s láskou.
+Pot odkapávající z Natašina čela rozpije písmeno posledního daru _s láskou_.
 
 Je vykoupeno.
 
@@ -878,6 +956,8 @@ Drbavá, která sedí jako puťka na prázdné bedně od whisky, si převáže �
 
 „Já du s váma. Ať je tam taky zástupce nás starších.“
 
+  
+
 Pánové mohou být spokojeni. Potvrdilo se, že nejsem normální. Poulí vytřeštěné oči. Jako na středověkou ženu obviněnou z čarodějnictví. Která ještě před započetím samotného výslechu i mučení dobrovolně a pyšně přiznala, že obcovala s ďáblem.
 
 Vykolejenému Stolařovi se rozblesklo hodně pozdě. Až kapky skutečné, nevypratelné krve na ubruse obecního úřadu rozčísly jeho mozek. Jako blesk. Poslední prudký otisk na purpurově vzorovaný stůl byl jako rána kladivem do palice. Zachraňuje mocenskou pozici. Nechce být k. o., nechce být odpočítán.
@@ -890,13 +970,17 @@ On pořád lpí na dodržování pravidel. Přece jsem mu teď do stolu dlaněmi
 
 Tak se mi tu rozkecává pan ortoped. Já svou odpověď ze setr­vačnosti házím Stolařovi. Chvíli vykám, chvíli tykám.
 
-Můj výraz pohrdání.
+_Můj_ výraz pohrdání.
+
+  
 
 „Na tohle přece žádná omluva neexistuje. Nikomu to neodpustím. Nikdy. O některých obdobích svého života já nemluvím. Mívám tak po těch letech pocit, že se to stalo někomu jinému. Že se mě to vlastně netýkalo a netýká. A vy si tu místo omluvy za to, že jste mi sprostě ukradli střechu nad hlavou a z domova vyhnali jak vyzáblou, prašivou fenu, v pohodě a klidu vytáhnete úřednické, černé desky. Naducáte si tváře zkaženým vzduchem a jediným výdechem sfouknete letitý, tlustý poprašek. Oživíte zločiny, které se vás vlastně ani netýkají. Přivedl jste ty tři zfetované poloblby zpátky do mého života. Všechny tři. Aby mi to udělali znovu.“
 
 Barunce podklesávají kolena, štká. Její tělo se na mě hroutí jako beztvará masa. Vyprostím se z jejího zesláblého sevření. Obtěžuje mě.
 
-„Ještě že odtamtud se vrátilo tak málo lidí. Kteří by si navzájem dennodenně už jen svou existencí připomínali všechna svoje selhání i všechny davy musulmanů, roztrhané cáry kůže a hromady vyrvaných zlatých zubů, v nichž se ztratila i tatínkova zlatá korunka jako jehla v kupce sena, všechna ta pohozená těla novorozenců, které nesměly matky s podvázanýma, těžkýma prsama kojit, aby se takovým nevinným experimentem zjistilo, jak dlouho dítě vedle své mámy vydrží, než hlady zemře. Váš otec také experimentoval. Také chtěl, abych hlady dodechla. Ale já nebyla nemluvně. Já můžu svědčit. Mívám chvíle ukotvenosti, kdy jsem svatosvatě přesvědčená, že to všechno jsou příběhy daleké historie. Chmurné, zmutované odrůdy pohádek Tisíce a jedné noci, zmutované v noční můry. Cizí příběhy. Ale co kdyby přišel někdo jako vy, starosto, a rozrýpával i tyto vzpomínky? Háčkem se mi zasekl za horní patro a na světlo vyrvával tamní dny. Jeden po druhém. Kovářskými kleštěmi vytrhával bez umrtvení, bez hltu slivovice, i zdravé, silné zuby kovářský pomocník Ládínek Stolař. Existují vzpomínky, kterými mám právo rozdírat se jen já sama. Ale pokaždé nečekaně nakráčí pohodný, aby trhal a vytahoval nitě usilovně zalátávaných ran –“
+„Ještě že _odtamtud_ se vrátilo tak málo lidí. Kteří by si navzájem dennodenně už jen svou existencí připomínali všechna svoje selhání i všechny davy musulmanů, roztrhané cáry kůže a hromady vyrvaných zlatých zubů, v nichž se ztratila i tatínkova zlatá korunka jako jehla v kupce sena, všechna ta pohozená těla novorozenců, které nesměly matky s podvázanýma, těžkýma prsama kojit, aby se takovým nevinným experimentem zjistilo, jak dlouho dítě vedle své mámy vydrží, než hlady zemře. Váš otec také experimentoval. Také chtěl, abych hlady dodechla. Ale já nebyla nemluvně. Já můžu svědčit. Mívám chvíle ukotvenosti, kdy jsem svatosvatě přesvědčená, že to všechno jsou příběhy daleké historie. Chmurné, zmutované odrůdy pohádek _Tisíce a jedné noci_, zmutované v noční můry. Cizí příběhy. Ale co kdyby přišel někdo jako vy, starosto, a rozrýpával i tyto vzpomínky? Háčkem se mi zasekl za horní patro a na světlo vyrvával tamní dny. Jeden po druhém. Kovářskými kleštěmi vytrhával bez umrtvení, bez hltu slivovice, i zdravé, silné zuby kovářský pomocník Ládínek Stolař. Existují vzpomínky, kterými mám právo rozdírat se jen já sama. Ale pokaždé nečekaně nakráčí pohodný, aby trhal a vytahoval nitě usilovně zalátávaných ran –“
+
+  
 
 „Ty sráči!“
 
@@ -930,13 +1014,15 @@ Smutek je alespoň důstojný. Chodím pomalu. Ruce zvedám pomalu. Mluvím poma
 
 Neplaveme ve stejném akváriu.
 
+  
+
 Další, prosím.
 
 S hromotlukem se přes práh prodere závoj, hlasitý šum z čekárny. Na přebalu zdravotní karty pichlavě trčí písmena Ing. a nečitelné jméno. Musím stoupnout na špičky, abych špachtličkou dosáhla k jednomu z těch přitažlivých tělesných otvorů. K jedné z bran, tunelů, na jejichž konci se skrývá a odhaluje vše podstatné.
 
 Vyplázne jazyk.
 
-Jak já miluju ten pohled na chvějivě vlhké, růžově pěnovité mandle. Lehnout si tak do té péřové nadýchanosti měňavkovitých kopců a válet se v té tepavé měkkosti, kde dozrávají plody. Bílé. Bílé čepy. Říznout do nich a vykoupat se v teplé krvi. Jazyk se začne komíhat, zahradí mi ten skvostný obraz, z hrdla se prodírá nesrozumitelné mručení u o euu yeet. Sestra se dotkne mého lokte.
+Jak já miluju ten pohled na chvějivě vlhké, růžově pěnovité mandle. Lehnout si tak do té péřové nadýchanosti měňavkovitých kopců a válet se v té tepavé měkkosti, kde dozrávají plody. Bílé. Bílé čepy. Říznout do nich a vykoupat se v teplé krvi. Jazyk se začne komíhat, zahradí mi ten skvostný obraz, z hrdla se prodírá nesrozumitelné mručení _u o euu yeet_. Sestra se dotkne mého lokte.
 
 „Paní doktorko. Už to asi nemůže vydržet, bolí ho… panty.“
 
@@ -963,6 +1049,8 @@ Zabuší pěstí na hruď.
 „Svlékněte se.“
 
 „Ne, vážně, děkuju, paní doktorko. – Sestři, já přídu jindy.“
+
+  
 
 „Tak si pukni. Nebo táhni.“
 
@@ -1000,11 +1088,13 @@ Chlap vytřeští oči, zmije zbaběle zhadrovatí, jedna se ovine kolem sestři
 
 „Tak já ti ty tvoje mandličky vyříznu. Nemusíš kvůli tomu ani do nemocnice, ty fešná angíno. Vyšmikneme je hned i s těmi trpasličími bílými hrozinkami. Abys pochopil, jaká já jsem doktorka. Jaký já umím vést precizní řez…“
 
-Sestřička muže popostrčí k úniku. Ať se rychle zdekuje. Sama našlapuje kachním krokem, bázlivě mě chlácholí. Chlap využije příležitosti. Úprkem pádí ze dveří. Zavolejte SNB, zaburácí na chodbě, vždyť vona zešílela.
+Sestřička muže popostrčí k úniku. Ať se rychle zdekuje. Sama našlapuje kachním krokem, bázlivě mě chlácholí. Chlap využije příležitosti. Úprkem pádí ze dveří. _Zavolejte SNB_, zaburácí na chodbě, _vždyť vona zešílela._
 
 Do nedovřených dveří se okamžitě nasune hrozen obličejů z čekárny. Oči navrch hlavy. Usměju se na ně.
 
 Večírek dostává spád.
+
+  
 
 Sestra mi z dlaně jemně vyjme skalpel. Pousměju se na hlavy pacientů vsunuté do škvíry.
 
@@ -1024,7 +1114,7 @@ Otočí kohoutek se studenou vodou. A za zápěstí mě k němu nešetrně dos
 
 Chladivě mi omývá pravou dlaň, smývá z ní červeň. Ale kapky ťapkavě bubnují na podlahu, na dlaždice dál. Pod levou dlaní. Stojím tu rozpažená. Obě loužičky se zvětšují: rozmělněná v otřískaném umyvadle i ta sytě rudá. Sestra jejich zdroj vsakuje do špalíčku gázy. Nad umyvadlo mi zlomí i levou ruku. Studená voda odplavuje rudý nátěr. Bylo by krásné, kdyby jej překryl sněhový poprašek.
 
-Helena hledá stopy řezu. Převrací mé dlaně sem a tam, prohmatává na obou stranách, sklání se nosem k mé kůži. Po milimetrech očichává; na špičce nosu jí zaschne červené klaunské kolečko. Kůže je neporušená. Nemůže identifikovat ránu, panikaří. Nejraději by zaječela a zmizela. Ráda bych jí do vlasů pošeptala hlavně se udržet v lati, nezkolabovat, neječet, sestři. Touží úprkem následovat hejno rozkutálených makovic, odhodit zmoklá křídla. Ale zodpovídá se Ottle. I v tento den, kdy i na ni je toho příliš.
+Helena hledá stopy řezu. Převrací mé dlaně sem a tam, prohmatává na obou stranách, sklání se nosem k mé kůži. Po milimetrech očichává; na špičce nosu jí zaschne červené klaunské kolečko. Kůže je neporušená. Nemůže identifikovat ránu, panikaří. Nejraději by zaječela a zmizela. Ráda bych jí do vlasů pošeptala _hlavně se udržet v lati, nezkolabovat, neječet, sestři._ Touží úprkem následovat hejno rozkutálených makovic, odhodit zmoklá křídla. Ale zodpovídá se Ottle. I v tento den, kdy i na ni je toho příliš.
 
 „Ježíšikriste, já tomu teda moc nerozumím, ale to vypadá skoro jako ty, no –“
 
@@ -1056,11 +1146,15 @@ Nataša předá okuláry Hance Malý, pomůže jí přetáhnout koženou šňůr
 
 „A to já zas jo. Proklepnem si Lauschmannku zblízka.“
 
+  
+
 Stolař je i v tom konsternovaném dusnu schopen pohotovější reakce. Vztyčí se, zatarasí východ. Mne si krk, na který mu Barunka nedosáhla.
 
 „Paní Lauschmannová, mně šlo jenom vo to hrát s votevřenejma kartama, abysme se líp domluvili, vo nic jinýho mi nešlo, vopravdu.“
 
-„Karty se nám ale nějak promíchaly. Bylo příjemné žít léta tak, jako by se to nestalo. Žít někde, kde o tom všem nikdo neví. Dokonce ani můj druhý manžel nevyzvídal, představte si to. Slepujete nespojitelné příběhy. Abyste mě uštval a označil. Jako co? Jako nacistku? Nacistku, která si zaslouží znásilnění? S takovou lží vylézt z domu nemůžete. Musím odejít. Zase nedobrovolně, jak jinak. Přesto se uvidíme. Žádný strach. Brzy. Ale tentokrát se nespokojím s pomníkem, vy ubožáci.“
+„Karty se nám ale nějak promíchaly. Bylo příjemné žít léta tak, jako by se _to_ nestalo. Žít někde, kde o tom všem nikdo neví. Dokonce ani můj druhý manžel nevyzvídal, představte si to. Slepujete nespojitelné příběhy. Abyste mě uštval a označil. Jako co? Jako nacistku? Nacistku, která si zaslouží znásilnění? S takovou lží vylézt z domu nemůžete. Musím odejít. Zase nedobrovolně, jak jinak. Přesto se uvidíme. Žádný strach. Brzy. Ale tentokrát se nespokojím s pomníkem, vy ubožáci.“
+
+  
 
 Stařec Klein, stoletý holič Klein, klimbající, kterému nedochází nic a z dneška se mu do mysli cosi prodere možná tak za měsíc nebo za půl roku, zavětří.
 
@@ -1108,7 +1202,7 @@ Muži mlčí.
 
 „Kristepane, nechci to zadarmo, Láďo, pocem.“
 
-Přisune k němu podepsaný sáček s čočkou. Poslední, s rozpitou láskou. Miniaturní balení lentilek vtiskne do Stolařovy tlapy.
+Přisune k němu podepsaný sáček s čočkou. Poslední, s rozpitou _láskou_. Miniaturní balení lentilek vtiskne do Stolařovy tlapy.
 
 „Tak jak, Láďo? Vyšplouchli jste jí rybník?“
 
@@ -1116,17 +1210,21 @@ Přisune k němu podepsaný sáček s čočkou. Poslední, s rozpitou láskou
 
 Nataša, Hanka Malá a paní Drbavá přikleknou, po čtyřech se proplíží za hustý keř. Číhají, s dalekohledem u nosu.
 
+  
+
 Vycházím z budovy obecního úřadu.
 
 Pěkně se ta moje tragédie přehoupla ve frašku. V husté, houževnaté kalině vedle vchodu šumí hlasy, moje rozjitřené oči vidí obrysy tří postav, hmotu zmizelých těl, soví oči nočních ptáků… Halucinace. Pryč odsud.
 
 Tetelivě nehybným horkem rázuju k autu. Nenávistným, ano, konečně po těch desetiletích opravdově nenávistným pohledem si měřím zvědavce na návsi i za drátěnými ploty úhledných rodinných domků. Za ploty, jejichž ok se majitelé drží křečovitě oběma rukama a za nimiž se v nafukovacích bazéncích s radostným pištěním šplouchají nahé děti. Nenávistným pohledem zpražím vyjukané hejno zákaznic u koloniálu. I pošťačku, která kolem návsi krouží na rozhrkaném kole.
 
-Polibte si.
+_Polibte si._
 
 Ta slova vydrtím v duchu. Se zaťatými sanicemi.
 
 Nasednu vedle bohorovného řidiče. Trvá dlouho, než se zklidním natolik, abych si uvědomila, že na zadním sedadle vedle rozsypané, ufňukané vnučky sedí i Denis. A tiše drmolí dlouhý, omluvný monolog. Se zrakem upřeným na moje prsty, neprodyšně propletené a složené v klíně. I Denis je typický muž. Nechápe, že mnohdy to nejlepší, co lze v rozhodujících okamžicích udělat, je držet hubu.
+
+  
 
 Tři ženy juknou zpoza větví. Vylezou, oklepou smetí a očistí kolena, peláší ke koloniálu. Aby ještě prohloubily napětí už tak zvědavostí nasáklého hloučku. Pošťačka prudce přibrzdí, zvířený prach usedá na horké tváře.
 
@@ -1148,7 +1246,9 @@ Tři ženy juknou zpoza větví. Vylezou, oklepou smetí a očistí kolena, pel
 
 „Chlapi nám povědí. Počkáme si.“
 
-Ať mě nechá. Ať jde pryč. Polibte si všichni prdel. Proboha, co to pořád melu.
+  
+
+Ať mě nechá. Ať jde pryč. _Polibte si všichni prdel_. Proboha, co to pořád melu.
 
 „Vystupte si, Denisi. Prosím.“
 
@@ -1167,6 +1267,8 @@ Očekával jiná slova. Očekával vztek. Nadávky. Pláč. Je zaskočený. Ješ
 „A pozdravujte ode mne svou matku.“
 
 U puklického pankejtu za sebou zanecháváme jeho scvrkávající se postavu. Plechové vězení prostupuje výmluvné ticho.
+
+  
 
 Tmavozelené auto odfrčelo rychlostí závodní formule, Nataša číhá. Ženy kuckají a mhouří oči do obláčků písečné bouře.
 
