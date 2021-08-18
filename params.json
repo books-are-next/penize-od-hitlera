@@ -1,11 +1,168 @@
 {
+  "params": {
+    "metadata": {
+      "title": "Peníze od Hitlera",
+      "identifier": "urn:uuid:5601b581-222d-43d6-81eb-b74007e1c1e0",
+      "author": "Radka Denemarková",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-08-18T06:28:14.315Z",
+      "languageCode": "cs"
+    },
+    "elements": {
+      "title": "MLP-uroven2-kapitola",
+      "subtitle": "MLP-uroven3-nadpis",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "",
+      "strong": "",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "filename": "penize_od_hitlera_001.md",
+        "xhtml": "penize_od_hitlera_001.xhtml",
+        "id": 0,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "penize_od_hitlera_002.md",
+        "xhtml": "penize_od_hitlera_002.xhtml",
+        "id": 1,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "penize_od_hitlera_003.md",
+        "xhtml": "penize_od_hitlera_003.xhtml",
+        "id": 2,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "penize_od_hitlera_004.md",
+        "xhtml": "penize_od_hitlera_004.xhtml",
+        "id": 3,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "penize_od_hitlera_005.md",
+        "xhtml": "penize_od_hitlera_005.xhtml",
+        "id": 4,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "penize_od_hitlera_006.md",
+        "xhtml": "penize_od_hitlera_006.xhtml",
+        "id": 5,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "penize_od_hitlera_007.md",
+        "xhtml": "penize_od_hitlera_007.xhtml",
+        "id": 6,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "penize_od_hitlera_008.md",
+        "xhtml": "penize_od_hitlera_008.xhtml",
+        "id": 7,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "penize_od_hitlera_009.md",
+        "xhtml": "penize_od_hitlera_009.xhtml",
+        "id": 8,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "penize_od_hitlera_010.md",
+        "xhtml": "penize_od_hitlera_010.xhtml",
+        "id": 9,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "penize_od_hitlera_011.md",
+        "xhtml": "penize_od_hitlera_011.xhtml",
+        "id": 10,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "penize_od_hitlera_012.md",
+        "xhtml": "penize_od_hitlera_012.xhtml",
+        "id": 11,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "penize_od_hitlera_013.md",
+        "xhtml": "penize_od_hitlera_013.xhtml",
+        "id": 12,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "penize_od_hitlera_014.md",
+        "xhtml": "penize_od_hitlera_014.xhtml",
+        "id": 13,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      }
+    ]
+  },
   "epub": {
     "metadata": {
       "title": "Peníze od Hitlera",
       "identifier": "urn:uuid:5601b581-222d-43d6-81eb-b74007e1c1e0",
       "author": "Radka Denemarková",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-18T06:28:14.315Z"
+      "modified": "2021-08-18T06:37:55.742Z"
     },
     "chapters": [
       {
@@ -39,49 +196,49 @@
         "xhtml": "penize_od_hitlera_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Prolog",
         "subtitleSuggest": "",
         "filename": "penize_od_hitlera_006.md",
         "xhtml": "penize_od_hitlera_006.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "Návrat první(léto 1945)",
+        "subtitleSuggest": "Mrazivá krusta",
         "filename": "penize_od_hitlera_007.md",
         "xhtml": "penize_od_hitlera_007.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "Návrat druhý(léto 2005)",
+        "subtitleSuggest": "Držet čas v zubech",
         "filename": "penize_od_hitlera_008.md",
         "xhtml": "penize_od_hitlera_008.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "Návrat třetí(léto 2005)",
+        "subtitleSuggest": "Pouťové atrakce v zavařovacích sklenicích",
         "filename": "penize_od_hitlera_009.md",
         "xhtml": "penize_od_hitlera_009.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "Návrat čtvrtý(pozdní léto 2005)",
+        "subtitleSuggest": "Šlahouny",
         "filename": "penize_od_hitlera_010.md",
         "xhtml": "penize_od_hitlera_010.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "Návrat pátý(pozdní léto 2005)",
+        "subtitleSuggest": "Popraskané krunýře",
         "filename": "penize_od_hitlera_011.md",
         "xhtml": "penize_od_hitlera_011.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "Návrat šestý (podzim 2005)",
+        "subtitleSuggest": "Óda na radost",
         "filename": "penize_od_hitlera_012.md",
         "xhtml": "penize_od_hitlera_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Epilog",
         "subtitleSuggest": "",
         "filename": "penize_od_hitlera_013.md",
         "xhtml": "penize_od_hitlera_013.xhtml"
@@ -160,6 +317,6 @@
       "user": "books-are-next",
       "repo": "penize-od-hitlera"
     },
-    "generatedAt": 1629268094888
+    "generatedAt": 1629268676435
   }
 }
