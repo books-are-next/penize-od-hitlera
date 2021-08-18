@@ -1,6 +1,5 @@
 ---
 title: Epilog
-subtitle: ''
 ---
 
 Denisovu matku trefil šlak. Před televizní obrazovkou přepadla obličejem do bělostného porcelánového talíře, plného žloutkových křupek. Aby si naposledy prohlédla dno zmodralé prapodivnými ornamenty.

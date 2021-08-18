@@ -1,7 +1,8 @@
 ---
 title: Návrat pátý(pozdní léto 2005)
-subtitle: Popraskané krunýře
 ---
+
+## Popraskané krunýře
 
 Denis do své trucovitě vzývané tramvaje číslo třináct, která by se prokusovala známým územím, zatím ani nenastoupil. A to ho žere, sžírá a vykusuje zevnitř. Touží zachránit svůj starý dobrý život. Touží v klidu navštěvovat matku za ztěžklými závěsy. Například.
 
@@ -155,7 +156,7 @@ Z proutěného koše na prádlo dvěma prsty vytáhne sukni. Rozmotá ji. Na pr
 
 „Vypijeme si čaj.“
 
-Kyselé jablko
+## Kyselé jablko
 
 Denis neunavuje obdivnými výkřiky nad starožitným nábytkem. Neodbíhá k výhledu na středoevropský barokní skvost a divadelní budovu. Ani k rozborům počasí. Neodlehčuje. Ví, že chceme mluvit o jediném. Ale je to muž. Hlavně žádná lítost, hlavně žádné vciťování.
 
@@ -217,7 +218,7 @@ Křeček uhryzuje sušenku za sušenkou, kolečko za kolečkem. Má jich plnou p
 
 „Je. Držím se jich jako klíště. Takový strašlivý smutek. Třeštit oči do stropu, promítat si minulost. Jenže i šťastné okamžiky nelze přetrpět právě pro onu nenávratnost. Třeštit oči do stropu těsně před svítáním. To je totiž, Denisi, jejich hodina. Když první světelná košťata, hrábě a pohrabáče přejíždějí po stropě. Prohrabávají prožité. Vypustila jsem džina z lahve v okamžiku, kdy jsem se poprvé dotkla perem papíru. Kdy slza pokaňhala bělobu.“
 
-Peníze od Hitlera
+## Peníze od Hitlera
 
 Srkání čaje, kolébání lahodné hladiny v šálku, vdechování karamelových vůní. Za oknem se setmělo, v dáli zahřmí. První kapky dorážejí na okno. Přisunu k Denisovi tácek s jablečnými stroužky; odsune je zpět. Přisunu je znovu. Po jednom srpečku sáhnu sama. Přestane žvýkat, s bolestivou grimasou sleduje, jak mi šťavnatý srpek mizí v ústech. Kde je systematicky drcen.
 
@@ -257,7 +258,7 @@ Denis prst obalený drobky zapíchne do žlutých desek. Pomník Rudolfa Lauschm
 
 „Můj život je bláznivá jízda na tomtéž kolotoči, Denisi. Vždyť to jsou vlastně peníze od Hitlera.“
 
-Dlouho odkládaná cigareta
+## Dlouho odkládaná cigareta
 
 Krvavý západ slunce zbavený všeho žáru; zamrzlá moře neroztají. Mluvíme do pozdní noci, poslední srpnové noci, kterou ochlazuje dobyvačný podzim. Vyprovodím Denise před dům, na dláždění.
 
@@ -281,7 +282,7 @@ Johan, můj druhý manžel, nepřemýšlel o tom, jestli Bůh je. Johana zajím
 
 Cpal do pusy urýplé kousky dortů na špičce lžiček. Šrotoval čokoládu. A chleby s marmeládou. A drobivé laskonky. Jako Smolíček pacholíček. Který vyčkává okamžik, kdy na něho vystartuje Jeskyňka, se kterou dobrovolně žije.
 
-Flák masa
+## Flák masa
 
 V paní Lauschmannové se rozlévá blažená síla, navrací energie; únava odplula s letní přeháňkou. Začne psát s novým elánem. Pro Denise. Píše jako o život. Píše o život. O všech lidech kolem. Se svými vzpomínkami už nezachází nedbale. Aby nemusela vysedávat v černém sklepě minulosti.
 
@@ -313,7 +314,7 @@ Zasmáli jsme se tomu oba.
 
 Denis drmolí dlouho. Další z těch vypjatých chvil, kdy se mi nedívá do očí a vede spletitý monolog. Gesta i hlas naznačují vážnost chvíle, předehru k velkolepé árii. Ale rozhodný tón nezazní, obsah vyšumí. Ačkoliv se mi zdálo, že jeho trauma se už prodírá do úst; dobrou náladu mu spláchlo určitě.
 
-Puklina v srdci
+## Puklina v srdci
 
 Napustím vanu horké vody. Rozpustím v ní lesklou modř, kterou mohutně rozpěním. Opatrně se ponořím. Nade mnou se zavře mléčně bílá krusta zbavená nachu, chvějivá pěna opadává. Když pohnu kolenem, pod hladinou se mihne tušený stín podivné ryby. Hlava odseklá bílou vlhkostí uzavře brány do okolního světa.
 

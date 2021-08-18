@@ -1,7 +1,8 @@
 ---
 title: Návrat čtvrtý(pozdní léto 2005)
-subtitle: Šlahouny
 ---
+
+## Šlahouny
 
 Zvuk roztočeného kolotoče z hlavy nemizí.
 
@@ -19,7 +20,7 @@ Na Denise se přelévá averze celé vesnice. Přeběhlík do nepřátelského t
 
 Je přeběhlíkem rád.
 
-Tramvaj číslo třináct
+## Tramvaj číslo třináct
 
 Denis zazvoní u brány procovské novostavby Láďova mladého zástupce Třešňáka, současného majitele obnoveného puklického lihovaru. Který vyjde opásaný oslnivě bílou froté osuškou; naolejovaný zápasník řeckořímského zápasu. V názoru na něj se paní Lauschmannová i Stolař mladší výjimečně shodují. Považují ho za náplavu; pro ně místní není a nikdy nebude.
 
@@ -103,7 +104,7 @@ Styky se mnou bojkotuje dcera i vnučka Anna. Která je navíc čerstvě zamilo
 
 To už mi za dveřmi stepuje ohlášená, přesto nečekaná návštěva. Denis.
 
-Potřebuješ vyluftovat
+## Potřebuješ vyluftovat
 
 Nataša se pokoji a chodbami celého bytu sune s hučící rourou. Doputuje do zšeřelé ložnice, v rohu problikává obrazovka. Z kapsy zástěry vytáhne baterku s gumičkou a navlékne ji na čelo; posvítí na místa, kam vysavač zajíždí. Když rozzáří všechny valéry perského koberce, vymění koncovou hubičku. Baterka vyloupne z černoty Ženina baňkovitá lýtka. S kroužkovou hadicí za zády Nataša postupuje vpřed. Vrčivou šedou tyčí ze všech stran ohmatá Ženiny nateklé konve v nových bačkorách, o dvě čísla větších. Hubičkou podjede za nárt, pak vysaje drobky z klína, hrudi, opatrně objede krk. Sníží tah na minimum a očeše drobky z vlasů; rozčepýřené hnízdo připlácne rukou. Žena nadzdvihne bok, Nataša vyluxuje sedadlo pod zadnicí. Přitom zakopne o podnožku a zakleje. Zvýší tah na maximum a odshora dolů sjíždí po rudých, hrozivých závěsech. Garnýž se zachvěje, vysavač dobrblá. Nataša prudce roztáhne závěsy, otevře okno, vycvakne baterku na čele. Matisse a Cézanne na stěně pookřejí, barvy zteplají. Žena se odvrátí, zavře oči.
 
@@ -139,7 +140,7 @@ Já miluju končetiny nepohyblivé.
 
 Nerozumí mi.
 
-Zmuchlaná nevěsta
+## Zmuchlaná nevěsta
 
 Nataša odemkne trezor. Vyjme prémie zatavené do igelitu. Čočku vysype do odpadkového koše, vyboulené papíry vyhladí válečkem na nudle.
 
@@ -275,7 +276,7 @@ Kopne do dveří, které opravoval ještě její otec. Sehne hlavu, koutkem oka 
 
 V mihotání žhavého vzduchu se zdá, že medvěd přivřel vyvalené modré oči a roztáhl hnědé koutky.
 
-Čerstvá smaženice
+## Čerstvá smaženice
 
 Denis se vrací s podnosem. Tři šálky s kávou a cukřenku odloží na konferenční stolek. Ruka se mu nechvěje. Uvnitř se raduje; léčba šokem zabrala.
 
@@ -407,7 +408,7 @@ Orosený Stolař se podrbe na hrudi.
 
 „Tak na to si dám panáka. Už jsem si, člověče, myslel, že jsi taky ztratil rozum. Když vodhlídnu vostatní, už to, že se muchlovala s kdekym…“
 
-Kůň se splašil
+## Kůň se splašil
 
 Denis se pohledu na paní Lauschmannovou vyhýbá. Doufal, že s lékařskými potvrzeními v ruce bude Stolař přece jen povolnější. Že mu zalichotí vůdčí úloha, jakou mu Denis svěřuje. Úloha, v níž Stolař odkloní tok dění jiným směrem. Z umělého koryta do původních břehů. Vojevůdce na koni, s vlajícím chocholem a ostrým mečem. Bude klusat po boku tramvaje číslo třináct, v níž trůní ženská postava a kterou řídí Denis. Mečem proseká trať.
 
@@ -497,7 +498,7 @@ Nataša popadne těžkou knihu, vrazí si ji do podpaží, stejnou rukou nadzdvi
 
 Nataša práskne dveřmi. Berle odkopne do spíže. I s křupkami.
 
-Revolver v kabelce
+## Revolver v kabelce
 
 Ano. Jistě. Na koho jiného by zařičel. Aby celou tu situaci vydýchal. Mýlí se. Nesmírnou odvahu a mimořádně dobrou vůli jsem projevila jen a jen vůči jeho psychickému stavu. Aby měl on pokoj.
 
@@ -611,7 +612,7 @@ Hádají se ostře, tasí meče, švihají bičem, jdou si po krku. Stolař brun
 
 Rve papír vší silou, jako neohebné plechové pláty; drobotinu vztekle rozcupuje nad konferenčním stolkem. Vločky potřísněné písmeny se snášejí, pijáčky nasakují kávovou hněď a utápějí se ve vlažných šálcích. Jiné si bělost uchrání. Většina klesne až na rudý kovralový koberec.
 
-Pavoučí stezka
+## Pavoučí stezka
 
 Vycházím z rámu, opouštím zaťaté grimasy.
 

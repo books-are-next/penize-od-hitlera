@@ -1,6 +1,5 @@
 ---
 title: ''
-subtitle: ''
 ---
 
 Peníze od Hitlera

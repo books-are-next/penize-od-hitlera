@@ -1,6 +1,5 @@
 ---
 title: ''
-subtitle: ''
 ---
 
 Radka Denemarková  

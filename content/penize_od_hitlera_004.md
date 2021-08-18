@@ -1,6 +1,5 @@
 ---
 title: ''
-subtitle: ''
 ---
 
 Znění tohoto textu vychází z díla [Peníze od Hitlera](https://search.mlp.cz/cz/titul/penize-od-hitlera/2531355/) tak, jak bylo vydáno nakladatelstvím Host v Brně v roce 2006. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
