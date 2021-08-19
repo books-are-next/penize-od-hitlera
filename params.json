@@ -22,7 +22,7 @@
       "brAfter": "MLP-text-bez1radku--0-12",
       "blockquote": "",
       "figure": "",
-      "em": "MLP-citat \nMLP-text-bez1radku--I \nMLP-text-bez1radku--I---12-0\nMLP-znak-kurziva-11b\nMLP-TEXT-UPROSTRED--I---12-0\nMLP-text--I\nMLP-venovani",
+      "em": "MLP-citat  \nMLP-text-bez1radku--I \nMLP-text-bez1radku--I---12-0\nMLP-znak-kurziva-11b\nMLP-TEXT-UPROSTRED--I---12-0\nMLP-text--I\nMLP-venovani\nMLP-uroven3-nadpis",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP-tiraz-podnazev\nMLP-licence-paragraf",
       "remove": "",
       "ignore": ""
@@ -102,7 +102,7 @@
         "numberedChildren": false,
         "inToc": true,
         "children": [],
-        "title": "Návrat první(léto 1945)",
+        "title": "Návrat první (léto 1945)",
         "subtitle": "\n\n\n\n"
       },
       {
@@ -113,7 +113,7 @@
         "numberedChildren": false,
         "inToc": true,
         "children": [],
-        "title": "Návrat druhý(léto 2005)",
+        "title": "Návrat druhý (léto 2005)",
         "subtitle": ""
       },
       {
@@ -124,7 +124,7 @@
         "numberedChildren": false,
         "inToc": true,
         "children": [],
-        "title": "Návrat třetí(léto 2005)",
+        "title": "Návrat třetí (léto 2005)",
         "subtitle": ""
       },
       {
@@ -135,7 +135,7 @@
         "numberedChildren": false,
         "inToc": true,
         "children": [],
-        "title": "Návrat čtvrtý(pozdní léto 2005)",
+        "title": "Návrat čtvrtý (pozdní léto 2005)",
         "subtitle": ""
       },
       {
@@ -146,7 +146,7 @@
         "numberedChildren": false,
         "inToc": true,
         "children": [],
-        "title": "Návrat pátý(pozdní léto 2005)",
+        "title": "Návrat pátý (pozdní léto 2005)",
         "subtitle": ""
       },
       {
@@ -190,7 +190,7 @@
       "identifier": "urn:uuid:5601b581-222d-43d6-81eb-b74007e1c1e0",
       "author": "Radka Denemarková",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-19T06:17:41.539Z"
+      "modified": "2021-08-19T06:29:22.431Z"
     },
     "chapters": [
       {
@@ -345,6 +345,6 @@
       "user": "books-are-next",
       "repo": "penize-od-hitlera"
     },
-    "generatedAt": 1629353862692
+    "generatedAt": 1629354563348
   }
 }
