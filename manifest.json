@@ -1,0 +1,744 @@
+{
+  "author": "Radka Denemarková",
+  "identifier": "denemarkova-penize-od-hitlera-d7c4fe7",
+  "languagecode": "cs",
+  "modified": "2021-08-18T06:28:14.315Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Peníze od Hitlera",
+  "revision": "d7c4fe7",
+  "generatedAt": {
+    "date": "Thu Aug 19 2021 06:32:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1629354755121
+  },
+  "documents": [
+    {
+      "title": "",
+      "file": "colophon.html",
+      "words": 208,
+      "chars": 1329,
+      "ideas": 36,
+      "role": "colophon",
+      "order": null,
+      "next": "penize_od_hitlera_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title-",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title--1",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title--2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "penize_od_hitlera_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "penize_od_hitlera_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "penize_od_hitlera_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "penize_od_hitlera_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "penize_od_hitlera_001.html",
+      "next": "penize_od_hitlera_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prolog",
+      "file": "penize_od_hitlera_006.html",
+      "words": 1395,
+      "chars": 8804,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 2,
+      "prev": "penize_od_hitlera_002.html",
+      "next": "penize_od_hitlera_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prolog",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Návrat první(léto 1945)",
+      "file": "penize_od_hitlera_007.html",
+      "words": 14040,
+      "chars": 89044,
+      "ideas": 543,
+      "role": "chapter",
+      "order": 3,
+      "prev": "penize_od_hitlera_006.html",
+      "next": "penize_od_hitlera_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Návrat první(léto 1945)",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Mrazivá krusta",
+              "id": "_mrazivá-krusta_",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Horká čočková polévka",
+              "id": "_horká-čočková-polévka_",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Puklice na hrnec",
+              "id": "_puklice-nanbsphrnec_",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Podkova pro štěstí",
+              "id": "_podkova-pro-štěstí_",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Masařky",
+              "id": "_masařky_",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Sólo kastráta",
+              "id": "_sólo-kastráta_",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Svatební závoje",
+              "id": "_svatební-závoje_",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Tetelivý pukavec",
+              "id": "_tetelivý-pukavec_",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Rozdrcené ořechy",
+              "id": "_rozdrcené-ořechy_",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Nasliněné nálepky",
+              "id": "_nasliněné-nálepky_",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Modlitba",
+              "id": "_modlitba_",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Típání zobáčků",
+              "id": "_típání-zobáčků_",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "Věčný fakír",
+              "id": "_věčný-fakír_",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "Bleší trh",
+              "id": "_bleší-trh_",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "Prasklá kůstka",
+              "id": "_prasklá-kůstka_",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "Kulomet",
+              "id": "_kulomet_",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "Ladné sólo",
+              "id": "_ladné-sólo_",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "Štrúdl mravenců",
+              "id": "_štrúdl-mravenců_",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "Puk na bránu",
+              "id": "_puk-nanbspbránu_",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Návrat druhý(léto 2005)",
+      "file": "penize_od_hitlera_008.html",
+      "words": 13590,
+      "chars": 84916,
+      "ideas": 590,
+      "role": "chapter",
+      "order": 4,
+      "prev": "penize_od_hitlera_007.html",
+      "next": "penize_od_hitlera_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Návrat druhý(léto 2005)",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Držet čas v zubech",
+              "id": "_držet-čas-vzubech_",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Predátor",
+              "id": "_predátor_",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Rozteklá láva",
+              "id": "_rozteklá-láva_",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Ledy pukají",
+              "id": "_ledy-pukají_",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Čamrdy kmitají",
+              "id": "_čamrdy-kmitají_",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Ring volný",
+              "id": "_ring-volný_",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Zestárlí lvi",
+              "id": "_zestárlí-lvi_",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Bonus",
+              "id": "_bonus_",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Rozesmátí paňácové",
+              "id": "_rozesmátí-paňácové_",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Betonový bunkr",
+              "id": "_betonový-bunkr_",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Rozkymácená znamení",
+              "id": "_rozkymácená-znamení_",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Zamrzlá moře",
+              "id": "_zamrzlá-moře_",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "Přebarvený vlas",
+              "id": "_přebarvený-vlas_",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "Olámaná křídla",
+              "id": "_olámaná-křídla_",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "Další, prosím",
+              "id": "_další-prosím_",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "Dalekohled",
+              "id": "_dalekohled_",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "Čistý vzduch",
+              "id": "_čistý-vzduch_",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Návrat třetí(léto 2005)",
+      "file": "penize_od_hitlera_009.html",
+      "words": 9702,
+      "chars": 61316,
+      "ideas": 411,
+      "role": "chapter",
+      "order": 5,
+      "prev": "penize_od_hitlera_008.html",
+      "next": "penize_od_hitlera_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Návrat třetí(léto 2005)",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Pouťové atrakce v zavařovacích sklenicích",
+              "id": "_pouťové-atrakce-vzavařovacích-sklenicích_",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Red velvet",
+              "id": "_red-velvet_",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Jízda na kolotoči",
+              "id": "_jízda-nanbspkolotoči_",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Snad nehoří",
+              "id": "_snad-nehoří_",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Cosi křupe pod nohama",
+              "id": "_cosi-křupe-pod-nohama_",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Osvěžení pod jabloní",
+              "id": "_osvěžení-pod-jabloní_",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Nášup z kopřiv",
+              "id": "_nášup-zkopřiv_",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Růžová stužka v mlází",
+              "id": "_růžová-stužka-vmlází_",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Kašpárek se matlá v hlíně",
+              "id": "_kašpárek-senbspmatlá-vhlíně_",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Medvědí mléko",
+              "id": "_medvědí-mléko_",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Výslužka",
+              "id": "_výslužka_",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Návrat čtvrtý(pozdní léto 2005)",
+      "file": "penize_od_hitlera_010.html",
+      "words": 6388,
+      "chars": 40294,
+      "ideas": 365,
+      "role": "chapter",
+      "order": 6,
+      "prev": "penize_od_hitlera_009.html",
+      "next": "penize_od_hitlera_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Návrat čtvrtý(pozdní léto 2005)",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Šlahouny",
+              "id": "_šlahouny_",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Tramvaj číslo třináct",
+              "id": "_tramvaj-číslo-třináct_",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Potřebuješ vyluftovat",
+              "id": "_potřebuješ-vyluftovat_",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Zmuchlaná nevěsta",
+              "id": "_zmuchlaná-nevěsta_",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Čerstvá smaženice",
+              "id": "_čerstvá-smaženice_",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Kůň se splašil",
+              "id": "_kůň-senbspsplašil_",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Revolver v kabelce",
+              "id": "_revolver-vkabelce_",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Pavoučí stezka",
+              "id": "_pavoučí-stezka_",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Návrat pátý(pozdní léto 2005)",
+      "file": "penize_od_hitlera_011.html",
+      "words": 3450,
+      "chars": 21730,
+      "ideas": 168,
+      "role": "chapter",
+      "order": 7,
+      "prev": "penize_od_hitlera_010.html",
+      "next": "penize_od_hitlera_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Návrat pátý(pozdní léto 2005)",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Popraskané krunýře",
+              "id": "_popraskané-krunýře_",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Kyselé jablko",
+              "id": "_kyselé-jablko_",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Peníze od Hitlera",
+              "id": "_peníze-odnbsphitlera_",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Dlouho odkládaná cigareta",
+              "id": "_dlouho-odkládaná-cigareta_",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Flák masa",
+              "id": "_flák-masa_",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Puklina v srdci",
+              "id": "_puklina-vsrdci_",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Návrat šestý (podzim 2005)",
+      "file": "penize_od_hitlera_012.html",
+      "words": 1283,
+      "chars": 8398,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 8,
+      "prev": "penize_od_hitlera_011.html",
+      "next": "penize_od_hitlera_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Návrat šestý (podzim 2005)",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Óda na radost",
+              "id": "_óda-nanbspradost_",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Oškubané slepice",
+              "id": "_oškubané-slepice_",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Přebíraná čočka",
+              "id": "_přebíraná-čočka_",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Epilog",
+      "file": "penize_od_hitlera_013.html",
+      "words": 269,
+      "chars": 1739,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 9,
+      "prev": "penize_od_hitlera_012.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Epilog",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "penize_od_hitlera_001.html",
+      "toc": []
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 50325,
+      "chars": 317570,
+      "ideas": 2236
+    },
+    "chapters": {
+      "words": 50117,
+      "chars": 316241,
+      "ideas": 2200
+    }
+  }
+}
