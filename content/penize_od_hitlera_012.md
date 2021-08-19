@@ -2,7 +2,7 @@
 title: Návrat šestý (podzim 2005)
 ---
 
-## Óda na radost
+## _Óda na radost_
 
 Paní Gita Lauschmannová zemřela nad papíry.
 
@@ -40,7 +40,7 @@ Natrvalená a vstřícná blondýna v podatelně krajského soudu podá Báře
 
 „Žádali jsme různé podklady. A spis stejně půjde tam, kam teď přináleží. – Nedáte si?“
 
-## Oškubané slepice
+## _Oškubané slepice_
 
 Bára obchází zchátralý majetek s investory. Mezi zuby drtí heslo, které si nechá vytisknout na vizitky i dopisní papíry: _Když spra­vedlnost, tak úplnou._ S nesentimentální věcností rozpoutá právní boj. Chce, aby z něj obyvatelé Puklic vycupitali jak oškubané slepice, co si načechrávají zbylá pírka. _Když spravedlnost, tak úplnou_. Co hystericky klovou kolem sebe.
 
@@ -80,7 +80,7 @@ Ladislav Stolař mladší stojí v té chvíli schovaný za záclonou svého do
 
 „Voni se snad klonujou nebo co, kolik těch bab sakra ještě přileze!?“
 
-## Přebíraná čočka
+## _Přebíraná čočka_
 
 „Plánovala vydat vzpomínky, _děvenko_.“
 

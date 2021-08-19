@@ -2,7 +2,7 @@
 title: Návrat třetí(léto 2005)
 ---
 
-## Pouťové atrakce v zavařovacích sklenicích
+## _Pouťové atrakce v zavařovacích sklenicích_
 
 Takové přiopilé, rozdychtěné odpoledne, do něhož jemně zaklinká tramvaj. Horko, až bolí. Praha si vcucla zmořené lidské hlásky, chladí si je v ulepených útrobách; sama slunci nastavuje kamennou tvář bezostyšně, provokativně sundá černé brýle a nastaví jasu obnažené bělmo; rovnocenní partneři.
 
@@ -104,7 +104,7 @@ Hlasitě houkne, že domů přijde k večeru. Ještě se zastaví u sousedky H
 
 „Vyřiď to mámě. Hele, Denisi, vona na tebe furt čeká, radši jí nic moc nevykládej. Alespoň na starý lidi tu musíme brát ohled. Trochu je šetřit. V jejich věku.“
 
-## Red velvet
+## _Red velvet_
 
 Denis obejde zámeček, odemkne branku, dokluše ke vcho­du. Stiskne kovanou kliku s motivy propletených hadích těl. Ve vstupní hale na věšáku zplihle visí sepraná matčina zástěra. Dveře napravo vedou do jídelny a kuchyně. Vstoupí jimi, pociťuje šimravé mravenčení v zádech. Mravenčení sílí, jak stoupá intenzita vzdáleného šumu. Který se štěpí a člení v těžko srozumitelné úseky lidské řeči.
 
@@ -208,7 +208,7 @@ Denis netrpělivě prohrábne vlasy pěstěnými prsty.
 
 „Tak přines kastrol.“
 
-## Jízda na kolotoči
+## _Jízda na kolotoči_
 
 Je nedočkavá. Má strach, že si to sama v sobě rozmyslí. Šedesát let paběrkovala odvahu.
 
@@ -284,7 +284,7 @@ Mluví konspiračním šepotem. Je vysílená, přesto co chvíli vstane. Ohléd
 
 Aby po několika minutách vyskočila znovu.
 
-## Snad nehoří
+## _Snad nehoří_
 
 Denis ji nepřerušuje. Slova zanikají v překotně vyvržené spršce vět, jejichž konce Žena polyká. Vypráví o prvním, překvapivém návratu Gity Lauschmannové. Vesnici posedl amok nenasytné blaženosti. Konec války se propojil se slastně malovanou budoucností. Každý si mohl na odměnu sáhnout, ohmatat konkrétní důkaz, rozdrolit svou hroudu zeminy, každý byl najednou majetný, všichni si byli rovni. Ještě než mohl kdokoli cokoli předvídat, zažívali ráj na vlastní kůži. Každému rovným dílem. Každému podle jeho potřeb. Pokud se našli tací, kteří upozorňovali na to, že Lauschmannovic se ještě mohou vrátit, vždyť je sotva pár týdnů po válce, tak je Stolařova parta umlčela; všechno je potvrzený a prověřený. Ládínek bral pochybovače kolem ramen a konejšil.
 
@@ -362,7 +362,7 @@ Můj zmatený manžel, ten můj erudovaný vědec, zalezl vyčerpaně do kuchyn�
 
 Cvrnkal si je do úst.
 
-## Cosi křupe pod nohama
+## _Cosi křupe pod nohama_
 
 Žena upíjí pomalými, ptačími doušky. Se slastnou trpkostí oddechne, hřbetem skvrnité ruky otře ústa. Jako kdyby v době žní, na sklonku vyprahlého dne na poli, vypila orosený půllitr studeného piva a ten v ní jen zašuměl.
 
@@ -456,7 +456,7 @@ Na mohylu soukmenovců naplácnu poslední řízková dvojčata.
 
 „Píšou, že se stačilo neúčastnit. To ale vůbec nešlo, Denisi. – A s Gitou se vidět nechci. Pro mě zgrajzla v den, kdy ta dětská kost a kůže klopýtala a mizela za jabloňovým sadem s vojenskou taškou přes rameno. Pro mě vona skončila před šedesáti lety. Vodepsala jsem ji. A šlus.“
 
-## Osvěžení pod jabloní
+## _Osvěžení pod jabloní_
 
 Denis se zvedne.
 
@@ -510,7 +510,7 @@ Nemůže popadnout dech; uvolní bolestivé sevření Denisova zmodralého ramen
 
 Chtivě popadne Denisovu sklenici, chlemtavě dopije jablečný džus. Do kalného dna. Až jí tenké pramínky opouštějí koutky, vracejí se překotně na světlo boží, promísené slinami. A stékají za výstřih upnutých černých šatů.
 
-## Nášup z kopřiv
+## _Nášup z kopřiv_
 
 Denis matce podá papírový kapesník, aby si osušila krk. To odpoledne už jí nedoleje. K ušáku přiklekne. Jako ve zpovědnici.
 
@@ -550,7 +550,7 @@ Johan byl sociolog a historik. Útočila jsem na něj denně. Copak lze zařadi
 
 Smál se a žvýkal.
 
-## Růžová stužka v mlází
+## _Růžová stužka v mlází_
 
 Z kašpárkova pimprlového divadla rovnou na expresní jízdu stra­šidelným zámkem; medvěd táhne dřevěný vláček se ztuhlým pa­­ná­čkem.
 
@@ -644,7 +644,7 @@ Ne, nechci se ve svých vzpomínkách brodit s nimi. Připomínat veteš, kter�
 
 O co mi jde, _děvenko_, ti dneska nepovím. Kuchyň mojí bobtnající hlavě nestačí, můj mozkový obal formuje do krychle. Vršek hlavy se zplošťuje, čelo se pravítkovitě napíná, v koncích protahuje a presuje do stropních rohů. Jsem čtyřrohý ďábel. Jsem zrůda, volám v duchu bezmocně na dceru, jsem čtyřcípá zrůda.
 
-## Kašpárek se matlá v hlíně
+## _Kašpárek se matlá v hlíně_
 
 Denis se na ošumělé podnožce nehýbe. Ztěžklá, deštěm nacucaná houba. Hlava nepřijímá. Rozum stávkuje, brání se temnou prázdnotou. Denis na rukou cítí mazlavou hlínu, která mu s příjemnou mrazivostí obepíná prst, ale i zalézá za nehet, natlačuje se, rozšklebuje hranici mezi masem a nehtem, zemina rozráží bolestivou překážku, sunout prst stejným tlakem dál by slast proměnilo v trest.
 
@@ -680,7 +680,7 @@ Měli strach. O svůj život. Bylo by to totéž, jako kdyby při zběsilém po
 
 Chleba si namažu máslem s nízkým obsahem cholesterolu a posypu pažitkou. Nakrájím ji nadrobno. Dlouhé, tmavě zelené hádky rozsekám nemilosrdně napadrť. Sekám prudce a dlouho.
 
-## Medvědí mléko
+## _Medvědí mléko_
 
 „Chceš napít?“
 
@@ -804,7 +804,7 @@ Meteorologové předpovídali přívalové srážky.
 
 Polknu další prášek. Oči se klíží.
 
-## Výslužka
+## _Výslužka_
 
 Ve vstupní hale cosi zarachtá.
 
