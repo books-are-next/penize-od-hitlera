@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Peníze od Hitlera",
@@ -6,7 +7,9 @@
       "author": "Radka Denemarková",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-08-18T06:28:14.315Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -32,7 +35,7 @@
         "filename": "penize_od_hitlera_001.md",
         "xhtml": "penize_od_hitlera_001.xhtml",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -348,3 +351,4 @@
     "generatedAt": 1629353862692
   }
 }
+
