@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-e8fc0c2';
+const CACHE = 'cache-325bf67';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./penize_od_hitlera_001.html","./penize_od_hitlera_002.html","./penize_od_hitlera_006.html","./penize_od_hitlera_007.html","./penize_od_hitlera_009.html","./penize_od_hitlera_008.html","./penize_od_hitlera_010.html","./penize_od_hitlera_011.html","./penize_od_hitlera_013.html","./penize_od_hitlera_012.html","./resources.html","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/index.xml","./resources/obalka_penize_od_hitle_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./manifest.json","./index.html","./penize_od_hitlera_001.html","./penize_od_hitlera_002.html","./penize_od_hitlera_006.html","./penize_od_hitlera_007.html","./penize_od_hitlera_008.html","./penize_od_hitlera_009.html","./penize_od_hitlera_010.html","./penize_od_hitlera_011.html","./penize_od_hitlera_012.html","./penize_od_hitlera_013.html","./resources.html","./style/style.min.css","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/index.xml","./resources/obalka_penize_od_hitle_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js"]));
 }
 
 self.addEventListener('fetch', e => {
