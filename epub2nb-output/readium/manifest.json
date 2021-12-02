@@ -1,0 +1,401 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Peníze od Hitlera",
+    "identifier": "urn:uuid:5601b581-222d-43d6-81eb-b74007e1c1e0",
+    "author": "Radka Denemarková",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-12-02T09:26:56.177Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/penize_od_hitlera_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/penize_od_hitlera_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/penize_od_hitlera_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/penize_od_hitlera_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/penize_od_hitlera_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/penize_od_hitlera_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/penize_od_hitlera_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/penize_od_hitlera_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/penize_od_hitlera_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/penize_od_hitlera_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/penize_od_hitlera_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/penize_od_hitlera_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/penize_od_hitlera_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/penize_od_hitlera_014.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/penize_od__idstyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_penize_od_hitle_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Prolog",
+      "href": "OEBPS/Text/penize_od_hitlera_006.xhtml#toc_marker-1"
+    },
+    {
+      "title": "Návrat první (léto 1945)",
+      "children": [
+        {
+          "title": "Mrazivá krusta",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-1"
+        },
+        {
+          "title": "Horká čočková polévka",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-2"
+        },
+        {
+          "title": "Puklice na hrnec",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-3"
+        },
+        {
+          "title": "Podkova pro štěstí",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-4"
+        },
+        {
+          "title": "Masařky",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-5"
+        },
+        {
+          "title": "Sólo kastráta",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-6"
+        },
+        {
+          "title": "Svatební závoje",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-7"
+        },
+        {
+          "title": "Tetelivý pukavec",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-8"
+        },
+        {
+          "title": "Rozdrcené ořechy",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-9"
+        },
+        {
+          "title": "Nasliněné nálepky",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-10"
+        },
+        {
+          "title": "Modlitba",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-11"
+        },
+        {
+          "title": "Típání zobáčků",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-12"
+        },
+        {
+          "title": "Věčný fakír",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-13"
+        },
+        {
+          "title": "Bleší trh",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-14"
+        },
+        {
+          "title": "Prasklá kůstka",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-15"
+        },
+        {
+          "title": "Kulomet",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-16"
+        },
+        {
+          "title": "Ladné sólo",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-17"
+        },
+        {
+          "title": "Štrúdl mravenců",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-18"
+        },
+        {
+          "title": "Puk na bránu",
+          "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2-19"
+        }
+      ],
+      "href": "OEBPS/Text/penize_od_hitlera_007.xhtml#toc_marker-2"
+    },
+    {
+      "title": "Návrat druhý (léto 2005)",
+      "children": [
+        {
+          "title": "Držet čas v zubech",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-1"
+        },
+        {
+          "title": "Predátor",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-2"
+        },
+        {
+          "title": "Rozteklá láva",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-3"
+        },
+        {
+          "title": "Ledy pukají",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-4"
+        },
+        {
+          "title": "Čamrdy kmitají",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-5"
+        },
+        {
+          "title": "Ring volný",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-6"
+        },
+        {
+          "title": "Zestárlí lvi",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-7"
+        },
+        {
+          "title": "Bonus",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-8"
+        },
+        {
+          "title": "Rozesmátí paňácové",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-9"
+        },
+        {
+          "title": "Betonový bunkr",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-10"
+        },
+        {
+          "title": "Rozkymácená znamení",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-11"
+        },
+        {
+          "title": "Zamrzlá moře",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-12"
+        },
+        {
+          "title": "Přebarvený vlas",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-13"
+        },
+        {
+          "title": "Olámaná křídla",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-14"
+        },
+        {
+          "title": "Další, prosím",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-15"
+        },
+        {
+          "title": "Dalekohled",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-16"
+        },
+        {
+          "title": "Čistý vzduch",
+          "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3-17"
+        }
+      ],
+      "href": "OEBPS/Text/penize_od_hitlera_008.xhtml#toc_marker-3"
+    },
+    {
+      "title": "Návrat třetí (léto 2005)",
+      "children": [
+        {
+          "title": "Pouťové atrakce v zavařovacích sklenicích",
+          "href": "OEBPS/Text/penize_od_hitlera_009.xhtml#toc_marker-4-1"
+        },
+        {
+          "title": "Red velvet",
+          "href": "OEBPS/Text/penize_od_hitlera_009.xhtml#toc_marker-4-2"
+        },
+        {
+          "title": "Jízda na kolotoči",
+          "href": "OEBPS/Text/penize_od_hitlera_009.xhtml#toc_marker-4-3"
+        },
+        {
+          "title": "Snad nehoří",
+          "href": "OEBPS/Text/penize_od_hitlera_009.xhtml#toc_marker-4-4"
+        },
+        {
+          "title": "Cosi křupe pod nohama",
+          "href": "OEBPS/Text/penize_od_hitlera_009.xhtml#toc_marker-4-5"
+        },
+        {
+          "title": "Osvěžení pod jabloní",
+          "href": "OEBPS/Text/penize_od_hitlera_009.xhtml#toc_marker-4-6"
+        },
+        {
+          "title": "Nášup z kopřiv",
+          "href": "OEBPS/Text/penize_od_hitlera_009.xhtml#toc_marker-4-7"
+        },
+        {
+          "title": "Růžová stužka v mlází",
+          "href": "OEBPS/Text/penize_od_hitlera_009.xhtml#toc_marker-4-8"
+        },
+        {
+          "title": "Kašpárek se matlá v hlíně",
+          "href": "OEBPS/Text/penize_od_hitlera_009.xhtml#toc_marker-4-9"
+        },
+        {
+          "title": "Medvědí mléko",
+          "href": "OEBPS/Text/penize_od_hitlera_009.xhtml#toc_marker-4-10"
+        },
+        {
+          "title": "Výslužka",
+          "href": "OEBPS/Text/penize_od_hitlera_009.xhtml#toc_marker-4-11"
+        }
+      ],
+      "href": "OEBPS/Text/penize_od_hitlera_009.xhtml#toc_marker-4"
+    },
+    {
+      "title": "Návrat čtvrtý (pozdní léto 2005)",
+      "children": [
+        {
+          "title": "Šlahouny",
+          "href": "OEBPS/Text/penize_od_hitlera_010.xhtml#toc_marker-5-1"
+        },
+        {
+          "title": "Tramvaj číslo třináct",
+          "href": "OEBPS/Text/penize_od_hitlera_010.xhtml#toc_marker-5-2"
+        },
+        {
+          "title": "Potřebuješ vyluftovat",
+          "href": "OEBPS/Text/penize_od_hitlera_010.xhtml#toc_marker-5-3"
+        },
+        {
+          "title": "Zmuchlaná nevěsta",
+          "href": "OEBPS/Text/penize_od_hitlera_010.xhtml#toc_marker-5-4"
+        },
+        {
+          "title": "Čerstvá smaženice",
+          "href": "OEBPS/Text/penize_od_hitlera_010.xhtml#toc_marker-5-5"
+        },
+        {
+          "title": "Kůň se splašil",
+          "href": "OEBPS/Text/penize_od_hitlera_010.xhtml#toc_marker-5-6"
+        },
+        {
+          "title": "Revolver v kabelce",
+          "href": "OEBPS/Text/penize_od_hitlera_010.xhtml#toc_marker-5-7"
+        },
+        {
+          "title": "Pavoučí stezka",
+          "href": "OEBPS/Text/penize_od_hitlera_010.xhtml#toc_marker-5-8"
+        }
+      ],
+      "href": "OEBPS/Text/penize_od_hitlera_010.xhtml#toc_marker-5"
+    },
+    {
+      "title": "Návrat pátý (pozdní léto 2005)",
+      "children": [
+        {
+          "title": "Popraskané krunýře",
+          "href": "OEBPS/Text/penize_od_hitlera_011.xhtml#toc_marker-6-1"
+        },
+        {
+          "title": "Kyselé jablko",
+          "href": "OEBPS/Text/penize_od_hitlera_011.xhtml#toc_marker-6-2"
+        },
+        {
+          "title": "Peníze od Hitlera",
+          "href": "OEBPS/Text/penize_od_hitlera_011.xhtml#toc_marker-6-3"
+        },
+        {
+          "title": "Dlouho odkládaná cigareta",
+          "href": "OEBPS/Text/penize_od_hitlera_011.xhtml#toc_marker-6-4"
+        },
+        {
+          "title": "Flák masa",
+          "href": "OEBPS/Text/penize_od_hitlera_011.xhtml#toc_marker-6-5"
+        },
+        {
+          "title": "Puklina v srdci",
+          "href": "OEBPS/Text/penize_od_hitlera_011.xhtml#toc_marker-6-6"
+        }
+      ],
+      "href": "OEBPS/Text/penize_od_hitlera_011.xhtml#toc_marker-6"
+    },
+    {
+      "title": "Návrat šestý (podzim 2005)",
+      "children": [
+        {
+          "title": "Óda na radost",
+          "href": "OEBPS/Text/penize_od_hitlera_012.xhtml#toc_marker-7-1"
+        },
+        {
+          "title": "Oškubané slepice",
+          "href": "OEBPS/Text/penize_od_hitlera_012.xhtml#toc_marker-7-2"
+        },
+        {
+          "title": "Přebíraná čočka",
+          "href": "OEBPS/Text/penize_od_hitlera_012.xhtml#toc_marker-7-3"
+        }
+      ],
+      "href": "OEBPS/Text/penize_od_hitlera_012.xhtml#toc_marker-7"
+    },
+    {
+      "title": "Epilog",
+      "href": "OEBPS/Text/penize_od_hitlera_013.xhtml#toc_marker-8"
+    }
+  ]
+}

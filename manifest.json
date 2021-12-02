@@ -1,116 +1,46 @@
 {
   "author": "Radka Denemarková",
-  "identifier": "denemarkova-penize-od-hitlera-9a7579d",
+  "edition": "beletrie",
+  "identifier": "denemarkova-penize-od-hitlera-bf5d729",
   "languagecode": "cs",
   "modified": "2021-08-18T06:28:14.315Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Peníze od Hitlera",
-  "revision": "9a7579d",
+  "revision": "bf5d729",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:27:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638379637957
+    "date": "Thu Dec 02 2021 09:27:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638437272055
   },
   "documents": [
     {
-      "title": "",
-      "file": "colophon.html",
-      "words": 208,
-      "chars": 1329,
-      "ideas": 36,
-      "role": "colophon",
-      "order": null,
-      "next": "penize_od_hitlera_001.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "title: ''",
-              "id": "title-",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "title: ''",
-              "id": "title--1",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "title: ''",
-              "id": "title--2",
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
-      "order": null,
-      "next": "penize_od_hitlera_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "penize_od_hitlera_001.html",
+      "title": "Peníze od Hitlera",
+      "file": "penize_od_hitlera_002.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "penize_od_hitlera_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "penize_od_hitlera_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "penize_od_hitlera_001.html",
       "next": "penize_od_hitlera_006.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Prolog",
+      "title": "Prolog • Peníze od Hitlera",
       "file": "penize_od_hitlera_006.html",
       "words": 1395,
       "chars": 8804,
       "ideas": 54,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "penize_od_hitlera_002.html",
       "next": "penize_od_hitlera_007.html",
       "toc": [
@@ -118,19 +48,19 @@
           "index": 0,
           "level": 1,
           "name": "Prolog",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Návrat první(léto 1945)",
+      "title": "Návrat první(léto 1945) • Peníze od Hitlera",
       "file": "penize_od_hitlera_007.html",
       "words": 14040,
       "chars": 89044,
       "ideas": 543,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "penize_od_hitlera_006.html",
       "next": "penize_od_hitlera_008.html",
       "toc": [
@@ -138,7 +68,7 @@
           "index": 0,
           "level": 1,
           "name": "Návrat první(léto 1945)",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -278,13 +208,13 @@
       ]
     },
     {
-      "title": "Návrat druhý(léto 2005)",
+      "title": "Návrat druhý(léto 2005) • Peníze od Hitlera",
       "file": "penize_od_hitlera_008.html",
       "words": 13590,
       "chars": 84916,
       "ideas": 590,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "penize_od_hitlera_007.html",
       "next": "penize_od_hitlera_009.html",
       "toc": [
@@ -292,7 +222,7 @@
           "index": 0,
           "level": 1,
           "name": "Návrat druhý(léto 2005)",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -418,13 +348,13 @@
       ]
     },
     {
-      "title": "Návrat třetí(léto 2005)",
+      "title": "Návrat třetí(léto 2005) • Peníze od Hitlera",
       "file": "penize_od_hitlera_009.html",
       "words": 9702,
       "chars": 61316,
       "ideas": 411,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "penize_od_hitlera_008.html",
       "next": "penize_od_hitlera_010.html",
       "toc": [
@@ -432,7 +362,7 @@
           "index": 0,
           "level": 1,
           "name": "Návrat třetí(léto 2005)",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -516,13 +446,13 @@
       ]
     },
     {
-      "title": "Návrat čtvrtý(pozdní léto 2005)",
+      "title": "Návrat čtvrtý(pozdní léto 2005) • Peníze od Hitlera",
       "file": "penize_od_hitlera_010.html",
       "words": 6388,
       "chars": 40294,
       "ideas": 365,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "penize_od_hitlera_009.html",
       "next": "penize_od_hitlera_011.html",
       "toc": [
@@ -530,7 +460,7 @@
           "index": 0,
           "level": 1,
           "name": "Návrat čtvrtý(pozdní léto 2005)",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -593,13 +523,13 @@
       ]
     },
     {
-      "title": "Návrat pátý(pozdní léto 2005)",
+      "title": "Návrat pátý(pozdní léto 2005) • Peníze od Hitlera",
       "file": "penize_od_hitlera_011.html",
       "words": 3450,
       "chars": 21730,
       "ideas": 168,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "penize_od_hitlera_010.html",
       "next": "penize_od_hitlera_012.html",
       "toc": [
@@ -607,7 +537,7 @@
           "index": 0,
           "level": 1,
           "name": "Návrat pátý(pozdní léto 2005)",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -656,13 +586,13 @@
       ]
     },
     {
-      "title": "Návrat šestý (podzim 2005)",
+      "title": "Návrat šestý (podzim 2005) • Peníze od Hitlera",
       "file": "penize_od_hitlera_012.html",
       "words": 1283,
       "chars": 8398,
       "ideas": 50,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "penize_od_hitlera_011.html",
       "next": "penize_od_hitlera_013.html",
       "toc": [
@@ -670,7 +600,7 @@
           "index": 0,
           "level": 1,
           "name": "Návrat šestý (podzim 2005)",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -698,42 +628,51 @@
       ]
     },
     {
-      "title": "Epilog",
+      "title": "Epilog • Peníze od Hitlera",
       "file": "penize_od_hitlera_013.html",
       "words": 269,
       "chars": 1739,
       "ideas": 19,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "penize_od_hitlera_012.html",
-      "next": null,
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Epilog",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
+      "title": "Tiráž • Peníze od Hitlera",
+      "file": "colophon.html",
+      "words": 203,
+      "chars": 1307,
+      "ideas": 34,
+      "role": "colophon",
       "order": null,
-      "next": "penize_od_hitlera_001.html",
-      "toc": []
+      "prev": "penize_od_hitlera_013.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
     }
   ],
   "totals": {
     "all": {
-      "words": 50325,
-      "chars": 317570,
-      "ideas": 2236
+      "words": 50327,
+      "chars": 317593,
+      "ideas": 2238
     },
     "chapters": {
       "words": 50117,

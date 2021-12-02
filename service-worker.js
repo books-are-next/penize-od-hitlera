@@ -1,7 +1,8 @@
-/* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-9a7579d';
+/* global self, caches, fetch */
+
+const CACHE = 'cache-bf5d729';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./penize_od_hitlera_001.html","./penize_od_hitlera_002.html","./penize_od_hitlera_006.html","./penize_od_hitlera_007.html","./penize_od_hitlera_008.html","./penize_od_hitlera_009.html","./penize_od_hitlera_010.html","./penize_od_hitlera_011.html","./penize_od_hitlera_012.html","./penize_od_hitlera_013.html","./resources.html","./resources/image002_fmt.jpeg","./resources/image001_fmt.jpeg","./resources/index.xml","./resources/obalka_penize_od_hitle_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./penize_od_hitlera_002.html","./penize_od_hitlera_006.html","./penize_od_hitlera_007.html","./penize_od_hitlera_008.html","./penize_od_hitlera_009.html","./penize_od_hitlera_010.html","./penize_od_hitlera_011.html","./penize_od_hitlera_012.html","./penize_od_hitlera_013.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_penize_od_hitle_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {
