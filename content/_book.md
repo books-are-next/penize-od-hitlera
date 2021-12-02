@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-08-18T06:28:14.315Z'
   languageCode: cs
-chapters:
-  - penize_od_hitlera_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - penize_od_hitlera_002.html
   - penize_od_hitlera_006.html
   - penize_od_hitlera_007.html
@@ -20,6 +21,7 @@ chapters:
   - penize_od_hitlera_011.html
   - penize_od_hitlera_012.html
   - penize_od_hitlera_013.html
+  - colophon.html
 tocBase:
   - link: penize_od_hitlera_006.html
     title: Prolog
@@ -43,5 +45,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---

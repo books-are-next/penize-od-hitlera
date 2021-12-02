@@ -1,6 +1,8 @@
 ---
-title: ''
+title: Tiráž
 ---
+
+***
 
 Peníze od Hitlera
 
@@ -9,9 +11,7 @@ Peníze od Hitlera
 Radka Denemarková
 
 
----
-title: ''
----
+***
 
 Znění tohoto textu vychází z díla [Peníze od Hitlera](https://search.mlp.cz/cz/titul/penize-od-hitlera/2531355/) tak, jak bylo vydáno nakladatelstvím Host v Brně v roce 2006. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -30,9 +30,7 @@ Verze 1.0 z 1. 10. 2019.
 ![image002.jpg](./resources/image002_fmt.jpeg)
 
 
----
-title: ''
----
+***
 
 _Tuto knihu věnuji:_
 
@@ -55,9 +53,7 @@ _Člověk myslí, Bůh se směje._
 Všechny ty příběhy se staly. Pořád nevím proč.
 
 
----
-title: ''
----
+***
 
 **Radka Denemarková  
 Peníze od Hitlera**
