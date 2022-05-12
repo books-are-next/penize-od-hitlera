@@ -1,21 +1,35 @@
 {
-  "author": "Radka Denemarková",
-  "edition": "beletrie",
-  "identifier": "denemarkova-penize-od-hitlera-bf5d729",
-  "languagecode": "cs",
-  "modified": "2021-08-18T06:28:14.315Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Peníze od Hitlera",
-  "revision": "bf5d729",
+  "author": "Radka Denemarková",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "denemarkova-penize-od-hitlera-5967818",
+  "revision": "5967818",
+  "readingOrder": [
+    "promo.html",
+    "penize_od_hitlera_006.html",
+    "penize_od_hitlera_007.html",
+    "penize_od_hitlera_008.html",
+    "penize_od_hitlera_009.html",
+    "penize_od_hitlera_010.html",
+    "penize_od_hitlera_011.html",
+    "penize_od_hitlera_012.html",
+    "penize_od_hitlera_013.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 09:27:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638437272055
+    "date": "Thu May 12 2022 10:35:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351741767
   },
   "documents": [
     {
-      "title": "Peníze od Hitlera",
-      "file": "penize_od_hitlera_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +37,17 @@
       "order": 0,
       "prev": null,
       "next": "penize_od_hitlera_006.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Prolog • Peníze od Hitlera",
+      "title": "Prolog",
       "file": "penize_od_hitlera_006.html",
       "words": 1395,
       "chars": 8804,
       "ideas": 54,
       "role": "chapter",
       "order": 1,
-      "prev": "penize_od_hitlera_002.html",
+      "prev": "promo.html",
       "next": "penize_od_hitlera_007.html",
       "toc": [
         {
@@ -54,7 +60,7 @@
       ]
     },
     {
-      "title": "Návrat první(léto 1945) • Peníze od Hitlera",
+      "title": "Návrat první(léto 1945)",
       "file": "penize_od_hitlera_007.html",
       "words": 14040,
       "chars": 89044,
@@ -208,7 +214,7 @@
       ]
     },
     {
-      "title": "Návrat druhý(léto 2005) • Peníze od Hitlera",
+      "title": "Návrat druhý(léto 2005)",
       "file": "penize_od_hitlera_008.html",
       "words": 13590,
       "chars": 84916,
@@ -348,7 +354,7 @@
       ]
     },
     {
-      "title": "Návrat třetí(léto 2005) • Peníze od Hitlera",
+      "title": "Návrat třetí(léto 2005)",
       "file": "penize_od_hitlera_009.html",
       "words": 9702,
       "chars": 61316,
@@ -446,7 +452,7 @@
       ]
     },
     {
-      "title": "Návrat čtvrtý(pozdní léto 2005) • Peníze od Hitlera",
+      "title": "Návrat čtvrtý(pozdní léto 2005)",
       "file": "penize_od_hitlera_010.html",
       "words": 6388,
       "chars": 40294,
@@ -523,7 +529,7 @@
       ]
     },
     {
-      "title": "Návrat pátý(pozdní léto 2005) • Peníze od Hitlera",
+      "title": "Návrat pátý(pozdní léto 2005)",
       "file": "penize_od_hitlera_011.html",
       "words": 3450,
       "chars": 21730,
@@ -586,7 +592,7 @@
       ]
     },
     {
-      "title": "Návrat šestý (podzim 2005) • Peníze od Hitlera",
+      "title": "Návrat šestý (podzim 2005)",
       "file": "penize_od_hitlera_012.html",
       "words": 1283,
       "chars": 8398,
@@ -628,7 +634,7 @@
       ]
     },
     {
-      "title": "Epilog • Peníze od Hitlera",
+      "title": "Epilog",
       "file": "penize_od_hitlera_013.html",
       "words": 269,
       "chars": 1739,
@@ -648,11 +654,11 @@
       ]
     },
     {
-      "title": "Tiráž • Peníze od Hitlera",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 203,
-      "chars": 1307,
-      "ideas": 34,
+      "words": 182,
+      "chars": 1148,
+      "ideas": 28,
       "role": "colophon",
       "order": null,
       "prev": "penize_od_hitlera_013.html",
@@ -670,9 +676,9 @@
   ],
   "totals": {
     "all": {
-      "words": 50327,
-      "chars": 317593,
-      "ideas": 2238
+      "words": 50306,
+      "chars": 317434,
+      "ideas": 2232
     },
     "chapters": {
       "words": 50117,

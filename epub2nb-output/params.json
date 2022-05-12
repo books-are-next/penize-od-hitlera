@@ -45,7 +45,7 @@
         "filename": "penize_od_hitlera_002.md",
         "xhtml": "penize_od_hitlera_002.xhtml",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -192,7 +192,7 @@
       "identifier": "urn:uuid:5601b581-222d-43d6-81eb-b74007e1c1e0",
       "author": "Radka Denemarková",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T09:26:56.177Z"
+      "modified": "2019-10-01T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -347,6 +347,6 @@
       "user": "books-are-next",
       "repo": "penize-od-hitlera"
     },
-    "generatedAt": 1638437216934
+    "generatedAt": 1652351291241
   }
 }

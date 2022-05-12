@@ -1,5 +1,6 @@
 ---
 title: Návrat pátý(pozdní léto 2005)
+contentType: prose
 ---
 
 ## _Popraskané krunýře_

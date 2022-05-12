@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Peníze od Hitlera
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - penize_od_hitlera_002.html
+  - promo.html
   - penize_od_hitlera_006.html
   - penize_od_hitlera_007.html
   - penize_od_hitlera_008.html
