@@ -1,5 +1,6 @@
 ---
 title: Návrat šestý (podzim 2005)
+contentType: prose
 ---
 
 ## _Óda na radost_

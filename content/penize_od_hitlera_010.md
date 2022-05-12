@@ -1,5 +1,6 @@
 ---
 title: Návrat čtvrtý(pozdní léto 2005)
+contentType: prose
 ---
 
 ## _Šlahouny_

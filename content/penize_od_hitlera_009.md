@@ -1,5 +1,6 @@
 ---
 title: Návrat třetí(léto 2005)
+contentType: prose
 ---
 
 ## _Pouťové atrakce v zavařovacích sklenicích_

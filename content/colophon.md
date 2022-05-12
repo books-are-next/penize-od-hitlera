@@ -2,14 +2,15 @@
 title: Tiráž
 ---
 
-***
-
-Peníze od Hitlera
-
-(Letní mozaika)
-
-Radka Denemarková
-
+**Radka Denemarková    
+Peníze od Hitlera**  
+**(Letní mozaika)**  
+Ilustrace na obálce Zdzislaw Beksinski  
+Redakce Jaroslava Bednářová  
+Vydala Městská knihovna v Praze  
+Mariánské nám. 1, 115 72 Praha 1  
+V MKP 1. elektronické vydání  
+1. vydání z 12. 5. 2022.
 
 ***
 
@@ -23,12 +24,10 @@ Text díla (Radka Denemarková: Peníze od Hitlera), publikovaného [Městskou 
 
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
-Verze 1.0 z 1. 10. 2019.
 
   
 
 ![image002.jpg](./resources/image002_fmt.jpeg)
-
 
 ***
 
@@ -51,37 +50,3 @@ _Člověk myslí, Bůh se směje._
 Žádná podobnost není náhodná.
 
 Všechny ty příběhy se staly. Pořád nevím proč.
-
-
-***
-
-**Radka Denemarková  
-Peníze od Hitlera**
-
-**(Letní mozaika)**
-
-  
-
-Ilustrace na obálce Zdzislaw Beksinski
-
-Redakce Jaroslava Bednářová
-
-  
-
-Vydala Městská knihovna v Praze
-
-Mariánské nám. 1, 115 72 Praha 1
-
-  
-
-V MKP 1. elektronické vydání
-
-Verze 1.0 z 1. 10. 2019
-
-  
-
-ISBN 978-80-274-0191-8 (epub)
-
-ISBN 978-80-274-0192-5 (pdf)
-
-ISBN 978-80-274-0193-2 (prc)

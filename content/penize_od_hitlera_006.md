@@ -1,5 +1,6 @@
 ---
 title: Prolog
+contentType: prose
 ---
 
 Denis svírá v ruce zelenou, zašpičatělou lopatku a noří ji do změklé, narudlé hlíny. Nasáklé, nacucané vodou po noční průtrži mračen.

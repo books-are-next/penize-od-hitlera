@@ -1,5 +1,6 @@
 ---
 title: Návrat první(léto 1945)
+contentType: prose
 ---
 
 ## _Mrazivá krusta_

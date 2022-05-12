@@ -1,5 +1,6 @@
 ---
 title: Návrat druhý(léto 2005)
+contentType: prose
 ---
 
 ## _Držet čas v zubech_
