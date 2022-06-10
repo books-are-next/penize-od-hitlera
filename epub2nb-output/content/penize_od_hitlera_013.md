@@ -3,6 +3,8 @@ title: Epilog
 contentType: prose
 ---
 
+<section>
+
 Denisovu matku trefil šlak. Před televizní obrazovkou přepadla obličejem do bělostného porcelánového talíře, plného žloutkových křupek. Aby si naposledy prohlédla dno zmodralé prapodivnými ornamenty.
 
 Křupky vylétly do vzduchu. Některé se jako kuličky bodláku přichytily jejích šedin. Nataša s pošťačkou, Hankou Malou, Stolařkou a paní Drbavou – usazené kolem turecké kávy, jablečného džusu a ořechové bábovky – na ni ještě několik minut pořvávaly komentáře televizního seriálu, jinak zcela soustředěné na své téma.
@@ -27,7 +29,9 @@ Mlely a mlely, než pochopily, že žluť v Ženiných vlasech nejsou kulaté 
 
 Okna zámečku rozdrnčelo čtyřhlasé zaječení.
 
-  
+</section>
+
+<section>
 
 Na sklonku života bude Denis hořce litovat. Protože si nedá pokoj a jako jediný se dopátrá dosud neznámých podrobností ze života Gity Lauschmannové. Ale protože člověk nemůže věřit vlastním očím, natožpak těm cizím, a protože nemůže věřit vlastním slovům, natožpak těm vypouštěným z cizích úst, tak…
 
@@ -40,3 +44,5 @@ _Ničemu_ se jimi nedá zabránit.
 _Červen 2003 – září 2005_
 
 _(Praha a Rasochy)_
+
+</section>

@@ -3,6 +3,8 @@ title: Prolog
 contentType: prose
 ---
 
+<section>
+
 Denis svírá v ruce zelenou, zašpičatělou lopatku a noří ji do změklé, narudlé hlíny. Nasáklé, nacucané vodou po noční průtrži mračen.
 
 S vyplazeným jazykem, kterým se chvílemi úporně opírá o bílý plůtek zubů s dvěma chybějícími laťkami, zadupává miniaturní rýč hloub a hloub, nástroj překotí a vyrýplou hromádku odloží na rostoucí kopeček vedle pravého kolena. Mlaskavými ranami oplácává vznikající mohylu. Má rád tu mazlavou hmotu. Pak lopatku odloží. Teď zavrtává vztyčený ukazováček. Až po druhý kloub prstu, hlína prst obepíná s příjemnou mrazivostí, ale i zalézá za nehet, natlačuje se, rozšklebuje hranici mezi masem a nehtem, zemina rozráží bolestivou překážku, sunout prst nezměněným tlakem dál by slast proměnilo v trest. Denis prst spěšně vynoří. Zvědavě prohlíží kolík zohyzděný nabalenou hlínou, prohlíží ho ze všech stran, přiloží k tváři. Rozetře pruh přes levou i pravou tvář, středem čela, pod krkem rozpatlá pruh přes pahrbek ohryzku.
@@ -19,7 +21,9 @@ Lidská lebka.
 
 Pětiletý Denis ji opatrně přenese z jabloňového sadu na pískoviště.
 
-  
+</section>
+
+<section>
 
 Široce rozkročená Žena si bezmyšlenkovitě utírá ruce do kárované, bíločervené utěrky. Jsou dávno suché, ale ona je otírá, masíruje nezvykle dlouho, ztracená ve svých útržkovitých vzpomínkách, které se snaží pochytat, slepit, utřídit. Utěrku přehodí přes oprýskanou, několikrát přetíranou kuchyňskou židli nedaleko sporáku. Vezme bělostný porcelánový talíř s modrými ornamenty, který kontrastuje s její venkovsky ošlehanou tváří, naklade souměrný vějíř houskových knedlíků a do vzniklé vyschlé tůňky vlije kovovou naběračkou tmavohnědou omáčku s třepeninami masa. Opatrně, aby knedlíkovou bělost nepotřísnila.
 
@@ -57,7 +61,9 @@ Muž se neochotně vztyčí, utáhne povolený opasek a stáhne jím masu tuku 
 
 „To je cirátů kvůlivá ňáký blbý hračce.“
 
-  
+</section>
+
+<section>
 
 Noc.
 
@@ -107,10 +113,14 @@ Muž pochopí. Není ta správná chvíle na fantazírování. Oni dva si lhát 
 
 „Tak ho probudíš!“
 
-  
+</section>
+
+<section>
 
 O půl hodiny později stojí Denis u okna svého rozlehlého pokoje v prvním patře. V závoji záclon. Ukrývat se nemusí, ti dva dole jsou příliš zaujati svou prací a ukonejšeni noční černotou. Ale Denis je vidí. Vidí muže a Ženu, jak horlivě odhrabávají zeminu kolem místa _jeho_ pokladu, zorávají půdu _jeho_ lebky, prohmatávají lůžko neznámé bytosti. A nad nimi ševelí listí jabloní, které za měsíc popadá, které každý rok popadalo a smísilo se, přikrylo spáče a ulehčilo mu, rozpadali se společně, než lůžko objevil Denis. To Denis ho měl objevit, čekalo na něj. Muž a Žena vytahují pokroucené laťky a bílé tyče a zvláštně tvarovaný košík. Tehdy Žena zavrávorá, opře se o kmen jabloně a zvrací.
 
 Denis se dívá, jeho vzdor roste. Ty hračky patřily _jemu_, _on_ je měl objevovat. Jednu po druhé. Oni mu je ukradli. Ty hračky jsou _jeho_. Zítra si je vezme zpátky. Denis je unavený, oči se mu klíží, nevydrží stát. Docupitá k posteli, položí vedle sebe plyšového medvěda, přikryje se. Než usne úplně, radostně si představuje, jak vedle něho leží nalezená bílá hračka a v jejích důlcích se rozsvětluje barevný ohňostroj pohádkových světů.
 
 Dlouho nezmizí z Denisových dětských představ. Až za dva roky ji překryje a vytlačí narození sestry Nataši. Kdy ho začne fascinovat křehkost a krása _živého_ lidského těla.
+
+</section>

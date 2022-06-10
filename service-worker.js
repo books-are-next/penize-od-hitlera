@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-5967818';
+const CACHE = 'cache-cae3f9e';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./penize_od_hitlera_006.html","./penize_od_hitlera_007.html","./penize_od_hitlera_008.html","./penize_od_hitlera_009.html","./penize_od_hitlera_010.html","./penize_od_hitlera_011.html","./penize_od_hitlera_012.html","./penize_od_hitlera_013.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./scripts/bundle.js","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_penize_od_hitle_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./template-images/circles.png","./style/style.min.css"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./penize_od_hitlera_006.html","./penize_od_hitlera_007.html","./penize_od_hitlera_008.html","./penize_od_hitlera_009.html","./penize_od_hitlera_010.html","./penize_od_hitlera_011.html","./penize_od_hitlera_012.html","./penize_od_hitlera_013.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_penize_od_hitle_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./template-images/circles.png","./style/style.min.css"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
