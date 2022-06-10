@@ -3,6 +3,8 @@ title: Návrat čtvrtý(pozdní léto 2005)
 contentType: prose
 ---
 
+<section>
+
 ## _Šlahouny_
 
 Zvuk roztočeného kolotoče z hlavy nemizí.
@@ -13,7 +15,9 @@ Ten obšlapuje a přesvědčuje bratrance Ladislava; hučí do něj, ladí prag
 
 Fronta dárců zřídne. Utne ze dne na den.
 
-  
+</section>
+
+<section>
 
 K Natašině zoufalé nelibosti a za matčina mlčenlivého přitakání se Denis stává vyjednavačem znepřátelených stran. Podivným vyjednavačem. Přebíhá s bílým praporem od jednoho k druhému, mezi čtyřma očima vysvětluje a máchá rukama, přesvědčuje a chce, aby Puklice ve svém středu vztyčily pomník dávného rodáka. S dodatkem, že teprve poté Gita Lauschmannová stáhne a odvolá všechny své majetkové nároky. Aby se neumluvil do úplného vyčerpání, sepíše a prosazuje srozumitelné prohlášení.
 
@@ -63,7 +67,9 @@ Mladý atlet se narovná, nasupeně přitáhne ručník kolem boků.
 
 Denis se dívá na sykající záda poskakující po hrotech kamínků a odplivne si. Sebevědomý, asertivní hajzlík. Nechce se hádat, nechce se rozkmotřit úplně. Lékař specialista se vždycky hodí. Zvlášť když v koleně občas zacuká a píchne.
 
-  
+</section>
+
+<section>
 
 Denis začíná být posedlý.
 
@@ -99,7 +105,9 @@ Denis omládl, desítky letokruhů jeho těla se odštěpují, obruče praskají
 
 Než si lehne na igelitem pokryté tvrdé lůžko, sehne se. Aby srovnala zlatý řetízek na opálené kůži hladkého nártu.
 
-  
+</section>
+
+<section>
 
 Zklidnila jsem se. Jedna tabletka prášků na spaní už zase stačí. Samota mi prospívá.
 
@@ -133,7 +141,9 @@ Nataša se skloní, masíruje si modrající skvrnu na holeni.
 
 „Zejtra.“
 
-  
+</section>
+
+<section>
 
 Denis mluví a mluví a mluví, čapí krok vyměnil za plavné kolébání; tygr přechází v kleci. Nervózně cvrnká palcem o prostředník. Svým otočkám dodává ten správný, úderný rytmus. Jako by mě zaříkával šaman.
 
@@ -181,7 +191,9 @@ Nataša zakopne o vysavač, který tu nechala předešlého dne. Nakopne ho z 
 
 „Hele, mami, potřebuju jich dvacet, to nejni zas tak moc. Dělej. Než příde Háňa Malá a Stolařka, ať to neviděj. Budem zavařovat.“
 
-  
+</section>
+
+<section>
 
 V sobotním, nepřekvapivě škvařícím se odpoledni vystoupí z Denisovy červené toyoty dvě postavy. Majitelova svižně, druhá se zadrhne. Pevný mužný krok zaregistruje opožďující se šourání. Chvíli se dohadují; Denis chápavým gestem propustí svůj nižší doprovod. Ten se s úlevou nasouká zpátky do plechového krytu jako do záchranného skafandru. Aby se mohl nadechnout.
 
@@ -213,7 +225,9 @@ Ladislav Stolař mladší, v trenýrkách Adidas, čerstvě opálený po zájez
 
 „No tak ji rychle přiveď. Na co čekáš?“
 
-  
+</section>
+
+<section>
 
 Ladislav Stolař mladší je natěšený.
 
@@ -225,7 +239,9 @@ Vzrušený Stolař tuší dvojitý stín v zrnitém skle dveří. Ze zadní kap
 
 Stojí tu do sebe zavěšeni. Porcelánové figurky v bílém rámu dveřních futer, mládenec štěstí a panenka žal. Vysoký mládenec Denis, načechraná panenka Lauschmannová. S číhavě přimhouřenýma očima a elegantní, lakovanou kabelčičkou pod ramenem. Jako na svatební fotografii.
 
-  
+</section>
+
+<section>
 
 Žena vykružuje písmena, obtahuje je s vyplazeným jazykem. Nataša se jí s napětím dívá přes rameno, pozoruje tah čarou, s posledním písmenem políbí matku na spánek. _Srdečně a s láskou Jiří Oujezdský_.
 
@@ -269,7 +285,9 @@ Stojí tu do sebe zavěšeni. Porcelánové figurky v bílém rámu dveřních 
 
 Nataša odtáhne vysavač. Než obludu do komory zašoupne, pořádně ji zkope.
 
-  
+</section>
+
+<section>
 
 Stolař stojí jako opařený.
 
@@ -333,7 +351,9 @@ Slzí a dohýkává.
 
 „No tak si teda, paní Lauschmannová, sedněte, když už jste mi s Denisem přichystali takový překvapení. Co sme si, to sme si. Jsme přece lidi.“
 
-  
+</section>
+
+<section>
 
 Hanka Malá a kulaťoučká Stolařka přidupou se čtyřmi košíky plnými hub. Nataša jim otevře, v mokré ruce kartáček, kterým ve vaně drhne okurky. Vyklouznou ze zapařených holínek, zalezou do kuchyně. Stolařka přebírá a láskyplně prohrabuje houby.
 
@@ -379,7 +399,9 @@ Stolařka z rukou smete hněď očištěnou z hub.
 
 „Pomůžu ti.“
 
-  
+</section>
+
+<section>
 
 Tetelím se nad vlastní odvahou. A přitom je mi mdlo.
 
@@ -451,7 +473,9 @@ Kůň se splašil, peláší pryč.
 
 „Láďo, tvoje jméno je takový symbol…“
 
-  
+</section>
+
+<section>
 
 Hanka Malá na zápraží vklouzává do holínek. Stolařka jí podá proutěné košíky.
 
@@ -475,7 +499,9 @@ Hanka Malá na zápraží vklouzává do holínek. Stolařka jí podá proutěn�
 
 „A řikám snad něco?“
 
-  
+</section>
+
+<section>
 
 „Symbol všech sviňáren, které se tu Lauschmannovic rodu staly. Ať to byl ten nebo ten, vyhodili jste nás z kola ven.“
 
@@ -491,7 +517,9 @@ Denisovi se kovový roh vysmekl, na lesklém chladu podklouzly nohy. Žadoní.
 
 „Je to od ní nesmírná odvaha, projev mimořádně dobré vůle… Nebuď zbabělec, Láďo. Očekávám od tebe, že se vzchopíš. Přesvědčíme ostatní, pomník se postaví. Vždyť jde jenom o kus podělanýho malýho kamene, pomníček, co to komu udělá. Všechno se tím vyřeší, _všechno_. – Tak už si, paní Lauschmannová, krucinál sedněte!“
 
-  
+</section>
+
+<section>
 
 Nataša vejde s tlustou knihou receptů v podpaží; jableč­ný mošt, skleničku, tři meruňky a křupky vybalancuje na tácku. Žena pochrupuje ve spršce jasu, hlavu zalomenou, ústa pootevřená; lampa vrhá ostré světlo, propůjčuje tváři cosi přízračného. Nataša odloží tácek, opatrně odsune zkřivené prsty z improvizovaného stolku, do ruky vezme popsané čtvrtky a sáčky. Než je založí mezi zadní stránky objemné kuchařky, aby se vyhladily, něco ji rozladí. Počet písmen nesouhlasí. Vyděsí se.
 
@@ -547,7 +575,9 @@ Pozdě na lež, pozdě na pravdu. V soudní síni mám stát, ne tady.
 
 Stolař se už nadobro vzpamatoval.
 
-  
+</section>
+
+<section>
 
 Nataša do sebe hodí panáka domácí slivovice. Než si stačí Stolařce plačtivě postěžovat na rodinný nevděk, vlítne Hanka, za sebou stezku z hříbků. Udýchaně se opře o stůl.
 
@@ -623,7 +653,9 @@ Nataša ignoruje štamprli, sáhne po lahvi; překlopí ji do sebe. Hanka jí ch
 
 „Neboj. Kluka jsem nechala špízovat, těm mladejm nic neunikne. Pošťačka mu pučila skleněnej kukr.“
 
-  
+</section>
+
+<section>
 
 „A pro koho by to divadlo bylo dobrý? Kvůli Lauschmannovi by mi stejně nikdo nepřišel. Hele, musíme koukat do budoucnosti. Za minulostí udělat tlustou čáru, rozumíš, hodně tlustou čáru. Takhle tlustou, čmárat a čmárat.“
 
@@ -637,7 +669,9 @@ Nikdy ti, starosto, neodpustím. Ještě nevíš, že to je nejhorší, co tě m
 
 Jakmile člověk odpustí, spolčí se s nimi.
 
-  
+</section>
+
+<section>
 
 Hádají se ostře, tasí meče, švihají bičem, jdou si po krku. Stolař brunátní, Denis bledne. Starosta máchá potvrzeními.
 
@@ -655,7 +689,9 @@ Vždycky jsem to věděla. Už když jsem jako malá holka pozorovala vločky za
 
 Pryč odsud, to je můj cíl.
 
-  
+</section>
+
+<section>
 
 Každá poválečná návštěva Puklic ze mě vysává tolik síly. Nepoučitelná se vracím a snažím se navázat na ztracené chvíle. Místo abych žila ty svoje. V myšlenkách jsem Puklice nikdy neopustila. Jenom tělo bloudilo světem, duše tu uvízla. A to byla _jejich_ pomsta.
 
@@ -663,7 +699,9 @@ Pavučina je pevně utkaná. Bez konce a začátku. Napnutá od jednoho horizon
 
 Ale zbytnělo ve mně pevné odhodlání, vzklíčené během poslední schůzky na obecním úřadě. Soudit se budu. A zpopelnit, ne, _pohřbít_ mě jednou musí tady. To mi snad zakázat nemůžou.
 
-  
+</section>
+
+<section>
 
 Mířím k zastávce.
 
@@ -675,7 +713,9 @@ I kdybych stála sama proti celému světu, neschopna pohybu, zamotaná v pavu
 
 A pro mě i skončil.
 
-  
+</section>
+
+<section>
 
 Denisova hlava nadskakuje za neprodyšným plotem z tmavě mořeného dřeva jako míč, s nímž si házejí děti. Mává, volá. I moje dcera poskakovala a volávala.
 
@@ -687,7 +727,9 @@ Z druhého pokoje jsem podrážděně odpovídala.
 
 Co, co to vlastně bylo, co jsem to jen musela dodělat. Co to vlastně je, co musím dodělat. Je nám dáno práci začít, není nám dáno práci dokončit.
 
-  
+</section>
+
+<section>
 
 Blížím se k autobusové zastávce, odkud můžu opustit rodné hnízdo; hnízdo hnijících trav.
 
@@ -701,7 +743,9 @@ Přehodím kabelku do levé ruky, pravým ukazováčkem sklouznu do oblé náru�
 
 Žlutá hvězda s nápisem JUDE.
 
-  
+</section>
+
+<section>
 
 U nástupního ostrůvku prudce přibrzdí auto. Denis vyskočí. Roztrpčená bledost nabrala světle modravý odstín. Lebka potažená průsvitnou tenkou blankou, pod níž se rýsují a tepají žilky.
 
@@ -727,7 +771,9 @@ Odmítnu se připoutat.
 
 „Pryč odsud, to je můj cíl.“
 
-  
+</section>
+
+<section>
 
 Míjíme pokroucené kmeny s přezrálými rudými peckovinami. To přece není normální, aby ty stromy rodily ovoce ještě na konci srpna. To není normální.
 
@@ -774,3 +820,5 @@ Stejně jako minule s právníkem: trasu odfrnkneme v rekordním čase. Jako b
 Moci se tak přikurtovat na předek jedoucího auta. A čelem drhnout o zvrásnělou vozovku. O zrohovatělý, chladnoucí asfalt. V rozjásaně prázdninovém dni. Mezi posečenými poli. Zbyde po mně rudá šmouha. Vydrhnu si maso uprostřed čela. Až na kost. Vypadne mi mozek. Zachytím ho. Je jako těsto, můžu ho zmuchlat.
 
 Prsty rozmačkat náplň do jitrnic.
+
+</section>

@@ -3,6 +3,8 @@ title: Návrat třetí(léto 2005)
 contentType: prose
 ---
 
+<section>
+
 ## _Pouťové atrakce v zavařovacích sklenicích_
 
 Takové přiopilé, rozdychtěné odpoledne, do něhož jemně zaklinká tramvaj. Horko, až bolí. Praha si vcucla zmořené lidské hlásky, chladí si je v ulepených útrobách; sama slunci nastavuje kamennou tvář bezostyšně, provokativně sundá černé brýle a nastaví jasu obnažené bělmo; rovnocenní partneři.
@@ -11,7 +13,9 @@ V jedné z buněk chladivého těla bliká zotvíraná a rázně přivíraná
 
 Paní Lauschmannová se už brzy navrátí ke svým listinám. Píše se rok 2005 a její rodiče byli rehabilitováni.
 
-  
+</section>
+
+<section>
 
 Mechanický čapí robot si štráduje. Zpo-ma-lu-je. Otočit klíčkem v zádech, to by potřeboval.
 
@@ -21,7 +25,9 @@ Hlavou se prohánějí zběsilé čarodějnice na koštěti. Nedaleko příkopu,
 
 Posedává v trávě dlouho, přemítá u pankejtu; vosy bzučí a dorážejí, nakukují do uší, olíbávají zpocenou tvář.
 
-  
+</section>
+
+<section>
 
 Pruhovaná žlutočerná torpéda přelétávají kolem hlavy, zabodávají sosáčky, vysávají a ocucávají myšlenkovou směs sladké hrušky. Marně Denis máchá rukama; odhání je bezvýsledně. Odlepí ztěžklý zadek.
 
@@ -35,7 +41,9 @@ Vesnice kmitá jako ohrožené mraveniště. Zdánlivě se přes mimořádné ud
 
 Stolař už jim povyprávěl. Překroutil a nafoukl celou historku. Plnými hrstmi rozhodil přebrané zrní. Z kterého si v postupném ústním převyprávění vyzobou jednotlivá zrnka; stěží to budou zrnka pravdy; ta má Stolař zastrkaná doma, pod postelí. Není na světě takové studánky, která by dala vody zrnkům zadrhlým v krku. A odplavila je.
 
-  
+</section>
+
+<section>
 
 Zavrtat se do nory pražského bytu, stočit do klubíčka. Povaluje se tu laskavé ticho. Ne jako v Puklicích, tam je výhružné. Jenomže stafáž vyčkává: dcera s mladší vnučkou Annou. Dovlekly týdenní nákup. Poklidily.
 
@@ -47,7 +55,9 @@ Dobelhám do své pracovny. Na stole se šklíbí rozcapené stránky i zotvír
 
 To je poslední kapka. Kapka dnešního dne.
 
-  
+</section>
+
+<section>
 
 Denis se točí na kolotoči vět; rytmu nestačí.
 
@@ -71,7 +81,9 @@ Pošťačka odtrhne tlusté brýle, plácne se do čela.
 
 „A kampak teda vodtáhnem ty pytle s čočkou?“
 
-  
+</section>
+
+<section>
 
 Kolotoč nabírá rychlost, tváře na hřbetech zvířátek kmitají, rozmazané ovály bzučí do Denisových uší.
 
@@ -121,7 +133,9 @@ Stará Žena u ševelícího televizoru podřimuje.
 
 Odsud vychází málokdy.
 
-  
+</section>
+
+<section>
 
 „Tak jak jste pořídili?“
 
@@ -153,7 +167,9 @@ Otazník zasviští do zvonkohry příborů. Cídí je svalnatá, inteligentní 
 
 „Je to moje psaní o Puklicích. A ty ho tady pohazuješ a přehrabuješ jako nějaký odpad.“
 
-  
+</section>
+
+<section>
 
 Vybledlé, tíživě rudé sametové závěsy jsou zatažené. Hrozí, že svou vahou garnýž rozlomí. Látkový zlatokop zachytává každý náznak slunečního svitu, lape zrnka poletujícího prachu, těžkne. Bělostný porcelánový talíř olemovaný modrými ornamenty a usazený v Ženině klíně kontrastuje s její tváří. Zvrásněnou, trvale venkovsky ošlehanou. Talíř je přeplněný máslově žlutými křupkami. V televizoru hovoří umělí lidé. Načesané figuríny přecházejí po harmonicky sladěném, kašírovaném pokoji. Vylézají z díry jako brouci, protáhnou těla obrazovkou, obšlapou televizor, posedí na něm, pohupují si nohama, vylezou na závěsy a sklouznou dolů, než se do bedny navrátí. Žena odpolední hodiny prosedí před telenovelami celého světa. Ruku vnořenou do mísy, z níž pravidelně mlsá. Tentokrát na svou věrnou divačku z krychlové krabice procítěně halekají, pokřikují a mávají marně, ústa zabalená do kornoutu.
 
@@ -245,7 +261,9 @@ Matka se rozesměje. Hrozí, že talíř upustí. Denis ho opatrně vyprostí z�
 
 Smích přechází ve štkaní, které pohazuje seschlým tělem.
 
-  
+</section>
+
+<section>
 
 Přebelhám zpátky do pracovny. Začnu hekticky sklapovat sešity a nastrkávat papíry do obálek, pěchovat do krabice.
 
@@ -269,7 +287,9 @@ Andula obejme Barču kolem ramen, obrátí oči v sloup; tradiční hádka odst
 
 „Od tebe nechci nic. Když už jsi to nakousla, jediné, co jsem kdy já od tebe chtěla, byl ten medailonek po babičce, cos mi slibovala od dětství. Nechávala sis to stříbrný sluníčko pohupovat na krku. Jako výsměch dítěti, které po něm marně vztahovalo ruku. Byla jsem malá a žebronila o něj a ty ses odtahovala, _to je po babičce Ulrice, jednou ti ho dám a ty ho zase předáš svojí holčičce, je to takový náš řetěz štěstí, ale teď ne, děvenko, teď ne, dáš pryč tu ručičku, nebo přes ni dostaneš. A teď utíkej za tatínkem, já musím pracovat._ Kecy a pindy. Bůhví kam jsi ho zašantročila.“
 
-  
+</section>
+
+<section>
 
 Záhadný smích napájený slzami odezní. Vystřídá ho vzdor.
 
@@ -299,7 +319,9 @@ Denis ji nepřerušuje. Slova zanikají v překotně vyvržené spršce vět, j
 
 „Přežil. Jako Gita.“
 
-  
+</section>
+
+<section>
 
 Proč se to pořád dokola vrací.
 
@@ -315,7 +337,9 @@ Zabraňovala jsem porodu tou marnou, hloupou mantrou. Hodiny a hodiny jsem ji k
 
 „Fyzicky těhotenství a druhý porod budeš schopna zvládnout i ve svém věku, ale nevíme, co udělá psychika.“
 
-  
+</section>
+
+<section>
 
 Žena zkřoupne další žluté válečky.
 
@@ -331,13 +355,17 @@ Denis je znavený, chce se najíst, opláchnout, zdřímnout si na kanapi. Zmáh
 
 „Takovou tu pro malý děti, když se krměj. Sloužila jako sokl na kytku v květináči. Chtěla jsem ji spálit, ale budeš se smát, byl na ní namalovanej medvěd s takovejma vytřeštěnejma vočima a ten na mě civěl, kamkoliv jsem se hnula. Do vohně jsem ji nehodila, to ne, na fajruňk nešla, to jsem se nevopovážila. Šíbovala jsem s ní po celym baráku. A nakonec jsem ji vodnesla do kůlny, někde se tam možná ještě dneska válí.“
 
-  
+</section>
+
+<section>
 
 Porodila jsem večer, v obývacím pokoji. Když Johan zachytil lesklé, červené tělíčko, pocákané stékajícími temperovými barvami, na okamžik jsem se strašlivě zalekla. Ale ukázal mi holčičku, zdravou a krásnou. Sápala jsem se po ní. Tiskla ji k sobě, manželovi věcně přikazovala, jak a kde má čekat, až mé útroby vypudí placentu, jak a kde má odstřihnout pupeční šňůru. Takhle nás zastihl přivolaný lékař, tato momentka se do mozku vryla jemu.
 
 Ležící žena na zakrvácené, mokré pohovce bez prostěradla. Zpocená, rozhicovaná žena v dlouhé sukni a modré blůze, s jednou ponožkou, protože pravá se sesmekla a visí jako čepička přes prsty u nohou. Ležící, rozhicovaná žena, která šťastně tiskne neumyté, do bílé pleny zahalené miminko a hystericky poplakává. Mramorově bledý muž tu nepatřičně postává s nůžkami v ruce.
 
-  
+</section>
+
+<section>
 
 Medvěd. _Bože, vysvoboď mě._
 
@@ -349,7 +377,9 @@ Z krabice setře hnědavé otisky prstů. Sepranou a zalátanou károvanou ut�
 
 Zestárlá matka a stárnoucí syn si povídají dlouho. Do pozdního odpoledne. Za zataženými závěsy.
 
-  
+</section>
+
+<section>
 
 Dokud nepřekročila věk čtyř měsíců, tu magickou čtyřku, nepropustila jsem svou dceru z náručí. Držela jsem ji od prvních sekund, hladila, dotýkala se jemně tělíčka, šeptala do jemných chloupků na boltci, hádala se po telefonu s dětskou lékařkou. Nepustila jsem ji z ruky. Koupala jsem se s ní ve velké bílé vaně. Do níž jsem jako houpavou loďku vnořila dětskou vaničku, s napěněnou teplou vodou. Na záchod jsem chodila s ní. Opatrně jsem sedala na záchodové prkénko, usedala z boku. Abych neprobouzela nezahojenou bolest mezi nohama, miminko pevně omotané k hrudi vlněným šálem. Dokud jsme nepřekročily zamořenou hranici času, ten ohrožený kotec, ve kterém jsem holčičku musela chránit, žila jsem jako v transu. Čtyři měsíce jsem odmítala vyjít z bytu, nereagovala na zběsilá vyzvánění zvonku u dveří, který klinkal jako vtíravý umíráček. Odmítala jsem ji položit do kočárku, procházet se s ní bez tělesného dotyku. Neotvírala jsem nikomu. A moje holčička téměř neplakala. Byly tu jen náznaky pláče, něžná zakňourání, jejichž příčinu jsem okamžitě dešifrovala. Naučily jsme se navzájem porozumět svým jazykům, naučily jsme se odezírat a reagovat. Nepropustila jsem svou dceru z vysíleného náručí. Díky kontaktům a energickému pobíhání tety Ottly, díky zásahu kolegů z nemocnice, díky gynekologovi, který promlouval s nasupenou dětskou lékařkou i manželem, mě tehdy nehospitalizovali.
 
@@ -391,7 +421,9 @@ Popadne a přiškrtí Denisovo zápěstí. S překvapivou silou. Což potěš�
 
 „Jen toho strachu a bezesných hodin, co jsem si prožila, když jsem Gitu tajně vykrmovala. Aby nechcípla hlady. Aby se mohla zdekovat. Kdyby se to Láďa nebo tvůj fotr – natož Poledňák s Kleinem – domákli, skončila bych jako vona.“
 
-  
+</section>
+
+<section>
 
 Z ledničky vyházím jako první řízky. Potěžkám dva činely, které odrolují strouhanku. Připlácnu je k sobě a odhodím na stůl. Balím jídlo do stříbřitého alobalu.
 
@@ -401,7 +433,9 @@ Přitom je tolik potřebuju. Vždycky potřebuju vědomí, že mě přenášejí
 
 Popadnu nové činely a vyplesknu čerstvý tón o své tváře. Koho jsem za svůj život přenesla a pochovala v náručí já?
 
-  
+</section>
+
+<section>
 
 Denis si promne pět zčervenalých fleků na zápěstí. Ví, že je v pasti. Už neunikne.
 
@@ -433,7 +467,9 @@ Denis odmítne nabízenou křupku. Matka si je vhazuje do úst, chroupá mezi sl
 
 „Ale nic.“
 
-  
+</section>
+
+<section>
 
 Proč to neřeknu? Proč to nejdůležitější zazdím mlčením? Proč neřeknu, jak strašlivě mě mrzí, až k bolavému srdci, že jsem před lety Ulričin řetízek přes hlavu své dcery nepřetáhla. Ale že jsem to před lety napravila. Slunečním medailonkem jsem nakonec dítě obdarovala. Blonďatou holčičku. Jen v jiný čas, v jiné zemi, skrytou v jiném tělíčku. Proč to ksakru neřeknu. Vymáčkni se, no tak; jsem baba nevděčná, to ta únava.
 
@@ -441,7 +477,9 @@ Bojím se, že by mě nepochopily?
 
 Na mohylu soukmenovců naplácnu poslední řízková dvojčata.
 
-  
+</section>
+
+<section>
 
 „Že by se ta naivní frajle na starý kolena naučila vyhrožovat?“
 
@@ -477,7 +515,9 @@ Talíř vyklouzne. Jeho dopad ztlumí perský koberec. Denis se unaveně shýbne
 
 „Protože to byly jabka právě z tohodle jabloňovýho sadu, rozumíš. Z žádnýho jinýho. To byl můj trest. Já jsem vysávala mízu ze stromů, pod kterejma leží moje vi-vina, já jsem tu vinu vysávala, aby to rozložený tělo zmizelo jednou provždy. Vysávala jsem mrtvolu z hlíny. A z mýho těla, z mý hlavy tak nezmizela nikdy.“
 
-  
+</section>
+
+<section>
 
 Nepochopily by nic, nány.
 
@@ -495,7 +535,9 @@ Zmučená Bára spráskne teatrálně ruce, výron nepřesvědčivého nadšení
 
 „Kopřivovou. To je moje zkušenost z Terezína, se kterou se s vámi ráda podělím. Polévka se dá uvařit z jednoho listu zaprášené kopřivy. Mám chuť na kopřivovou polévku.“
 
-  
+</section>
+
+<section>
 
 „Klid, uklidni se.“
 
@@ -523,7 +565,9 @@ Denis matce podá papírový kapesník, aby si osušila krk. To odpoledne už j�
 
 „Stál tady, řikám ti. Jako ty. Adin Lauschmann. Bylo mu vosumnáct, vo čtyři roky mladší než já byl. Přirajzoval si to do Puklic z koncentráku pár dní před Gitou. Hádal se, vztekal se jak beran a řičel, že pometelí do Třebíče, dokonce až do samotný Prahy a ajncvaj rozmázne takovou nestydatou krádež. Za návsí se vyhoupnul na žebřiňák stařičkýho Kabrhela, kterej to už chudák měl v kebuli celý popletený a dokonce si považoval za velkou čest _svíst mladýho pána_. Nedojeli daleko. Tvůj táta, Láďa, Poledňák a Malý, co se tehdá eště jmenoval Klein, nadběhli přes židovskej krchov. Chtěli mu domluvit, aby nebláznil, neudával a co prej má jako dovopravdy v úmyslu. Měli přeci jen strach. Vyslýchali Adina tady v zámečku, večer ho zalígrovali pro výstrahu do trezoru starýho Lauschmanna, co tam teď Nataša skrejvá ty svoje pošahaný pytlíky. A zapomněli na něj. Ráno jsme ho vytáhli, málem se udusil, ale pořád ještě žil. Porád ještě chroptivě vyhrožoval. Nakonec ho zašpérovali do stodoly, přivázali k trámu a nechali vyhladovět. Poledňák a Láďa ho tam chodili kontrolovat. Nakukovali, jestli dodejchal. Náš táta taky helfnul. Zahrabali ho v jabloňovym sadu.“
 
-  
+</section>
+
+<section>
 
 „Kopřivovou. A jako delikatesu chleba s uzeným. Někoho si pozvem, aby nám plátky ukrajoval.“
 
@@ -593,7 +637,9 @@ Prudké trhnutí provázkem málem zlomí Denisovi vaz, vláček nestaví.
 
 „Na cestě domů?“
 
-  
+</section>
+
+<section>
 
 Ne, neposlouchám. Vrším řízky.
 
@@ -615,7 +661,9 @@ Andula si z úst vytáhne růžovou stužku, znovu ji zpracuje, jazyk obalí na
 
 Práskne za sebou dveřmi.
 
-  
+</section>
+
+<section>
 
 Denis své matce příliš nerozumí. Přesněji řečeno: nerozumí jí vůbec.
 
@@ -627,7 +675,9 @@ Denis se pokusí trhavou jízdu přesměrovat.
 
 „A má na to důkaz, co? – Gitě neřekneš nic. Ani muk. Zůstane to mezi náma, Denisi. Zůstane to mezi náma. Vymazávala jsem to ze sebe a moštem se proplachovala tajně, ale když zas přirajzovala… V padesátym čtvrtym přilezla taky, nepoučitelná. Na zápraží na mě vystrkovala to svý těhotenský panděro, já umírala strachy, že někomu prozradí…, že se podřekne, jak jsem jí pašovala chleba. A že mě po-potrestaj stejně jako Adina. Nenápadně odkráglujou. Po tom jejim druhym návratu se mi, Denisi, zdávaly tak hrozný sny! Ležela jsem přivázaná ke stolu a kolem hory jídla. Jako kapr na suchu jsem lapala po jedinym soustu, ždibečku, drobku. Nakonec mi pusu ucpali hroudou hlíny. Brr. – A teď si přirajzuje zas.“
 
-  
+</section>
+
+<section>
 
 „O co ti, mami, jde? O co ti vlastně jde? Žijeme normální život. A ty nás všechny vláčíš na uzounkou lávku.“
 
@@ -669,7 +719,9 @@ Dospělý Denis si prohlíží mužný ukazovák, dlouhý a silný. Vybělený 
 
 Žena blekotá, slova se jí perou na špičce jazyka, bojují o prvenství. Když se nedohodnou, nastane pěstní zápas. A ten nějakou chvíli trvá.
 
-  
+</section>
+
+<section>
 
 Lednička je vyrabovaná. Dostanu nestydatou chuť na řízek. Z mísy alespoň vyškrábu zbytek čočkového salátu. Uvařím si brambory. A usmažím vajíčka. Pečlivě erteple oškrábu. Bezbranně schoulené do mojí dlaně. Svléknu je do naha, sedřu z kůže. Jednu po druhé. Teta Ottla slupky bleskurychle balívala do starých novin. Odhazovala do koše. Abych neviděla. Ty první měsíce jsem je odmítala vyhazovat. _Tohle by Rozálce zachránilo život, tyhlety slupky by Rozálce zachránily život, vidíš to, a ty to tady vyhazuješ._ Rvala jsem z odpadkového koše hrsti hnědých hádků, rvala si je do pusy, v ústech je rozemlela na kašovitě odpudivou směs s křupinkami hlíny a písku a ztěžka polykala.
 
@@ -705,7 +757,9 @@ Potlačuje odpor ke své sbírce hysterických doznání starých žen, cítí v
 
 Chlapec přestal mít rád mazlavou hlínu.
 
-  
+</section>
+
+<section>
 
 Temnou prázdnotou Denisovy lebky prosviští indiánský šíp. Upatlaná vzpomínka. Přetáčí film pozpátku. Pokaždé stopne totéž místo. Očima prohmatává znehybnělý obraz, který se zadrhnul.
 
@@ -739,7 +793,9 @@ Denis si hlasitě odkašle, hlen opovržení mu obalí hrdlo.
 
 „Jistě. _Šel zahradník do zahrady s motykou, natrhal tam rozmarýnu velikou._ Tím se všechno vysvětluje. U rozmarýny moje matka s mým otcem osekávají mrtvé tělo. A na jiném místě a v jinou dobu tři floutci olamují ženské ruce. Jistě. Ano. Jistě.“
 
-  
+</section>
+
+<section>
 
 Víno je stočeno do lahví, tak se musí vypít.
 
@@ -751,7 +807,9 @@ Vstanu, u okna polknu druhý.
 
 Ulicí poskakuje opálená turistka s kosmetickým kufříkem, muž za ní po dláždění drkotá s nabobtnalým kufrem na kolečkách. Špinavá žena s moučným obličejem se opírá o hůl, v rohu náměstíčka nastaví dlaň; na zápěstí se zhoupne igelitová taška se zaschlým kečupem. Strnule čeká na drobné.
 
-  
+</section>
+
+<section>
 
 Denis matkou neopovrhuje za to, co udělala, ale za to, že mu ničí dosavadní život. Povyšoval se nad ní vždycky. I nad svou sestrou. Intelektuál, který se vyvlékl z holínek a nenávidí ty, kdo drží vidle a kydají hnůj na zahradě jeho dětství.
 
@@ -789,7 +847,9 @@ Denis už kdysi dokázal smazat minulý čas. Vrátit k bodu nula. Zhmotnělé 
 
 Tentokrát měla mlčet.
 
-  
+</section>
+
+<section>
 
 Žebračka se odšourala. Odvrátím se od světlem změklé ulice. Ospalý rudý kotouč je neúprosný.
 
@@ -813,7 +873,9 @@ Ve vstupní hale cosi zarachtá.
 
 „Utři ty fleky na televizi. A mlč! Před Natašou ani slovo. A zhlas televizi. Pořádně.“
 
-  
+</section>
+
+<section>
 
 Pouť obohatily střelnice; vzduchovky nabíjejí ostrými. Dorazily v plné polní. Nataša vpadne rozrušená, tváře zčervenalé z nevídaných pouťových hrátek.
 
@@ -841,7 +903,9 @@ Nataša trochu znejistí, jestli před matkou neprozradila víc, než měla. Tě
 
 Matku na skráň nepolíbí.
 
-  
+</section>
+
+<section>
 
 V náručí svírám čerstvě porozeného syna. Prababička se mihne přes dvůr. Hlavu zabalenou v šátku. Zapálila oheň v sednici i v kadibudce na dvoře. Varuje před husou a houserem, štípou do břicha. Do masa kolem pasu. A uždibují navrstvený tuk. Přijet měla i maminka. Místo ní dorazila cizí žena s blonďatou holčičkou v drobných, troj­úhelníčkových plavečkách. Dobíhám s novorozencem na záchod. Úprkem. Zabouchnu za sebou dveře dřevěného domečku, zaklapnu zrezivělou zástrčku. Houser a husa se už kolébají za trouchnivějícími dveřmi. Kejhají a kejhají, jejich těla rostou a oranžové zobáky se zvětšují, protahují, dotírají. Prababička je bez tváře. Zející černá díra v pestrobarevném šátku. Zdvihne děvčátko, opálené tělíčko vecpe houserovi do krku. Jako šišku. Potí se a funí, jak do zobáku nakonec vecpe i zrůžovělé patičky. Dívám se škvírou, ani nedutám. Jsem bezmocná, dělat nemůžu nic. Zející čerň mne dlouhý, bílý, mastný krk. Který se vlní pohyby dětského těla. Pohřbeného v husím těle. Zaživa.
 
@@ -849,7 +913,9 @@ Prudce rozevřu slepené oči.
 
 Vánek přibouchl otevřené okno.
 
-  
+</section>
+
+<section>
 
 Nataša Denise horlivě obejme ještě u auta.
 
@@ -867,7 +933,9 @@ Na přední sedadlo k rozházeným papírům usadí pytlík třešní.
 
 „A uvidíš, jaká bude letos na podzim úroda jablek. Nádhera!“
 
-  
+</section>
+
+<section>
 
 Denis přibrzdí na tomtéž místě, kde ho před polednem vypoklonkovala paní Lauschmannová. Vystoupí ze svého červeného auta japonské značky. Pod kmeny třešní, jejichž koruny se teď vpodvečer tyčí hrdě a nehybně. Je mu nevolno. Při pohledu na ostře zelenou trávu protkanou nahnile rudými plody potlačuje obnovené nutkání zvracet.
 
@@ -888,3 +956,5 @@ Cestou do Prahy, když si obličej otírá osvěžujícími ubrousky a tělo oc
 Než zaparkuje v tmavnoucím centru Prahy, v ulici, kde bydlí, v ulici zanesené letním prachem, než projde kolem stolků zahradní restaurace s plápolajícími svíčkami, mezi nimiž kmitají dva číšníci s platy napěněných půllitrů, než tělo pokryje sprchovým gelem a spláchne nechutný pach z úst i nohou, než svlaží kůži, čpící nakyslým potem, je rozhodnuto.
 
 Taková něžná letní noc a je rozhodnuto.
+
+</section>

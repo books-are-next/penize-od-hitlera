@@ -3,6 +3,8 @@ title: Návrat pátý(pozdní léto 2005)
 contentType: prose
 ---
 
+<section>
+
 ## _Popraskané krunýře_
 
 Denis do své trucovitě vzývané tramvaje číslo třináct, která by se prokusovala známým územím, zatím ani nenastoupil. A to ho žere, sžírá a vykusuje zevnitř. Touží zachránit svůj starý dobrý život. Touží v klidu navštěvovat matku za ztěžklými závěsy. Například.
@@ -15,7 +17,9 @@ Pravou ruku si ještě mýt nebude. Ještě se na ten záblesk žluti pořádně
 
 Zblízka.
 
-  
+</section>
+
+<section>
 
 Vím, co je to zakoušet bezmoc. Tělo svázané ostnatým drátem, posazené na rozžhavená kamna.
 
@@ -31,7 +35,9 @@ Tato věta rozhodla.
 
 Ládínek Stolař získal kovárnu i dílny a pro svou sestru zámeček. Další dva svědkové část polí. Zbytek se rozdělil mezi sedmdesát pět obyvatel Puklic.
 
-  
+</section>
+
+<section>
 
 Denis otáčí stránky šlachovitou paží.
 
@@ -125,7 +131,9 @@ Teta buší a buší. Bubnuje rytmicky oběma pěstmi, jako by vymílala dva d�
 
 Dřevěná vrata odolávají.
 
-  
+</section>
+
+<section>
 
 Vrazím si pěst do pusy. Abych nevykřikla. Promarnila jsem svůj život. Rychle se zachytit všedních úkonů, než nastane sesuv půdy pod nohama. Zatím mi pod chodidly podklouzlo několik kamínků, odkutálely se do propasti. Ještě za nimi nechci. Obrysy zkaleného snu se kdesi pode mnou přehupují, přetvářejí se v silný vír. Ten si mě přitahuje jako magnet; na chodidlech cítím chlad prvních kapek. Rychle pryč, než mě to vcucne nadobro.
 
@@ -139,7 +147,9 @@ Na osminky rozkrájím velká, červená jablka z Francie.
 
 Když jsme se narodili, otec každému z nás zasadil jabloň, ty nejlepší druhy, renety a malináče. Ty krouceniny patří nám. Fotografoval nás u nich každý rok. Aby viděl, jak rostou děti i stromy. Představoval si, že to tak bude po celý život. Že se tu každý rok ve stejnou dobu sejdeme. A vyletí ptáček.
 
-  
+</section>
+
+<section>
 
 Prudce se rozkašlu. Jablko se odkutálí na zem, vyděšené ztrátou pevných prstů a roztřesenými tahy myšlenek. Rozkašlu se pocitem jícnu ucpaného desítkami rozcupovaných dokumentů. Zdušenou pusou krmenou papírovými útržky úředních lejster. Přejdu do koupelny. Dávivě se opřu o umyvadlo; stejně jako kašlávala teta Ottla, když se jí po hádce přitížilo. Denis ťuká na dveře.
 
@@ -155,7 +165,9 @@ Potřebuju a hned.
 
 „Ne. Děkuju.“
 
-  
+</section>
+
+<section>
 
 Denis do koupelny nevidí. Slyší proud vody. A vzlykot.
 
@@ -193,7 +205,9 @@ Přisunu hranici se sušenkami blíž, aby se nemusel natahovat. Vytáhne dvě s
 
 „Vás třeba nikdy nezajímalo, jak žila za války _česká_ menšina? Mě ano, mě to poslední dobou zajímá hodně. Němci byli zhenleinizovaní tak, že tam nešlo žít. Řadu Čechů vystěhovali bez náhrady. Několik hospodářství zabral útvar SS Auswanderungsfund für Juden, plno domů a koželužnu –“
 
-  
+</section>
+
+<section>
 
 Vypínám zvuk, studuju napjatou tvář. O co mu jde? Zdusím osvětovou přednášku v samém zárodku. To jsem si mohla rovnou rozevřít potištěný plát novin. Jakýchkoli.
 
@@ -203,7 +217,9 @@ Vím to, no a co. Rozhryzat další pivní tácek ho nenechám.
 
 „Úplně stejně zblbli Češi v roce čtyřicet pět. Jenomže Češi měli být bystřejší, Denisi. Prožitých šest let je mohlo varovat. Měli dalším zrůdnostem zabránit. A především, a to si, Denisi, jednou provždy zapamatujte: já nechci být odškodněna jako _Němka_. Já chci být odškodněna jako člověk, kterému se stalo bezpráví. Jako člověk, jako občan, který byl postižen neprávem. Chci, aby se řeklo, že tady byl páchán zločin. – No co na mě tak vejráte?“
 
-  
+</section>
+
+<section>
 
 Denis nerozumí. Bože, jak ten nerozumí. Jen prohrabává a slepuje hromadu šrotu, rozkutálená kolečka. Porovnává roztroušené šroubky; nikam nepasují.
 
@@ -289,7 +305,9 @@ Jako servírka, která si po namáhavé šichtě, kdy šiky turistů v lokále 
 
 Léto končí. Během Denisovy návštěvy nebe kratince zčernalo. Sprchlo. Teď už mezi průsvitnými šedivými tyly zase svítí měsíc. V úplňku, který mě sceluje. Zbyly poslední kapky na zábradlí. Stoupám do schodů pěšky. Výtah minu. Ano, budu psát. To je moje záchranná vesta.
 
-  
+</section>
+
+<section>
 
 V tom bude moje síla. Snažit se porozumět _jejich_ životům. Bez rozdílu. Všechny obejmu do náruče. Jako bych nesla košík hub, které se vedle sebe natřásají, vyvyšují, překřikují a hádají o to, která z nich je důležitější, která chutnější a která má právo na větší prostor. V sladkém nevědomí, že za pár minut se na pánvi neodvratně usmaží. V sladkém nevědomí o tom, že už v sobě přece nosí smrt, smrt začala. Vteřinou početí.
 
@@ -313,7 +331,9 @@ Paní Lauschmannová píše. Není minulost, přítomnost, budouc­nost; pomocn�
 
 Dopisuje a cizeluje. Dokumentuje svůj vnitřní vesmír. Sepisuje všechno, slátává nitky rozpadlého masa. Předhodí krvavý flák svého života těm supům. Ať ho vyklovou.
 
-  
+</section>
+
+<section>
 
 Vrátila jsem se z Rudolfina. V zbrusu nových, bledě modrých šatech. S tmavomodře kytičkovanými rukávy. Je babí léto; pavoučkové odlétají, rozfoukáni větrem.
 
@@ -345,7 +365,9 @@ Zrcadlo nad umyvadlem je zamlžené. Jsem tu sama. Nikdy tomu nebylo jinak.
 
 Chvatně se převléknu do pyžama. Je přece jen chladno, přehodím přes sebe župan. Zuby si vyčistím později. Zadívám se do ulice, hlouček ševelících diváků opouští protější budovu. Počkám, až zajdou, až se za nimi vypotácí Mistr Oujezdský a zabočí k Vltavě. Vždycky vyvrávorá jako poslední. Zamáváme si; pravidelný rituál těsně před tím, než usednu za svůj pracovní stůl. Než načnu první větu posledního úseku, který stál na počátku všeho.
 
-  
+</section>
+
+<section>
 
 Pak mě kdosi prudce bodne pod levou lopatku. A zanořený kord bezostyšně pootočí.
 
@@ -353,8 +375,12 @@ Vím, že zemřu. Finální vteřina. Myslím, že jsem připravena. Ale v té 
 
 Hák Smrti projel mou hrudí, Smrt vstala a neoblomně tiskla naviják, abych se jí nevysmekla. Jako už tolikrát. Ale já přece ještě nejsem připravena, ještě zdaleka ne, ještě se mi nechce zemřít, chci zakřičet a mrskám sebou, ještě ne, pane Bože, ještě se mi nechce zemřít, ještě nemám vyčištěné zuby, nejsem řádně oblečená, ještě jsem všechno nedořekla…
 
-  
+</section>
+
+<section>
 
 Borůvkový záznam na poslední stránce rozpijí zapomenuté kapky. Skanou z konečků vlasů. Přestože se lidského jehličí do poslední chvíle drží. Zuby nehty.
 
 Hlavně se udržet v lati, nezkolabovat, neječet.
+
+</section>
