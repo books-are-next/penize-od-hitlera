@@ -8,7 +8,8 @@
       "modified": "2021-08-18T06:28:14.315Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2471-9"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -31,158 +32,164 @@
     },
     "structure": [
       {
-        "filename": "penize_od_hitlera_001.md",
-        "xhtml": "penize_od_hitlera_001.xhtml",
-        "id": 0,
-        "role": "cover",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "penize_od_hitlera_002.md",
-        "xhtml": "penize_od_hitlera_002.xhtml",
-        "id": 1,
-        "role": "promo",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "penize_od_hitlera_003.md",
-        "xhtml": "penize_od_hitlera_003.xhtml",
-        "id": 2,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "penize_od_hitlera_004.md",
-        "xhtml": "penize_od_hitlera_004.xhtml",
-        "id": 3,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "penize_od_hitlera_005.md",
-        "xhtml": "penize_od_hitlera_005.xhtml",
-        "id": 4,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "penize_od_hitlera_006.md",
-        "xhtml": "penize_od_hitlera_006.xhtml",
-        "id": 5,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Prolog",
-        "subtitle": ""
-      },
-      {
-        "filename": "penize_od_hitlera_007.md",
-        "xhtml": "penize_od_hitlera_007.xhtml",
-        "id": 6,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Návrat první (léto 1945)",
-        "subtitle": "\n\n\n\n"
-      },
-      {
-        "filename": "penize_od_hitlera_008.md",
-        "xhtml": "penize_od_hitlera_008.xhtml",
-        "id": 7,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Návrat druhý (léto 2005)",
-        "subtitle": ""
-      },
-      {
-        "filename": "penize_od_hitlera_009.md",
-        "xhtml": "penize_od_hitlera_009.xhtml",
-        "id": 8,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Návrat třetí (léto 2005)",
-        "subtitle": ""
-      },
-      {
-        "filename": "penize_od_hitlera_010.md",
-        "xhtml": "penize_od_hitlera_010.xhtml",
-        "id": 9,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Návrat čtvrtý (pozdní léto 2005)",
-        "subtitle": ""
-      },
-      {
-        "filename": "penize_od_hitlera_011.md",
-        "xhtml": "penize_od_hitlera_011.xhtml",
-        "id": 10,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Návrat pátý (pozdní léto 2005)",
-        "subtitle": ""
-      },
-      {
-        "filename": "penize_od_hitlera_012.md",
-        "xhtml": "penize_od_hitlera_012.xhtml",
-        "id": 11,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Návrat šestý (podzim 2005)",
-        "subtitle": ""
-      },
-      {
-        "filename": "penize_od_hitlera_013.md",
-        "xhtml": "penize_od_hitlera_013.xhtml",
-        "id": 12,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Epilog",
-        "subtitle": ""
-      },
-      {
-        "filename": "penize_od_hitlera_014.md",
-        "xhtml": "penize_od_hitlera_014.xhtml",
-        "id": 13,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "penize_od_hitlera_001.md",
+            "xhtml": "penize_od_hitlera_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "penize_od_hitlera_002.md",
+            "xhtml": "penize_od_hitlera_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "penize_od_hitlera_003.md",
+            "xhtml": "penize_od_hitlera_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "penize_od_hitlera_004.md",
+            "xhtml": "penize_od_hitlera_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "penize_od_hitlera_005.md",
+            "xhtml": "penize_od_hitlera_005.xhtml",
+            "id": 4,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "penize_od_hitlera_006.md",
+            "xhtml": "penize_od_hitlera_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Prolog",
+            "subtitle": ""
+          },
+          {
+            "filename": "penize_od_hitlera_007.md",
+            "xhtml": "penize_od_hitlera_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Návrat první (léto 1945)",
+            "subtitle": "\n\n\n\n"
+          },
+          {
+            "filename": "penize_od_hitlera_008.md",
+            "xhtml": "penize_od_hitlera_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Návrat druhý (léto 2005)",
+            "subtitle": ""
+          },
+          {
+            "filename": "penize_od_hitlera_009.md",
+            "xhtml": "penize_od_hitlera_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Návrat třetí (léto 2005)",
+            "subtitle": ""
+          },
+          {
+            "filename": "penize_od_hitlera_010.md",
+            "xhtml": "penize_od_hitlera_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Návrat čtvrtý (pozdní léto 2005)",
+            "subtitle": ""
+          },
+          {
+            "filename": "penize_od_hitlera_011.md",
+            "xhtml": "penize_od_hitlera_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Návrat pátý (pozdní léto 2005)",
+            "subtitle": ""
+          },
+          {
+            "filename": "penize_od_hitlera_012.md",
+            "xhtml": "penize_od_hitlera_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Návrat šestý (podzim 2005)",
+            "subtitle": ""
+          },
+          {
+            "filename": "penize_od_hitlera_013.md",
+            "xhtml": "penize_od_hitlera_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Epilog",
+            "subtitle": ""
+          },
+          {
+            "filename": "penize_od_hitlera_014.md",
+            "xhtml": "penize_od_hitlera_014.xhtml",
+            "id": 13,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          }
+        ]
       }
     ]
   },
@@ -347,6 +354,6 @@
       "user": "books-are-next",
       "repo": "penize-od-hitlera"
     },
-    "generatedAt": 1654948701857
+    "generatedAt": 1655155791838
   }
 }

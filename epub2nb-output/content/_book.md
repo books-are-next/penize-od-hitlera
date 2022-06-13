@@ -12,6 +12,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2471-9
 readingOrder:
   - promo.html
   - penize_od_hitlera_006.html
@@ -24,22 +25,25 @@ readingOrder:
   - penize_od_hitlera_013.html
   - colophon.html
 tocBase:
-  - link: penize_od_hitlera_006.html
-    title: Prolog
-  - link: penize_od_hitlera_007.html
-    title: Návrat první (léto 1945)
-  - link: penize_od_hitlera_008.html
-    title: Návrat druhý (léto 2005)
-  - link: penize_od_hitlera_009.html
-    title: Návrat třetí (léto 2005)
-  - link: penize_od_hitlera_010.html
-    title: Návrat čtvrtý (pozdní léto 2005)
-  - link: penize_od_hitlera_011.html
-    title: Návrat pátý (pozdní léto 2005)
-  - link: penize_od_hitlera_012.html
-    title: Návrat šestý (podzim 2005)
-  - link: penize_od_hitlera_013.html
-    title: Epilog
+  - id: section-1
+    children:
+      - link: penize_od_hitlera_006.html
+        title: Prolog
+      - link: penize_od_hitlera_007.html
+        title: Návrat první (léto 1945)
+      - link: penize_od_hitlera_008.html
+        title: Návrat druhý (léto 2005)
+      - link: penize_od_hitlera_009.html
+        title: Návrat třetí (léto 2005)
+      - link: penize_od_hitlera_010.html
+        title: Návrat čtvrtý (pozdní léto 2005)
+      - link: penize_od_hitlera_011.html
+        title: Návrat pátý (pozdní léto 2005)
+      - link: penize_od_hitlera_012.html
+        title: Návrat šestý (podzim 2005)
+      - link: penize_od_hitlera_013.html
+        title: Epilog
+    isSection: true
 static:
   - style
   - scripts
