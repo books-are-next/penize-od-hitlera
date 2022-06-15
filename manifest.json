@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "denemarkova-penize-od-hitlera-9ad9e42",
-  "revision": "9ad9e42",
+  "identifier": "denemarkova-penize-od-hitlera-cda4ba5",
+  "revision": "cda4ba5",
   "readingOrder": [
     "promo.html",
     "penize_od_hitlera_006.html",
@@ -23,8 +23,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 22:00:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157654820
+    "date": "Wed Jun 15 2022 05:54:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272499309
   },
   "documents": [
     {
@@ -656,9 +656,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 177,
-      "chars": 1110,
-      "ideas": 27,
+      "words": 195,
+      "chars": 1254,
+      "ideas": 28,
       "role": "colophon",
       "order": null,
       "prev": "penize_od_hitlera_013.html",
@@ -676,9 +676,9 @@
   ],
   "totals": {
     "all": {
-      "words": 50301,
-      "chars": 317396,
-      "ideas": 2231
+      "words": 50319,
+      "chars": 317540,
+      "ideas": 2232
     },
     "chapters": {
       "words": 50117,
