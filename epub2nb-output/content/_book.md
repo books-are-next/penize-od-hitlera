@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
   isbn: 978-80-274-2471-9
+  contentType: prose
 readingOrder:
   - promo.html
   - penize_od_hitlera_006.html

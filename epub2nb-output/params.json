@@ -9,7 +9,8 @@
       "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie",
-      "isbn": "978-80-274-2471-9"
+      "isbn": "978-80-274-2471-9",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -354,6 +355,6 @@
       "user": "books-are-next",
       "repo": "penize-od-hitlera"
     },
-    "generatedAt": 1655271588647
+    "generatedAt": 1655364266834
   }
 }
