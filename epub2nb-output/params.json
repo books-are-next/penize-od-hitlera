@@ -62,7 +62,7 @@
             "filename": "penize_od_hitlera_003.md",
             "xhtml": "penize_od_hitlera_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -73,7 +73,7 @@
             "filename": "penize_od_hitlera_004.md",
             "xhtml": "penize_od_hitlera_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -84,7 +84,7 @@
             "filename": "penize_od_hitlera_005.md",
             "xhtml": "penize_od_hitlera_005.xhtml",
             "id": 4,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -183,7 +183,7 @@
             "filename": "penize_od_hitlera_014.md",
             "xhtml": "penize_od_hitlera_014.xhtml",
             "id": 13,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -355,6 +355,6 @@
       "user": "books-are-next",
       "repo": "penize-od-hitlera"
     },
-    "generatedAt": 1655979336993
+    "generatedAt": 1657182298058
   }
 }
