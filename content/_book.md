@@ -24,7 +24,7 @@ readingOrder:
   - penize_od_hitlera_011.html
   - penize_od_hitlera_012.html
   - penize_od_hitlera_013.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
