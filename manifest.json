@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "denemarkova-penize-od-hitlera-c6733ce",
-  "revision": "c6733ce",
+  "identifier": "denemarkova-penize-od-hitlera-350f110",
+  "revision": "350f110",
   "readingOrder": [
     "promo.html",
     "penize_od_hitlera_006.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:01:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924471725
+    "date": "Fri Oct 07 2022 07:11:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665126691283
   },
   "documents": [
     {
